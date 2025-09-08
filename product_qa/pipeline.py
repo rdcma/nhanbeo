@@ -387,9 +387,13 @@ Từ khóa: {json.dumps(keywords, ensure_ascii=False)}
 
 
 def _select_final_product(
-    keywords: List[str], candidates: List[Dict], reranked: Optional[Dict], preferred_ids: Optional[set] = None
+    keywords: List[str],
+    candidates: List[Dict],
+    reranked: Optional[Dict],
+    preferred_ids: Optional[set] = None,
+    min_score: float = 0.6,
 ) -> Dict:
-    # Ưu tiên keyword có nhiều từ hơn (>= 3 từ). Chọn ra đúng 1 sản phẩm cuối cùng.
+    # Ưu tiên keyword có nhiều từ hơn (>= 2 từ). Chọn ra đúng 1 sản phẩm cuối cùng, bắt buộc score >= min_score.
     def count_words(s: Optional[str]) -> int:
         if not s:
             return 0
@@ -399,17 +403,21 @@ def _select_final_product(
     id_to_priority = {c["display_id"]: int(c.get("priority", 1_000_000)) for c in candidates}
 
     selections = (reranked or {}).get("selections", []) if isinstance(reranked, dict) else []
+    # Chỉ xét candidates đạt ngưỡng điểm
+    eligible_cands = [c for c in candidates if float(c.get("score", 0.0)) >= min_score]
+    eligible_ids = {c["display_id"] for c in eligible_cands}
     if selections:
-        # Lọc selections theo keyword >= 3 từ; nếu rỗng, dùng toàn bộ
-        eligible = [s for s in selections if count_words(s.get("keyword")) >= 3]
-        pool = eligible if eligible else selections
+        # Lọc selections theo keyword >= 2 từ; nếu rỗng, dùng toàn bộ
+        eligible_sel = [s for s in selections if count_words(s.get("keyword")) >= 2]
+        pool = eligible_sel if eligible_sel else selections
         # Chọn selection có keyword dài nhất (nhiều từ nhất)
         chosen = None
         for s in pool:
             if chosen is None or count_words(s.get("keyword")) > count_words(chosen.get("keyword")):
                 chosen = s
         if chosen and chosen.get("display_ids"):
-            dids = chosen.get("display_ids", [])
+            # Chỉ giữ các id đạt ngưỡng điểm
+            dids = [d for d in chosen.get("display_ids", []) if d in eligible_ids]
             # Ưu tiên preferred_ids nếu có, sau đó theo thứ hạng trong candidates
             def rank_key(d: str) -> tuple:
                 pref = 0 if (preferred_ids and d in preferred_ids) else 1
@@ -418,24 +426,30 @@ def _select_final_product(
                 return (pref, pri, idx)
             best_id = min(dids, key=rank_key) if dids else None
             if best_id is not None:
-                detail = next((c for c in candidates if c["display_id"] == best_id), None)
+                detail = next((c for c in eligible_cands if c["display_id"] == best_id), None)
                 if detail:
                     return {"keyword": chosen.get("keyword"), "product": detail}
     # Fallback: chọn top-1 từ danh sách tổng hợp
-    if candidates:
+    if eligible_cands:
         # Nếu có preferred_ids, chọn candidate thuộc preferred có priority nhỏ nhất
         if preferred_ids:
-            preferred_cands = [c for c in candidates if c.get("display_id") in preferred_ids]
+            preferred_cands = [c for c in eligible_cands if c.get("display_id") in preferred_ids]
             if preferred_cands:
                 best = min(preferred_cands, key=lambda c: int(c.get("priority", 1_000_000)))
                 return {"keyword": None, "product": best}
         # Nếu không có preferred, chọn candidate có priority nhỏ nhất
-        best = min(candidates, key=lambda c: int(c.get("priority", 1_000_000)))
+        best = min(eligible_cands, key=lambda c: int(c.get("priority", 1_000_000)))
         return {"keyword": None, "product": best}
     return {"keyword": None, "product": None}
 
 
-def product_qa_pipeline(csv_path: Optional[str] = None, build_embedding: bool = False, preferred_ids: Optional[set] = None, api_url: Optional[str] = None):
+def product_qa_pipeline(
+    csv_path: Optional[str] = None,
+    build_embedding: bool = False,
+    preferred_ids: Optional[set] = None,
+    api_url: Optional[str] = None,
+    min_final_score: float = 0.6,
+):
     load_api_key()
     if api_url:
         df = load_products_from_api(api_url)
@@ -456,7 +470,9 @@ def product_qa_pipeline(csv_path: Optional[str] = None, build_embedding: bool = 
         if not cands:
             return {"intent": intent, "keywords": keywords, "results": []}
         reranked = rerank_with_llm(user_text, keywords, cands)
-        final_pick = _select_final_product(keywords, cands, reranked, preferred_ids=preferred_ids)
+        final_pick = _select_final_product(
+            keywords, cands, reranked, preferred_ids=preferred_ids, min_score=min_final_score
+        )
         return {
             "intent": intent,
             "keywords": keywords,
