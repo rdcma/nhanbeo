@@ -1,0 +1,1031 @@
+[
+  {
+    "raw": "CTY young tếch, mỹ ân xã chí minh hải phòng",
+    "top1": {
+      "phone_number": null,
+      "address": "CTY young tếch mỹ ân",
+      "commune_name": "Chí Minh",
+      "district_name": null,
+      "province_name": "Hải Phòng",
+      "full_address": "CTY young tếch mỹ ân Chí Minh Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "CTY young tếch mỹ ân",
+        "commune_name": "Chí Minh",
+        "district_name": null,
+        "province_name": "Hải Phòng",
+        "full_address": "CTY young tếch mỹ ân Chí Minh Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "103",
+      "district_id": "10313",
+      "commune_id": null,
+      "province_name": "Hải Phòng",
+      "district_name": "Quận An Dương",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận An Dương -> ID: 10313"
+      ],
+      "errors": [
+        "Không tìm thấy xã: chi minh trong huyện Quận An Dương"
+      ]
+    }
+  },
+  {
+    "raw": "số 6 ngách 16/25 Đỗ Xuân Hợp, phường Từ Liêm, HN( đc cũ phường Mỹ Đình 1, Nam Từ Liêm, HN)",
+    "top1": {
+      "phone_number": null,
+      "address": "Số 6 ngách 16/25 Đỗ Xuân Hợp",
+      "commune_name": "Từ Liêm",
+      "district_name": null,
+      "province_name": "Hà Nội",
+      "full_address": "Số 6 ngách 16/25 Đỗ Xuân Hợp Từ Liêm Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số 6 ngách 16/25 Đỗ Xuân Hợp",
+        "commune_name": "Từ Liêm",
+        "district_name": null,
+        "province_name": "Hà Nội",
+        "full_address": "Số 6 ngách 16/25 Đỗ Xuân Hợp Từ Liêm Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "101",
+      "district_id": "10155",
+      "commune_id": null,
+      "province_name": "Hà Nội",
+      "district_name": "Quận Bắc Từ Liêm",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Bắc Từ Liêm -> ID: 10155"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tu liem trong huyện Quận Bắc Từ Liêm"
+      ]
+    }
+  },
+  {
+    "raw": "153 Nguyễn Văn Tăng, phường Long Thạnh Mỹ, Thủ Đức",
+    "top1": {
+      "phone_number": null,
+      "address": "153 Nguyễn Văn Tăng",
+      "commune_name": "Long Thạnh Mỹ",
+      "district_name": "Thủ Đức",
+      "province_name": null,
+      "full_address": "153 Nguyễn Văn Tăng Long Thạnh Mỹ Thủ Đức"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "153 Nguyễn Văn Tăng",
+        "commune_name": "Long Thạnh Mỹ",
+        "district_name": "Thủ Đức",
+        "province_name": null,
+        "full_address": "153 Nguyễn Văn Tăng Long Thạnh Mỹ Thủ Đức"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "805",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "An Giang",
+      "district_name": null,
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: An Giang -> ID: 805"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: thu duc trong tỉnh An Giang"
+      ]
+    }
+  },
+  {
+    "raw": "Sn 11/11/68 phố ái sơn 2 phường hạc thành TP thanh hóa 0982176152",
+    "top1": {
+      "phone_number": "0982176152",
+      "address": "Sn 11/11/68 phố ái sơn 2",
+      "commune_name": "Hạc Thành",
+      "district_name": "Thanh Hóa",
+      "province_name": "Thanh Hóa",
+      "full_address": "Sn 11/11/68 phố ái sơn 2 Hạc Thành Thanh Hóa Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": "0982176152",
+        "address": "Sn 11/11/68 phố ái sơn 2",
+        "commune_name": "Hạc Thành",
+        "district_name": "Thanh Hóa",
+        "province_name": "Thanh Hóa",
+        "full_address": "Sn 11/11/68 phố ái sơn 2 Hạc Thành Thanh Hóa Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "401",
+      "district_id": "40101",
+      "commune_id": null,
+      "province_name": "Thanh Hóa",
+      "district_name": "Thành phố Thanh Hoá",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401",
+        "Huyện: Thành phố Thanh Hoá -> ID: 40101"
+      ],
+      "errors": [
+        "Không tìm thấy xã: hac thanh trong huyện Thành phố Thanh Hoá"
+      ]
+    }
+  },
+  {
+    "raw": "Tổ dân phố số 5, phường Bạch Đằng, tp Hải Phòng ( địa chỉ cũ: thôn 5 Trung Sơn, xã Ngũ Lão, Thủy Nguyên, tp Hải Phòng )",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ dân phố số 5",
+      "commune_name": "Bạch Đằng",
+      "district_name": "Ngô Quyền",
+      "province_name": "Hải Phòng",
+      "full_address": "Tổ dân phố số 5 Bạch Đằng Ngô Quyền Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ dân phố số 5",
+        "commune_name": "Bạch Đằng",
+        "district_name": "Ngô Quyền",
+        "province_name": "Hải Phòng",
+        "full_address": "Tổ dân phố số 5 Bạch Đằng Ngô Quyền Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "103",
+      "district_id": "10303",
+      "commune_id": null,
+      "province_name": "Hải Phòng",
+      "district_name": "Quận Ngô Quyền",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận Ngô Quyền -> ID: 10303"
+      ],
+      "errors": [
+        "Không tìm thấy xã: bach dang trong huyện Quận Ngô Quyền"
+      ]
+    }
+  },
+  {
+    "raw": "0384090345.tân phong Thạch Khê thành phố Hà Tĩnh",
+    "top1": {
+      "phone_number": "0384090345",
+      "address": "tân phong",
+      "commune_name": "Thạch Khê",
+      "district_name": "Hà Tĩnh",
+      "province_name": "Hà Tĩnh",
+      "full_address": "tân phong Thạch Khê Hà Tĩnh Hà Tĩnh"
+    },
+    "variants": [
+      {
+        "phone_number": "0384090345",
+        "address": "tân phong",
+        "commune_name": "Thạch Khê",
+        "district_name": "Hà Tĩnh",
+        "province_name": "Hà Tĩnh",
+        "full_address": "tân phong Thạch Khê Hà Tĩnh Hà Tĩnh"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "803",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Đồng Tháp",
+      "district_name": null,
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Đồng Tháp -> ID: 803"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: ha tinh trong tỉnh Đồng Tháp"
+      ]
+    }
+  },
+  {
+    "raw": "Địa chỉ ba đồng ky phương thị xã kỳ anh ha Tĩnh sdt 0977982940",
+    "top1": {
+      "phone_number": "0977982940",
+      "address": "Ba Đồng",
+      "commune_name": "Kỳ Phương",
+      "district_name": "Kỳ Anh",
+      "province_name": "Hà Tĩnh",
+      "full_address": "Ba Đồng Kỳ Phương Kỳ Anh Hà Tĩnh"
+    },
+    "variants": [
+      {
+        "phone_number": "0977982940",
+        "address": "Ba Đồng",
+        "commune_name": "Kỳ Phương",
+        "district_name": "Kỳ Anh",
+        "province_name": "Hà Tĩnh",
+        "full_address": "Ba Đồng Kỳ Phương Kỳ Anh Hà Tĩnh"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "803",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Đồng Tháp",
+      "district_name": null,
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Đồng Tháp -> ID: 803"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: ky anh trong tỉnh Đồng Tháp"
+      ]
+    }
+  },
+  {
+    "raw": "Nguyễn Thị Loan , Trường Mầm non hoạ my, tứ mỹ, phùng chí kiên, đường hào, hưng yên",
+    "top1": {
+      "phone_number": null,
+      "address": "Trường Mầm non hoạ my Phùng Chí Kiên",
+      "commune_name": "Tứ Mỹ",
+      "district_name": "Mỹ Hào",
+      "province_name": "Hưng Yên",
+      "full_address": "Trường Mầm non hoạ my Phùng Chí Kiên Tứ Mỹ Mỹ Hào Hưng Yên"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Trường Mầm non hoạ my Phùng Chí Kiên",
+        "commune_name": "Tứ Mỹ",
+        "district_name": "Mỹ Hào",
+        "province_name": "Hưng Yên",
+        "full_address": "Trường Mầm non hoạ my Phùng Chí Kiên Tứ Mỹ Mỹ Hào Hưng Yên"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "109",
+      "district_id": "10903",
+      "commune_id": null,
+      "province_name": "Hưng Yên",
+      "district_name": "Thị xã Mỹ Hào",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hưng Yên -> ID: 109",
+        "Huyện: Thị xã Mỹ Hào -> ID: 10903"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tu my trong huyện Thị xã Mỹ Hào"
+      ]
+    }
+  },
+  {
+    "raw": "Công ty may hoàng sơn.xã  trung chính.tỉnh thanh hóa 0982421228",
+    "top1": {
+      "phone_number": "0982421228",
+      "address": "Công ty may hoàng sơn",
+      "commune_name": "Trung Chính",
+      "district_name": null,
+      "province_name": "Thanh Hóa",
+      "full_address": "Công ty may hoàng sơn Trung Chính Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": "0982421228",
+        "address": "Công ty may hoàng sơn",
+        "commune_name": "Trung Chính",
+        "district_name": null,
+        "province_name": "Thanh Hóa",
+        "full_address": "Công ty may hoàng sơn Trung Chính Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "401",
+      "district_id": "40113",
+      "commune_id": null,
+      "province_name": "Thanh Hóa",
+      "district_name": "Huyện Bá Thước",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401",
+        "Huyện: Huyện Bá Thước -> ID: 40113"
+      ],
+      "errors": [
+        "Không tìm thấy xã: trung chinh trong huyện Huyện Bá Thước"
+      ]
+    }
+  },
+  {
+    "raw": "850 đường 30.4 phường 11 Vũng tàu",
+    "top1": {
+      "phone_number": null,
+      "address": "850 đường 30.4",
+      "commune_name": "Phường 11",
+      "district_name": "Thành phố Vũng Tàu",
+      "province_name": "Bà Rịa - Vũng Tàu",
+      "full_address": "850 đường 30.4 Phường 11 Vũng Tàu Bà Rịa Vũng Tàu"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "850 đường 30.4",
+        "commune_name": "Phường 11",
+        "district_name": "Thành phố Vũng Tàu",
+        "province_name": "Bà Rịa - Vũng Tàu",
+        "full_address": "850 đường 30.4 Phường 11 Vũng Tàu Bà Rịa Vũng Tàu"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": null,
+      "district_id": null,
+      "commune_id": null,
+      "province_name": null,
+      "district_name": null,
+      "commune_name": null,
+      "found_items": [],
+      "errors": [
+        "Không tìm thấy tỉnh: ba ria - vung tau"
+      ]
+    }
+  },
+  {
+    "raw": "Thôn 4 xã quảng tín huyện đắk R'lấp tỉnh đắk Nông",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn 4",
+      "commune_name": "Quảng Tín",
+      "district_name": "Đắk R'lấp",
+      "province_name": "Đắk Nông",
+      "full_address": "Thôn 4 Quảng Tín Đắk R'lấp Đắk Nông"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn 4",
+        "commune_name": "Quảng Tín",
+        "district_name": "Đắk R'lấp",
+        "province_name": "Đắk Nông",
+        "full_address": "Thôn 4 Quảng Tín Đắk R'lấp Đắk Nông"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "606",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Đắk Nông",
+      "district_name": null,
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Đắk Nông -> ID: 606"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: dak r'lap trong tỉnh Đắk Nông"
+      ]
+    }
+  },
+  {
+    "raw": "Nhà số 7, ngõ 319 đường Phạm hồng thái, khối châu hưng, phường trường vinh, tỉnh nghệ an",
+    "top1": {
+      "phone_number": null,
+      "address": "Nhà số 7 ngõ 319 đường Phạm hồng thái khối châu hưng",
+      "commune_name": "Trường Vinh",
+      "district_name": "Hoàng Mai",
+      "province_name": "Nghệ An",
+      "full_address": "Nhà số 7 ngõ 319 đường Phạm hồng thái khối châu hưng Trường Vinh Hoàng Mai Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Nhà số 7 ngõ 319 đường Phạm hồng thái khối châu hưng",
+        "commune_name": "Trường Vinh",
+        "district_name": "Hoàng Mai",
+        "province_name": "Nghệ An",
+        "full_address": "Nhà số 7 ngõ 319 đường Phạm hồng thái khối châu hưng Trường Vinh Hoàng Mai Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "403",
+      "district_id": "40338",
+      "commune_id": null,
+      "province_name": "Nghệ An",
+      "district_name": "Thị xã Hoàng Mai",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Thị xã Hoàng Mai -> ID: 40338"
+      ],
+      "errors": [
+        "Không tìm thấy xã: truong vinh trong huyện Thị xã Hoàng Mai"
+      ]
+    }
+  },
+  {
+    "raw": "Sn 255 đường mai thúc loan. Phường thạch hưng tỉnh hà tĩnh",
+    "top1": {
+      "phone_number": null,
+      "address": "255 Đường Mai Thúc Loan",
+      "commune_name": "Thạch Hưng",
+      "district_name": null,
+      "province_name": "Hà Tĩnh",
+      "full_address": "255 Đường Mai Thúc Loan Thạch Hưng Hà Tĩnh"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "255 Đường Mai Thúc Loan",
+        "commune_name": "Thạch Hưng",
+        "district_name": null,
+        "province_name": "Hà Tĩnh",
+        "full_address": "255 Đường Mai Thúc Loan Thạch Hưng Hà Tĩnh"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "803",
+      "district_id": "80301",
+      "commune_id": null,
+      "province_name": "Đồng Tháp",
+      "district_name": "Thành phố Cao Lãnh",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Đồng Tháp -> ID: 803",
+        "Huyện: Thành phố Cao Lãnh -> ID: 80301"
+      ],
+      "errors": [
+        "Không tìm thấy xã: thach hung trong huyện Thành phố Cao Lãnh"
+      ]
+    }
+  },
+  {
+    "raw": "Về đ/c Sáu Đinh xóm 8, Thanh do, xã Nam Thuỵ Anh, tỉnh Hưng Yên/ 0393293278",
+    "top1": {
+      "phone_number": "0393293278",
+      "address": "Sáu Đinh xóm 8 Thanh do",
+      "commune_name": "Nam Thuỵ Anh",
+      "district_name": null,
+      "province_name": "Hưng Yên",
+      "full_address": "Sáu Đinh xóm 8 Thanh do Nam Thuỵ Anh Hưng Yên"
+    },
+    "variants": [
+      {
+        "phone_number": "0393293278",
+        "address": "Sáu Đinh xóm 8 Thanh do",
+        "commune_name": "Nam Thuỵ Anh",
+        "district_name": null,
+        "province_name": "Hưng Yên",
+        "full_address": "Sáu Đinh xóm 8 Thanh do Nam Thuỵ Anh Hưng Yên"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "109",
+      "district_id": "10907",
+      "commune_id": null,
+      "province_name": "Hưng Yên",
+      "district_name": "Huyện Ân Thi",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hưng Yên -> ID: 109",
+        "Huyện: Huyện Ân Thi -> ID: 10907"
+      ],
+      "errors": [
+        "Không tìm thấy xã: nam thuy anh trong huyện Huyện Ân Thi"
+      ]
+    }
+  },
+  {
+    "raw": "0903427856 số 3/67 phố thái thịnh đống đa HN",
+    "top1": {
+      "phone_number": "0903427856",
+      "address": "3/67 phố",
+      "commune_name": "Thái Thịnh",
+      "district_name": "Đống Đa",
+      "province_name": "Hà Nội",
+      "full_address": "3/67 phố Thái Thịnh Đống Đa Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0903427856",
+        "address": "3/67 phố",
+        "commune_name": "Thái Thịnh",
+        "district_name": "Đống Đa",
+        "province_name": "Hà Nội",
+        "full_address": "3/67 phố Thái Thịnh Đống Đa Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "101",
+      "district_id": "10109",
+      "commune_id": null,
+      "province_name": "Hà Nội",
+      "district_name": "Quận Đống Đa",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Đống Đa -> ID: 10109"
+      ],
+      "errors": [
+        "Không tìm thấy xã: thai thinh trong huyện Quận Đống Đa"
+      ]
+    }
+  },
+  {
+    "raw": "CT 10B, xã Đại Thanh, Hà nội/ 0393293278",
+    "top1": {
+      "phone_number": "0393293278",
+      "address": "CT 10B",
+      "commune_name": "Đại Thanh",
+      "district_name": "Mỹ Đức",
+      "province_name": "Hà Nội",
+      "full_address": "CT 10B Đại Thanh Mỹ Đức Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0393293278",
+        "address": "CT 10B",
+        "commune_name": "Đại Thanh",
+        "district_name": "Mỹ Đức",
+        "province_name": "Hà Nội",
+        "full_address": "CT 10B Đại Thanh Mỹ Đức Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "101",
+      "district_id": "10147",
+      "commune_id": null,
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Mỹ Đức",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Mỹ Đức -> ID: 10147"
+      ],
+      "errors": [
+        "Không tìm thấy xã: dai thanh trong huyện Huyện Mỹ Đức"
+      ]
+    }
+  },
+  {
+    "raw": "Phan văn đàm số nhà 27 tổ1 phường nam thanh thành phố điện biên",
+    "top1": {
+      "phone_number": null,
+      "address": "27 Tổ 1 Phan Văn Đàm",
+      "commune_name": "Nam Thanh",
+      "district_name": "Thành phố Điện Biên",
+      "province_name": "Điện Biên",
+      "full_address": "27 Tổ 1 Phan Văn Đàm Nam Thanh Thành phố Điện Biên Điện Biên"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "27 Tổ 1 Phan Văn Đàm",
+        "commune_name": "Nam Thanh",
+        "district_name": "Thành phố Điện Biên",
+        "province_name": "Điện Biên",
+        "full_address": "27 Tổ 1 Phan Văn Đàm Nam Thanh Thành phố Điện Biên Điện Biên"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "302",
+      "district_id": "30217",
+      "commune_id": null,
+      "province_name": "Điện Biên",
+      "district_name": "Huyện Điện Biên",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Điện Biên -> ID: 302",
+        "Huyện: Huyện Điện Biên -> ID: 30217"
+      ],
+      "errors": [
+        "Không tìm thấy xã: nam thanh trong huyện Huyện Điện Biên"
+      ]
+    }
+  },
+  {
+    "raw": "trung tâm kiểm soát bệnh tật đăk nông đường trần hưng đạo to 3 p đông gia nghĩa tỉnh lâm đồng",
+    "top1": {
+      "phone_number": null,
+      "address": "trung tâm kiểm soát bệnh tật đăk nông đường trần hưng đạo to 3",
+      "commune_name": "Đông Gia Nghĩa",
+      "district_name": null,
+      "province_name": "Lâm Đồng",
+      "full_address": "trung tâm kiểm soát bệnh tật đăk nông đường trần hưng đạo to 3 Đông Gia Nghĩa Lâm Đồng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "trung tâm kiểm soát bệnh tật đăk nông đường trần hưng đạo to 3",
+        "commune_name": "Đông Gia Nghĩa",
+        "district_name": null,
+        "province_name": "Lâm Đồng",
+        "full_address": "trung tâm kiểm soát bệnh tật đăk nông đường trần hưng đạo to 3 Đông Gia Nghĩa Lâm Đồng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "607",
+      "district_id": "60713",
+      "commune_id": null,
+      "province_name": "Lâm Đồng",
+      "district_name": "Huyện Bảo Lâm",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Lâm Đồng -> ID: 607",
+        "Huyện: Huyện Bảo Lâm -> ID: 60713"
+      ],
+      "errors": [
+        "Không tìm thấy xã: dong gia nghia trong huyện Huyện Bảo Lâm"
+      ]
+    }
+  },
+  {
+    "raw": "Nguyễn hoàng linh đối diện trạm xá thổ hoàng - ân thi tỉnh hưng yên",
+    "top1": {
+      "phone_number": null,
+      "address": "Nguyễn hoàng linh đối diện trạm xá",
+      "commune_name": "Thổ Hoàng",
+      "district_name": "Ân Thi",
+      "province_name": "Hưng Yên",
+      "full_address": "Nguyễn hoàng linh đối diện trạm xá Thổ Hoàng Ân Thi Hưng Yên"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Nguyễn hoàng linh đối diện trạm xá",
+        "commune_name": "Thổ Hoàng",
+        "district_name": "Ân Thi",
+        "province_name": "Hưng Yên",
+        "full_address": "Nguyễn hoàng linh đối diện trạm xá Thổ Hoàng Ân Thi Hưng Yên"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "109",
+      "district_id": "10907",
+      "commune_id": null,
+      "province_name": "Hưng Yên",
+      "district_name": "Huyện Ân Thi",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hưng Yên -> ID: 109",
+        "Huyện: Huyện Ân Thi -> ID: 10907"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tho hoang trong huyện Huyện Ân Thi"
+      ]
+    }
+  },
+  {
+    "raw": "Địa chỉ. Khu 6.\nXã Đại Phạm \nHạ Hòa \nPhú Thọ (cũ,)\nXã Đan Thượng  tỉnh Lào Cai",
+    "top1": {
+      "phone_number": null,
+      "address": null,
+      "commune_name": "Đan Thượng",
+      "district_name": null,
+      "province_name": "Lào Cai",
+      "full_address": "Đan Thượng Lào Cai"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": null,
+        "commune_name": "Đan Thượng",
+        "district_name": null,
+        "province_name": "Lào Cai",
+        "full_address": "Đan Thượng Lào Cai"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "205",
+      "district_id": "20509",
+      "commune_id": null,
+      "province_name": "Lào Cai",
+      "district_name": "Huyện Bắc Hà",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Lào Cai -> ID: 205",
+        "Huyện: Huyện Bắc Hà -> ID: 20509"
+      ],
+      "errors": [
+        "Không tìm thấy xã: dan thuong trong huyện Huyện Bắc Hà"
+      ]
+    }
+  },
+  {
+    "raw": "Cty Lưu Đức. Xã la phìn. Huyen Chư prõng gia lai",
+    "top1": {
+      "phone_number": null,
+      "address": "Cty Lưu Đức",
+      "commune_name": "La Phìn",
+      "district_name": "Chư Prông",
+      "province_name": "Gia Lai",
+      "full_address": "Cty Lưu Đức La Phìn Chư Prông Gia Lai"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Cty Lưu Đức",
+        "commune_name": "La Phìn",
+        "district_name": "Chư Prông",
+        "province_name": "Gia Lai",
+        "full_address": "Cty Lưu Đức La Phìn Chư Prông Gia Lai"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "603",
+      "district_id": "60317",
+      "commune_id": null,
+      "province_name": "Gia Lai",
+      "district_name": "Huyện Chư Prông",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Gia Lai -> ID: 603",
+        "Huyện: Huyện Chư Prông -> ID: 60317"
+      ],
+      "errors": [
+        "Không tìm thấy xã: la phin trong huyện Huyện Chư Prông"
+      ]
+    }
+  },
+  {
+    "raw": "Chùa ÔSA, Xã Đan Điền, TP Huế",
+    "top1": {
+      "phone_number": null,
+      "address": "Chùa ÔSA",
+      "commune_name": "Đan Điền",
+      "district_name": "Huế",
+      "province_name": "Thừa Thiên Huế",
+      "full_address": "Chùa ÔSA Đan Điền Huế Thừa Thiên Huế"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Chùa ÔSA",
+        "commune_name": "Đan Điền",
+        "district_name": "Huế",
+        "province_name": "Thừa Thiên Huế",
+        "full_address": "Chùa ÔSA Đan Điền Huế Thừa Thiên Huế"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "411",
+      "district_id": "41101",
+      "commune_id": null,
+      "province_name": "Thừa Thiên Huế",
+      "district_name": "Thành phố Huế",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Thừa Thiên Huế -> ID: 411",
+        "Huyện: Thành phố Huế -> ID: 41101"
+      ],
+      "errors": [
+        "Không tìm thấy xã: dan dien trong huyện Thành phố Huế"
+      ]
+    }
+  },
+  {
+    "raw": "CẦU CÀ TY, QL1A, XUÂN TÀI, TP PHAN THIẾT, TỈNH BÌNH THUẬN",
+    "top1": {
+      "phone_number": null,
+      "address": "Cầu Cà Ty QL1A",
+      "commune_name": "Xuân Tài",
+      "district_name": "Phan Thiết",
+      "province_name": "Bình Thuận",
+      "full_address": "Cầu Cà Ty QL1A Xuân Tài Phan Thiết Bình Thuận"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Cầu Cà Ty QL1A",
+        "commune_name": "Xuân Tài",
+        "district_name": "Phan Thiết",
+        "province_name": "Bình Thuận",
+        "full_address": "Cầu Cà Ty QL1A Xuân Tài Phan Thiết Bình Thuận"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "715",
+      "district_id": "71501",
+      "commune_id": null,
+      "province_name": "Bình Thuận",
+      "district_name": "Thành phố Phan Thiết",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Bình Thuận -> ID: 715",
+        "Huyện: Thành phố Phan Thiết -> ID: 71501"
+      ],
+      "errors": [
+        "Không tìm thấy xã: xuan tai trong huyện Thành phố Phan Thiết"
+      ]
+    }
+  },
+  {
+    "raw": "Đào Hồng thôn đội 5 thôn đại ha xã nguyên giáp hai phòng",
+    "top1": {
+      "phone_number": null,
+      "address": "Đào Hồng thôn đội 5 thôn đại ha",
+      "commune_name": "Nguyên Giáp",
+      "district_name": "Vĩnh Bảo",
+      "province_name": "Hải Phòng",
+      "full_address": "Đào Hồng thôn đội 5 thôn đại ha Nguyên Giáp Vĩnh Bảo Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Đào Hồng thôn đội 5 thôn đại ha",
+        "commune_name": "Nguyên Giáp",
+        "district_name": "Vĩnh Bảo",
+        "province_name": "Hải Phòng",
+        "full_address": "Đào Hồng thôn đội 5 thôn đại ha Nguyên Giáp Vĩnh Bảo Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "103",
+      "district_id": "10321",
+      "commune_id": null,
+      "province_name": "Hải Phòng",
+      "district_name": "Huyện Vĩnh Bảo",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Huyện Vĩnh Bảo -> ID: 10321"
+      ],
+      "errors": [
+        "Không tìm thấy xã: nguyen giap trong huyện Huyện Vĩnh Bảo"
+      ]
+    }
+  },
+  {
+    "raw": "Sn 64.đô quang -xã an nông-tỉnh thanh hoá",
+    "top1": {
+      "phone_number": null,
+      "address": "64 Đô Quang",
+      "commune_name": "An Nông",
+      "district_name": null,
+      "province_name": "Thanh Hóa",
+      "full_address": "64 Đô Quang An Nông Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "64 Đô Quang",
+        "commune_name": "An Nông",
+        "district_name": null,
+        "province_name": "Thanh Hóa",
+        "full_address": "64 Đô Quang An Nông Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "401",
+      "district_id": "40113",
+      "commune_id": null,
+      "province_name": "Thanh Hóa",
+      "district_name": "Huyện Bá Thước",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401",
+        "Huyện: Huyện Bá Thước -> ID: 40113"
+      ],
+      "errors": [
+        "Không tìm thấy xã: an nong trong huyện Huyện Bá Thước"
+      ]
+    }
+  },
+  {
+    "raw": "Đường Thị Lộc Trường Mầm Non Hùng Việt Xã ( Cát Trù  cũ) Cẩm Khê _Phú Thọ  0976264888",
+    "top1": {
+      "phone_number": "0976264888",
+      "address": "Đường Thị Lộc Trường Mầm Non Hùng Việt",
+      "commune_name": "Cát Trù",
+      "district_name": "Cẩm Khê",
+      "province_name": "Phú Thọ",
+      "full_address": "Đường Thị Lộc Trường Mầm Non Hùng Việt Cát Trù Cẩm Khê Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0976264888",
+        "address": "Đường Thị Lộc Trường Mầm Non Hùng Việt",
+        "commune_name": "Cát Trù",
+        "district_name": "Cẩm Khê",
+        "province_name": "Phú Thọ",
+        "full_address": "Đường Thị Lộc Trường Mầm Non Hùng Việt Cát Trù Cẩm Khê Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "217",
+      "district_id": "21713",
+      "commune_id": null,
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Cẩm Khê",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Cẩm Khê -> ID: 21713"
+      ],
+      "errors": [
+        "Không tìm thấy xã: cat tru trong huyện Huyện Cẩm Khê"
+      ]
+    }
+  },
+  {
+    "raw": "Trần Thanh Hường\nCông ty cổ phần sản xuất và chế biến Muối Bim\nQL1A, thôn quán thẻ 1, xã Thuận Nam, tỉnh Khánh hòa",
+    "top1": {
+      "phone_number": null,
+      "address": "Công ty cổ phần sản xuất và chế biến Muối Bim QL1A thôn quán thẻ 1",
+      "commune_name": "Thuận Nam",
+      "district_name": "Cam Lâm",
+      "province_name": "Khánh Hòa",
+      "full_address": "Công ty cổ phần sản xuất và chế biến Muối Bim QL1A thôn quán thẻ 1 Thuận Nam Cam Lâm Khánh Hòa"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Công ty cổ phần sản xuất và chế biến Muối Bim QL1A thôn quán thẻ 1",
+        "commune_name": "Thuận Nam",
+        "district_name": "Cam Lâm",
+        "province_name": "Khánh Hòa",
+        "full_address": "Công ty cổ phần sản xuất và chế biến Muối Bim QL1A thôn quán thẻ 1 Thuận Nam Cam Lâm Khánh Hòa"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "511",
+      "district_id": "51108",
+      "commune_id": null,
+      "province_name": "Khánh Hòa",
+      "district_name": "Huyện Cam Lâm",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: Khánh Hòa -> ID: 511",
+        "Huyện: Huyện Cam Lâm -> ID: 51108"
+      ],
+      "errors": [
+        "Không tìm thấy xã: thuan nam trong huyện Huyện Cam Lâm"
+      ]
+    }
+  },
+  {
+    "raw": "Số 53 tổ 2 ấp 6 xã Tân An.0329229283",
+    "top1": {
+      "phone_number": "0329229283",
+      "address": "53 tổ 2 ấp 6",
+      "commune_name": "Tân An",
+      "district_name": null,
+      "province_name": null,
+      "full_address": null
+    },
+    "variants": [
+      {
+        "phone_number": "0329229283",
+        "address": "53 tổ 2 ấp 6",
+        "commune_name": "Tân An",
+        "district_name": null,
+        "province_name": null,
+        "full_address": null
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "805",
+      "district_id": "80505",
+      "commune_id": null,
+      "province_name": "An Giang",
+      "district_name": "Huyện An Phú",
+      "commune_name": null,
+      "found_items": [
+        "Tỉnh: An Giang -> ID: 805",
+        "Huyện: Huyện An Phú -> ID: 80505"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tan an trong huyện Huyện An Phú"
+      ]
+    }
+  }
+]

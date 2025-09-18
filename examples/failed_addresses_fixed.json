@@ -1,0 +1,174 @@
+[
+  {
+    "raw": "xóm 6 nội hoàng Tây hoàng quế đông triều quảng ninh só nhà 05",
+    "top1": {
+      "phone_number": null,
+      "address": "Số nhà 05, xóm 6, Nội Hoàng, Tây Hoàng",
+      "commune_name": "Hoàng Quế",
+      "district_name": "Đông Triều",
+      "province_name": "Quảng Ninh",
+      "full_address": "Số nhà 05, xóm 6, Nội Hoàng, Tây Hoàng Hoàng Quế Đông Triều Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số nhà 05, xóm 6, Nội Hoàng, Tây Hoàng",
+        "commune_name": "Hoàng Quế",
+        "district_name": "Đông Triều",
+        "province_name": "Quảng Ninh",
+        "full_address": "Số nhà 05, xóm 6, Nội Hoàng, Tây Hoàng Hoàng Quế Đông Triều Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22521",
+      "commune_id": "2252133",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Đông Triều",
+      "commune_name": "Phường Hoàng Quế",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Đông Triều -> ID: 22521"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn thanh trà sá lệ viến sơn đọng bắc giang",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn Thanh Trà Sá Lệ",
+      "commune_name": "Vân Sơn",
+      "district_name": "Sơn Động",
+      "province_name": "Bắc Giang",
+      "full_address": "Thôn Thanh Trà Sá Lệ Vân Sơn Sơn Động Bắc Giang"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn Thanh Trà Sá Lệ",
+        "commune_name": "Vân Sơn",
+        "district_name": "Sơn Động",
+        "province_name": "Bắc Giang",
+        "full_address": "Thôn Thanh Trà Sá Lệ Vân Sơn Sơn Động Bắc Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "221",
+      "district_id": "22113",
+      "commune_id": "2211309",
+      "province_name": "Bắc Giang",
+      "district_name": "Huyện Sơn Động",
+      "commune_name": "Xã Vân Sơn",
+      "found_items": [
+        "Tỉnh: Bắc Giang -> ID: 221",
+        "Huyện: Huyện Sơn Động -> ID: 22113"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "số nhà 30 liền kề 3 khu đô thị mới văn khê hà đông",
+    "top1": {
+      "phone_number": null,
+      "address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê",
+      "commune_name": "Phường La Khê",
+      "district_name": "Quận Hà Đông",
+      "province_name": "Hà Nội",
+      "full_address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê Phường La Khê Quận Hà Đông Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê",
+        "commune_name": "Phường La Khê",
+        "district_name": "hà đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê Phường La Khê hà đông Thành phố Hà Nội"
+      },
+      {
+        "phone_number": null,
+        "address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê",
+        "commune_name": "Phường La Khê",
+        "district_name": "Quận Hà Đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê Phường La Khê Quận Hà Đông Thành phố Hà Nội"
+      },
+      {
+        "phone_number": null,
+        "address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê",
+        "commune_name": "La Khê",
+        "district_name": "Quận Hà Đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30 liền kề 3 Khu đô thị mới Văn Khê La Khê Quận Hà Đông Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10125",
+      "commune_id": "1012515",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Hà Đông",
+      "commune_name": "Phường La Khê",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Hà Đông -> ID: 10125"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "địa chỉ nguyễn tùng nhà số 2, ngõ 25 phố đầu lô đoan hùng phú thọ",
+    "top1": {
+      "phone_number": null,
+      "address": "nhà số 2, ngõ 25 phố Đầu Lô",
+      "commune_name": "Thị trấn Đoan Hùng",
+      "district_name": "Huyện Đoan Hùng",
+      "province_name": "Phú Thọ",
+      "full_address": "nhà số 2, ngõ 25 phố Đầu Lô Thị trấn Đoan Hùng Huyện Đoan Hùng Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "nhà số 2, ngõ 25 phố Đầu Lô",
+        "commune_name": "đoan hùng",
+        "district_name": "đoan hùng",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "nhà số 2, ngõ 25 phố Đầu Lô đoan hùng đoan hùng Tỉnh Phú Thọ"
+      },
+      {
+        "phone_number": null,
+        "address": "nhà số 2, ngõ 25 phố Đầu Lô",
+        "commune_name": "Thị trấn Đoan Hùng",
+        "district_name": "Huyện Đoan Hùng",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "nhà số 2, ngõ 25 phố Đầu Lô Thị trấn Đoan Hùng Huyện Đoan Hùng Tỉnh Phú Thọ"
+      },
+      {
+        "phone_number": null,
+        "address": "nhà số 2, ngõ 25 phố Đầu Lô",
+        "commune_name": "Đoan Hùng",
+        "district_name": "Huyện Đoan Hùng",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "nhà số 2, ngõ 25 phố Đầu Lô Đoan Hùng Huyện Đoan Hùng Tỉnh Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21705",
+      "commune_id": "2170501",
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Đoan Hùng",
+      "commune_name": "Thị trấn Đoan Hùng",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Đoan Hùng -> ID: 21705"
+      ],
+      "errors": []
+    }
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "raw": "Gửi cho 2 trắng 2 sâm nhé \nCao 1,50 cân nặng 57 \nĐc nhà may nước sạch bình minh phường hải thương thị xã nghi sơn thanh hoá \nĐT 0983702265\nChuẩn hàng mới nhận",
+    "top1": {
+      "phone_number": "0983702265",
+      "address": "Nhà may Nước sạch Bình Minh",
+      "commune_name": "Hải Thượng",
+      "district_name": "Nghi Sơn",
+      "province_name": "Thanh Hóa",
+      "full_address": "Nhà may Nước sạch Bình Minh Hải Thượng Nghi Sơn Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": "0983702265",
+        "address": "Nhà may Nước sạch Bình Minh",
+        "commune_name": "Hải Thượng",
+        "district_name": "Nghi Sơn",
+        "province_name": "Thanh Hóa",
+        "full_address": "Nhà may Nước sạch Bình Minh Hải Thượng Nghi Sơn Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "401",
+      "district_id": "40153",
+      "commune_id": "4015367",
+      "province_name": "Thanh Hóa",
+      "district_name": "Thị xã Nghi Sơn",
+      "commune_name": "Xã Hải Thượng",
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401",
+        "Huyện: Thị xã Nghi Sơn -> ID: 40153"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "thôn hùng việt xã đông hoàng huyện đông hung T thái bình",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn Hùng Việt",
+      "commune_name": "Đông Hoàng",
+      "district_name": "Đông Hưng",
+      "province_name": "Thái Bình",
+      "full_address": "Thôn Hùng Việt Đông Hoàng Đông Hưng Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn Hùng Việt",
+        "commune_name": "Đông Hoàng",
+        "district_name": "Đông Hưng",
+        "province_name": "Thái Bình",
+        "full_address": "Thôn Hùng Việt Đông Hoàng Đông Hưng Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11509",
+      "commune_id": "1150985",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Đông Hưng",
+      "commune_name": "Xã Đông Hoàng",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Đông Hưng -> ID: 11509"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Anh mua 4 áo . Anh cao 1,8 cân nặng 86 kg , địa chỉ 549 cổng nhà vuông ấp bình nam xã bình tâm huyện châu thành tỉnh long an ,đt 0903362150 .",
+    "top1": {
+      "phone_number": "0903362150",
+      "address": "549 cổng nhà vuông ấp Bình Nam",
+      "commune_name": "Bình Tâm",
+      "district_name": "Châu Thành",
+      "province_name": "Long An",
+      "full_address": "549 cổng nhà vuông ấp Bình Nam Bình Tâm Châu Thành Long An"
+    },
+    "variants": [
+      {
+        "phone_number": "0903362150",
+        "address": "549 cổng nhà vuông ấp Bình Nam",
+        "commune_name": "Bình Tâm",
+        "district_name": "Châu Thành",
+        "province_name": "Long An",
+        "full_address": "549 cổng nhà vuông ấp Bình Nam Bình Tâm Châu Thành Long An"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "801",
+      "district_id": "80121",
+      "commune_id": null,
+      "province_name": "Long An",
+      "district_name": "Huyện Châu Thành",
+      "commune_name": "Bình Tâm",
+      "found_items": [
+        "Tỉnh: Long An -> ID: 801",
+        "Huyện: Huyện Châu Thành -> ID: 80121"
+      ],
+      "errors": [
+        "Không tìm thấy xã: binh tam trong huyện Huyện Châu Thành"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "801",
+          "district_id": "80121",
+          "commune_id": null,
+          "province_name": "Long An",
+          "district_name": "Huyện Châu Thành",
+          "commune_name": "Bình Tâm",
+          "found_items": [
+            "Tỉnh: Long An -> ID: 801",
+            "Huyện: Huyện Châu Thành -> ID: 80121"
+          ],
+          "errors": [
+            "Không tìm thấy xã: binh tam trong huyện Huyện Châu Thành"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Đc trung tâm huấn luyện thể thao Nam Định đường 10 sđt 0908911934",
+    "top1": {
+      "phone_number": "0908911934",
+      "address": "Trung tâm huấn luyện thể thao Nam Định, Đường 10",
+      "commune_name": null,
+      "district_name": "Thành phố Nam Định",
+      "province_name": "Nam Định",
+      "full_address": "Trung tâm huấn luyện thể thao Nam Định, Đường 10 Thành phố Nam Định Nam Định"
+    },
+    "variants": [
+      {
+        "phone_number": "0908911934",
+        "address": "Trung tâm huấn luyện thể thao Nam Định, Đường 10",
+        "commune_name": null,
+        "district_name": "Thành phố Nam Định",
+        "province_name": "Tỉnh Nam Định",
+        "full_address": "Trung tâm huấn luyện thể thao Nam Định, Đường 10 Thành phố Nam Định Tỉnh Nam Định"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "113",
+      "district_id": "11301",
+      "commune_id": "1130111",
+      "province_name": "Nam Định",
+      "district_name": "Thành phố Nam Định",
+      "commune_name": "Phường Bà Triệu",
+      "found_items": [
+        "Tỉnh: Nam Định -> ID: 113",
+        "Huyện: Thành phố Nam Định -> ID: 11301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn.9.triệu.tân.trỉeu.phong..QT",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn 9",
+      "commune_name": "Triệu Tân",
+      "district_name": "Triệu Phong",
+      "province_name": "Quảng Trị",
+      "full_address": "Thôn 9 Triệu Tân Triệu Phong Quảng Trị"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn 9",
+        "commune_name": "Triệu Tân",
+        "district_name": "Triệu Phong",
+        "province_name": "Quảng Trị",
+        "full_address": "Thôn 9 Triệu Tân Triệu Phong Quảng Trị"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "409",
+      "district_id": "40911",
+      "commune_id": "4091141",
+      "province_name": "Quảng Trị",
+      "district_name": "Huyện Triệu Phong",
+      "commune_name": "Xã Triệu Tân",
+      "found_items": [
+        "Tỉnh: Quảng Trị -> ID: 409",
+        "Huyện: Huyện Triệu Phong -> ID: 40911"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn văn Quyết tổ 1, ấp 2, xã Suối Ngô, huyện Tân Châu, tính Tây Nin. Số đt 0983269743",
+    "top1": {
+      "phone_number": "0983269743",
+      "address": "Nguyễn Văn Quyết tổ 1, ấp 2",
+      "commune_name": "Suối Ngô",
+      "district_name": "Tân Châu",
+      "province_name": "Tây Ninh",
+      "full_address": "Nguyễn Văn Quyết tổ 1, ấp 2 Suối Ngô Tân Châu Tây Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0983269743",
+        "address": "Nguyễn Văn Quyết tổ 1, ấp 2",
+        "commune_name": "Suối Ngô",
+        "district_name": "Tân Châu",
+        "province_name": "Tây Ninh",
+        "full_address": "Nguyễn Văn Quyết tổ 1, ấp 2 Suối Ngô Tân Châu Tây Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "709",
+      "district_id": "70905",
+      "commune_id": "7090511",
+      "province_name": "Tây Ninh",
+      "district_name": "Huyện Tân Châu",
+      "commune_name": "Xã Suối Ngô",
+      "found_items": [
+        "Tỉnh: Tây Ninh -> ID: 709",
+        "Huyện: Huyện Tân Châu -> ID: 70905"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Màu trắng nhé.  Trung tâm y tế thành phố phổ yên cs2( tdp 4, phường ba hàng). Sđt: 0979597301",
+    "top1": {
+      "phone_number": "0979597301",
+      "address": "Trung tâm Y tế thành phố Phổ Yên cơ sở 2, Tổ dân phố 4",
+      "commune_name": "Ba Hàng",
+      "district_name": "Phổ Yên",
+      "province_name": "Thái Nguyên",
+      "full_address": "Trung tâm Y tế thành phố Phổ Yên cơ sở 2, Tổ dân phố 4 Ba Hàng Phổ Yên Thái Nguyên"
+    },
+    "variants": [
+      {
+        "phone_number": "0979597301",
+        "address": "Trung tâm Y tế thành phố Phổ Yên cơ sở 2, Tổ dân phố 4",
+        "commune_name": "Ba Hàng",
+        "district_name": "Phổ Yên",
+        "province_name": "Thái Nguyên",
+        "full_address": "Trung tâm Y tế thành phố Phổ Yên cơ sở 2, Tổ dân phố 4 Ba Hàng Phổ Yên Thái Nguyên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "215",
+      "district_id": "21517",
+      "commune_id": "2151701",
+      "province_name": "Thái Nguyên",
+      "district_name": "Thành phố Phổ Yên",
+      "commune_name": "Phường Ba Hàng",
+      "found_items": [
+        "Tỉnh: Thái Nguyên -> ID: 215",
+        "Huyện: Thành phố Phổ Yên -> ID: 21517"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Hai sám hai trắng địa chỉ thôn mùng xã Tuấn đạo sơn động bác giang s đ t 0336759235",
+    "top1": {
+      "phone_number": "0336759235",
+      "address": "Thôn Mùng",
+      "commune_name": "Tuấn Đạo",
+      "district_name": "Sơn Động",
+      "province_name": "Bắc Giang",
+      "full_address": "Thôn Mùng Tuấn Đạo Sơn Động Bắc Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0336759235",
+        "address": "Thôn Mùng",
+        "commune_name": "Tuấn Đạo",
+        "district_name": "Sơn Động",
+        "province_name": "Bắc Giang",
+        "full_address": "Thôn Mùng Tuấn Đạo Sơn Động Bắc Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "221",
+      "district_id": "22113",
+      "commune_id": "2211329",
+      "province_name": "Bắc Giang",
+      "district_name": "Huyện Sơn Động",
+      "commune_name": "Xã Tuấn Đạo",
+      "found_items": [
+        "Tỉnh: Bắc Giang -> ID: 221",
+        "Huyện: Huyện Sơn Động -> ID: 22113"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Gửi mình 2 đen, 2 trắng nhé! Mình lấy chỗ bạn r. Chắc vẫn còn địa chỉ đấy",
+    "top1": {
+      "phone_number": null,
+      "address": null,
+      "commune_name": null,
+      "district_name": null,
+      "province_name": null,
+      "full_address": ""
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "",
+        "commune_name": null,
+        "district_name": null,
+        "province_name": null,
+        "full_address": ""
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "805",
+      "district_id": "80505",
+      "commune_id": "8050501",
+      "province_name": "An Giang",
+      "district_name": "Huyện An Phú",
+      "commune_name": "Thị trấn An Phú",
+      "found_items": [
+        "Tỉnh: An Giang -> ID: 805",
+        "Huyện: Huyện An Phú -> ID: 80505"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0948424132\r\nSN 15 ngõ 187 đường Xương Giang khu Tân Hoà thị trấn Hữu Lũng huyện Hữu Lũng tỉnh Lạng Sơn",
+    "top1": {
+      "phone_number": "0948424132",
+      "address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà",
+      "commune_name": "Thị trấn Hữu Lũng",
+      "district_name": "Huyện Hữu Lũng",
+      "province_name": "Lạng Sơn",
+      "full_address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà Thị trấn Hữu Lũng Huyện Hữu Lũng Lạng Sơn"
+    },
+    "variants": [
+      {
+        "phone_number": "0948424132",
+        "address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà",
+        "commune_name": "Thị trấn Hữu Lũng",
+        "district_name": "Huyện Hữu Lũng",
+        "province_name": "Tỉnh Lạng Sơn",
+        "full_address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà Thị trấn Hữu Lũng Huyện Hữu Lũng Tỉnh Lạng Sơn"
+      },
+      {
+        "phone_number": "0948424132",
+        "address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà",
+        "commune_name": "Hữu Lũng",
+        "district_name": "Huyện Hữu Lũng",
+        "province_name": "Tỉnh Lạng Sơn",
+        "full_address": "Số nhà 15, ngõ 187, đường Xương Giang, khu Tân Hoà Hữu Lũng Huyện Hữu Lũng Tỉnh Lạng Sơn"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "209",
+      "district_id": "20921",
+      "commune_id": "2092101",
+      "province_name": "Lạng Sơn",
+      "district_name": "Huyện Hữu Lũng",
+      "commune_name": "Thị trấn Hữu Lũng",
+      "found_items": [
+        "Tỉnh: Lạng Sơn -> ID: 209",
+        "Huyện: Huyện Hữu Lũng -> ID: 20921"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "30/223 đường đại mỗ hà nội",
+    "top1": {
+      "phone_number": null,
+      "address": "30/223 Đường Đại Mỗ",
+      "commune_name": "Đại Mỗ",
+      "district_name": "Nam Từ Liêm",
+      "province_name": "Hà Nội",
+      "full_address": "30/223 Đường Đại Mỗ Đại Mỗ Nam Từ Liêm Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "30/223 Đường Đại Mỗ",
+        "commune_name": "Đại Mỗ",
+        "district_name": "Nam Từ Liêm",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "30/223 Đường Đại Mỗ Đại Mỗ Nam Từ Liêm Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10121",
+      "commune_id": "1012129",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Nam Từ Liêm",
+      "commune_name": "Phường Đại Mỗ",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Nam Từ Liêm -> ID: 10121"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Sdt 0589710086 địa chỉ  Nguyễn văn Toản Tổ dân phố đồi phường nam tiến phổ yên Thái nguyên",
+    "top1": {
+      "phone_number": "0589710086",
+      "address": "Nguyễn văn Toản, Tổ dân phố Đồi",
+      "commune_name": "Phường Nam Tiến",
+      "district_name": "Thành phố Phổ Yên",
+      "province_name": "Thái Nguyên",
+      "full_address": "Nguyễn văn Toản, Tổ dân phố Đồi Phường Nam Tiến Thành phố Phổ Yên Thái Nguyên"
+    },
+    "variants": [
+      {
+        "phone_number": "0589710086",
+        "address": "Nguyễn văn Toản, Tổ dân phố Đồi",
+        "commune_name": "Phường Nam Tiến",
+        "district_name": "Thành phố Phổ Yên",
+        "province_name": "Thái Nguyên",
+        "full_address": "Nguyễn văn Toản, Tổ dân phố Đồi Phường Nam Tiến Thành phố Phổ Yên Thái Nguyên"
+      },
+      {
+        "phone_number": "0589710086",
+        "address": "Nguyễn văn Toản, Tổ dân phố Đồi",
+        "commune_name": "Nam Tiến",
+        "district_name": "Thành phố Phổ Yên",
+        "province_name": "Thái Nguyên",
+        "full_address": "Nguyễn văn Toản, Tổ dân phố Đồi Nam Tiến Thành phố Phổ Yên Thái Nguyên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "215",
+      "district_id": "21517",
+      "commune_id": "2151727",
+      "province_name": "Thái Nguyên",
+      "district_name": "Thành phố Phổ Yên",
+      "commune_name": "Phường Nam Tiến",
+      "found_items": [
+        "Tỉnh: Thái Nguyên -> ID: 215",
+        "Huyện: Thành phố Phổ Yên -> ID: 21517"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn triệu xã đan hội h luc nam bắc giang",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn Triệu",
+      "commune_name": "Đan Hội",
+      "district_name": "Lục Nam",
+      "province_name": "Bắc Giang",
+      "full_address": "Thôn Triệu Đan Hội Lục Nam Bắc Giang"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn Triệu",
+        "commune_name": "Đan Hội",
+        "district_name": "Lục Nam",
+        "province_name": "Bắc Giang",
+        "full_address": "Thôn Triệu Đan Hội Lục Nam Bắc Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "221",
+      "district_id": "22115",
+      "commune_id": "2211553",
+      "province_name": "Bắc Giang",
+      "district_name": "Huyện Lục Nam",
+      "commune_name": "Xã Đan Hội",
+      "found_items": [
+        "Tỉnh: Bắc Giang -> ID: 221",
+        "Huyện: Huyện Lục Nam -> ID: 22115"
+      ],
+      "errors": []
+    }
+  }
+]

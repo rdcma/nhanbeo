@@ -1,0 +1,46 @@
+/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Traceback (most recent call last):
+  File "/Users/baonq/workspace/nhanbeo/run_address_normalization.py", line 45, in <module>
+    main()
+  File "/Users/baonq/workspace/nhanbeo/run_address_normalization.py", line 33, in main
+    results.append(normalize_record(s, api_client))
+  File "/Users/baonq/workspace/nhanbeo/product_qa/address_normalizer.py", line 515, in normalize_record
+    def normalize_record(raw: str, api_client: Optional[AdminApiClient]) -> Dict[str, Any]:
+  File "/Users/baonq/workspace/nhanbeo/product_qa/address_normalizer.py", line 292, in extract_address_fields
+    prompt = SYSTEM_PROMPT_TEMPLATE.replace("{RAW}", str(raw or ""))
+  File "/Users/baonq/workspace/nhanbeo/product_qa/pipeline.py", line 253, in call_llm_json
+    resp = model.generate_content(prompt)
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/generativeai/generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/client.py", line 835, in generate_content
+    response = rpc(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/api_core/gapic_v1/method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/api_core/retry/retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/api_core/retry/retry_unary.py", line 147, in retry_target
+    result = target()
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/api_core/timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/api_core/grpc_helpers.py", line 76, in error_remapped_callable
+    return callable_(*args, **kwargs)
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/grpc/_interceptor.py", line 277, in __call__
+    response, ignored_call = self._with_call(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/grpc/_interceptor.py", line 329, in _with_call
+    call = self._interceptor.intercept_unary_unary(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/google/ai/generativelanguage_v1beta/services/generative_service/transports/grpc.py", line 79, in intercept_unary_unary
+    response = continuation(client_call_details, request)
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/grpc/_interceptor.py", line 315, in continuation
+    response, call = self._thunk(new_method).with_call(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/grpc/_channel.py", line 1189, in with_call
+    state, call = self._blocking(
+  File "/Users/baonq/workspace/nhanbeo/.venv/lib/python3.9/site-packages/grpc/_channel.py", line 1162, in _blocking
+    event = call.next_event()
+  File "src/python/grpcio/grpc/_cython/_cygrpc/channel.pyx.pxi", line 388, in grpc._cython.cygrpc.SegregatedCall.next_event
+  File "src/python/grpcio/grpc/_cython/_cygrpc/channel.pyx.pxi", line 211, in grpc._cython.cygrpc._next_call_event
+  File "src/python/grpcio/grpc/_cython/_cygrpc/channel.pyx.pxi", line 205, in grpc._cython.cygrpc._next_call_event
+  File "src/python/grpcio/grpc/_cython/_cygrpc/completion_queue.pyx.pxi", line 97, in grpc._cython.cygrpc._latent_event
+  File "src/python/grpcio/grpc/_cython/_cygrpc/completion_queue.pyx.pxi", line 80, in grpc._cython.cygrpc._internal_latent_event
+  File "src/python/grpcio/grpc/_cython/_cygrpc/completion_queue.pyx.pxi", line 61, in grpc._cython.cygrpc._next
+KeyboardInterrupt

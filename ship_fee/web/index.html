@@ -1,0 +1,94 @@
+
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ship Fee Chat</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 20px; }
+    #log { border: 1px solid #ddd; padding: 12px; height: 300px; overflow: auto; }
+    .msg { margin: 6px 0; }
+    .me { color: #0a58ca; }
+    .bot { color: #0a7d2a; }
+    .info { color: #666; font-size: 12px; }
+    input[type=text] { width: 80%; padding: 8px; }
+    button { padding: 8px 12px; }
+    textarea { width: 100%; height: 240px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  </style>
+  <script>
+    function convId() {
+      let id = localStorage.getItem('conv_id');
+      if (!id) {
+        id = '792129147307154_24089184430742730';
+        localStorage.setItem('conv_id', id);
+      }
+      return id;
+    }
+    async function sendMsg() {
+      const text = document.getElementById('text').value.trim();
+      if (!text) return;
+      log(`<div class="msg me">Bạn: ${escapeHtml(text)}</div>`);
+      document.getElementById('text').value = '';
+      let ordersObj = null;
+      const ta = document.getElementById('orders_json');
+      if (ta && ta.value.trim()) {
+        try { ordersObj = JSON.parse(ta.value); } catch (e) { log('<div class="msg info">JSON orders không hợp lệ.</div>'); return; }
+      }
+      const res = await fetch('/api/v1/ship-fee/answer', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ user_text: text, conversation_id: convId(), orders_json: ordersObj })
+      });
+      const data = await res.json();
+      log(`<div class="msg bot">Bot: ${escapeHtml(data.reply_text)} <span class="info">[case=${data.case}, asked=${data.diagnostic.asked_count}, action=${data.action||'none'}]</span></div>`);
+    }
+    async function fetchOrdersByConvId() {
+      const id = document.getElementById('conv_id').value.trim();
+      if (!id) return;
+      localStorage.setItem('conv_id', id);
+      const res = await fetch('/api/v1/orders/by-conversation?conversation_id=' + encodeURIComponent(id));
+      const data = await res.json();
+      document.getElementById('orders_json').value = JSON.stringify(data, null, 2);
+      log('<div class="msg info">Đã tải đơn theo conversation_id.</div>');
+    }
+    async function resetCounter() {
+      try {
+        await fetch('/api/v1/ship-fee/reset', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ conversation_id: convId() })
+        });
+        // Clear chat log after successful reset
+        const logEl = document.getElementById('log');
+        logEl.innerHTML = '';
+        log('<div class="msg info">Đã reset bộ đếm và xóa lịch sử chat.</div>');
+      } catch (e) {
+        log('<div class="msg info">Reset thất bại.</div>');
+      }
+    }
+    function log(html) { const el = document.getElementById('log'); el.innerHTML += html; el.scrollTop = el.scrollHeight; }
+    function escapeHtml(s){
+      return s.replace(/[&<>]/g, function(c){ return ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]); });
+    }
+    window.addEventListener('DOMContentLoaded', () => {
+      document.getElementById('text').addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ sendMsg(); }});
+    });
+  </script>
+</head>
+<body>
+  <h2>Ship Fee Q&A</h2>
+  <div style="margin-bottom:10px;">
+    Conversation ID: <input id="conv_id" type="text" style="width:60%;" />
+    <button onclick="fetchOrdersByConvId()">Lấy đơn theo Conversation ID</button>
+  </div>
+  <div style="margin-bottom:10px;">
+    <label for="orders_json" class="info">Orders JSON (có thể chỉnh sửa trước khi gửi):</label>
+    <textarea id="orders_json" placeholder="Dán JSON orders tại đây hoặc bấm Lấy đơn..."></textarea>
+  </div>
+  <div id="log"></div>
+  <div style="margin-top:10px;">
+    <input id="text" type="text" placeholder="Nhập tin nhắn..." />
+    <button onclick="sendMsg()">Gửi</button>
+    <button onclick="resetCounter()" style="margin-left:8px;">Reset đếm</button>
+  </div>
+</body>
+</html>

@@ -11,6 +11,7 @@
         "total_discount": 0,
         "money_to_collect": 1625000,
         "status": 0,
+        "shipping_fee": 0,
         "note": "0914762468"
       },
       "shipping_address": {

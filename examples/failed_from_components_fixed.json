@@ -1,0 +1,560 @@
+[
+  {
+    "raw": "tổ 5 ấp Đông, Đường 78, xã Long phước  tp BÀ RỊA",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ 5, ấp Đông, Đường 78",
+      "commune_name": "Xã Long Phước",
+      "district_name": "Thành phố Bà Rịa",
+      "province_name": "Bà Rịa - Vũng Tàu",
+      "full_address": "Tổ 5, ấp Đông, Đường 78 Xã Long Phước Thành phố Bà Rịa Bà Rịa - Vũng Tàu"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ 5, ấp Đông, Đường 78",
+        "commune_name": "Xã Long Phước",
+        "district_name": "Thành phố Bà Rịa",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "full_address": "Tổ 5, ấp Đông, Đường 78 Xã Long Phước Thành phố Bà Rịa Tỉnh Bà Rịa - Vũng Tàu"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 5, ấp Đông, Đường 78",
+        "commune_name": "Long Phước",
+        "district_name": "Thành phố Bà Rịa",
+        "province_name": "Tỉnh Bà Rịa - Vũng Tàu",
+        "full_address": "Tổ 5, ấp Đông, Đường 78 Long Phước Thành phố Bà Rịa Tỉnh Bà Rịa - Vũng Tàu"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 5, ấp Đông, Đường 78",
+        "commune_name": "Xã Long Phước",
+        "district_name": "Thành phố Bà Rịa",
+        "province_name": "Tỉnh Bà Rịa   Vũng Tàu",
+        "full_address": "Tổ 5, ấp Đông, Đường 78 Xã Long Phước Thành phố Bà Rịa Tỉnh Bà Rịa   Vũng Tàu"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": null,
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Bà Rịa - Vũng Tàu",
+      "district_name": "Thành phố Bà Rịa",
+      "commune_name": "Xã Long Phước",
+      "found_items": [],
+      "errors": [
+        "Không tìm thấy tỉnh: tinh ba ria - vung tau",
+        "Không tìm thấy huyện: thanh pho ba ria trong tỉnh Bà Rịa - Vũng Tàu",
+        "Không tìm thấy xã: xa long phuoc trong huyện Thành phố Bà Rịa"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa - Vũng Tàu",
+          "district_name": "Thành phố Bà Rịa",
+          "commune_name": "Xã Long Phước",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: tinh ba ria - vung tau",
+            "Không tìm thấy huyện: thanh pho ba ria trong tỉnh Bà Rịa - Vũng Tàu",
+            "Không tìm thấy xã: xa long phuoc trong huyện Thành phố Bà Rịa"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa - Vũng Tàu",
+          "district_name": "Thành phố Bà Rịa",
+          "commune_name": "Long Phước",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: tinh ba ria - vung tau",
+            "Không tìm thấy huyện: thanh pho ba ria trong tỉnh Bà Rịa - Vũng Tàu",
+            "Không tìm thấy xã: long phuoc trong huyện Thành phố Bà Rịa"
+          ]
+        },
+        {
+          "variant_index": 2,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa   Vũng Tàu",
+          "district_name": "Thành phố Bà Rịa",
+          "commune_name": "Xã Long Phước",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: tinh ba ria vung tau",
+            "Không tìm thấy huyện: thanh pho ba ria trong tỉnh Bà Rịa   Vũng Tàu",
+            "Không tìm thấy xã: xa long phuoc trong huyện Thành phố Bà Rịa"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "số nhà 30 liền kề 3 khu đô thị mới văn khê hà đông",
+    "top1": {
+      "phone_number": null,
+      "address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê",
+      "commune_name": "Phường La Khê",
+      "district_name": "Quận Hà Đông",
+      "province_name": "Hà Nội",
+      "full_address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê Phường La Khê Quận Hà Đông Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê",
+        "commune_name": "la khê",
+        "district_name": "hà đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê la khê hà đông Thành phố Hà Nội"
+      },
+      {
+        "phone_number": null,
+        "address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê",
+        "commune_name": "Phường La Khê",
+        "district_name": "Quận Hà Đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê Phường La Khê Quận Hà Đông Thành phố Hà Nội"
+      },
+      {
+        "phone_number": null,
+        "address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê",
+        "commune_name": "La Khê",
+        "district_name": "Quận Hà Đông",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số nhà 30, liền kề 3, Khu đô thị mới Văn Khê La Khê Quận Hà Đông Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10125",
+      "commune_id": "1012515",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Hà Đông",
+      "commune_name": "Phường La Khê",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Hà Đông -> ID: 10125"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "288/22 trân phú phường 5 TP vũng tàu",
+    "top1": {
+      "phone_number": null,
+      "address": "288/22 Trần Phú",
+      "commune_name": "Phường 5",
+      "district_name": "Thành phố Vũng Tàu",
+      "province_name": "Bà Rịa – Vũng Tàu",
+      "full_address": "288/22 Trần Phú Phường 5 Thành phố Vũng Tàu Bà Rịa – Vũng Tàu"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "288/22 Trần Phú",
+        "commune_name": "5",
+        "district_name": "vũng tàu",
+        "province_name": "Bà Rịa – Vũng Tàu",
+        "full_address": "288/22 Trần Phú 5 vũng tàu Bà Rịa – Vũng Tàu"
+      },
+      {
+        "phone_number": null,
+        "address": "288/22 Trần Phú",
+        "commune_name": "Phường 5",
+        "district_name": "Thành phố Vũng Tàu",
+        "province_name": "Bà Rịa – Vũng Tàu",
+        "full_address": "288/22 Trần Phú Phường 5 Thành phố Vũng Tàu Bà Rịa – Vũng Tàu"
+      },
+      {
+        "phone_number": null,
+        "address": "288/22 Trần Phú",
+        "commune_name": "Phường 5",
+        "district_name": "Thành phố Vũng Tàu",
+        "province_name": "Bà Rịa   Vũng Tàu",
+        "full_address": "288/22 Trần Phú Phường 5 Thành phố Vũng Tàu Bà Rịa   Vũng Tàu"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": null,
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Bà Rịa – Vũng Tàu",
+      "district_name": "Thành phố Vũng Tàu",
+      "commune_name": "Phường 5",
+      "found_items": [],
+      "errors": [
+        "Không tìm thấy tỉnh: ba ria – vung tau",
+        "Không tìm thấy huyện: thanh pho vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+        "Không tìm thấy xã: phuong 5 trong huyện Thành phố Vũng Tàu"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa – Vũng Tàu",
+          "district_name": "vũng tàu",
+          "commune_name": "5",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: ba ria – vung tau",
+            "Không tìm thấy huyện: vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+            "Không tìm thấy xã: 5 trong huyện vũng tàu"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa – Vũng Tàu",
+          "district_name": "Thành phố Vũng Tàu",
+          "commune_name": "Phường 5",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: ba ria – vung tau",
+            "Không tìm thấy huyện: thanh pho vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+            "Không tìm thấy xã: phuong 5 trong huyện Thành phố Vũng Tàu"
+          ]
+        },
+        {
+          "variant_index": 2,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa   Vũng Tàu",
+          "district_name": "Thành phố Vũng Tàu",
+          "commune_name": "Phường 5",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: ba ria vung tau",
+            "Không tìm thấy huyện: thanh pho vung tau trong tỉnh Bà Rịa   Vũng Tàu",
+            "Không tìm thấy xã: phuong 5 trong huyện Thành phố Vũng Tàu"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "0982753755\nĐ/c: cũ: Thôn 2, Phù Ninh,Thủy Nguyên, Hải Phòng.\nĐ/c mới Thôn Phù Lưu 2, Việt Khê, Hải Phòng.",
+    "top1": {
+      "phone_number": "0982753755",
+      "address": "Thôn Phù Lưu 2",
+      "commune_name": "Việt Khê",
+      "district_name": "Thủy Nguyên",
+      "province_name": "Hải Phòng",
+      "full_address": "Thôn Phù Lưu 2 Việt Khê Thủy Nguyên Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": "0982753755",
+        "address": "Thôn Phù Lưu 2",
+        "commune_name": "Việt Khê",
+        "district_name": "Thủy Nguyên",
+        "province_name": "Hải Phòng",
+        "full_address": "Thôn Phù Lưu 2 Việt Khê Thủy Nguyên Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "103",
+      "district_id": "10311",
+      "commune_id": null,
+      "province_name": "Hải Phòng",
+      "district_name": "Thành phố Thủy Nguyên",
+      "commune_name": "Việt Khê",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Thành phố Thủy Nguyên -> ID: 10311"
+      ],
+      "errors": [
+        "Không tìm thấy xã: viet khe trong huyện Thành phố Thủy Nguyên"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "103",
+          "district_id": "10311",
+          "commune_id": null,
+          "province_name": "Hải Phòng",
+          "district_name": "Thành phố Thủy Nguyên",
+          "commune_name": "Việt Khê",
+          "found_items": [
+            "Tỉnh: Hải Phòng -> ID: 103",
+            "Huyện: Thành phố Thủy Nguyên -> ID: 10311"
+          ],
+          "errors": [
+            "Không tìm thấy xã: viet khe trong huyện Thành phố Thủy Nguyên"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Anh mua 4 áo . Anh cao 1,8 cân nặng 86 kg , địa chỉ 549 cổng nhà vuông ấp bình nam xã bình tâm huyện châu thành tỉnh long an ,đt 0903362150 .",
+    "top1": {
+      "phone_number": "0903362150",
+      "address": "549 cổng nhà vuông ấp Bình Nam",
+      "commune_name": "Bình Tâm",
+      "district_name": "Châu Thành",
+      "province_name": "Long An",
+      "full_address": "549 cổng nhà vuông ấp Bình Nam Bình Tâm Châu Thành Long An"
+    },
+    "variants": [
+      {
+        "phone_number": "0903362150",
+        "address": "549 cổng nhà vuông ấp Bình Nam",
+        "commune_name": "Bình Tâm",
+        "district_name": "Châu Thành",
+        "province_name": "Long An",
+        "full_address": "549 cổng nhà vuông ấp Bình Nam Bình Tâm Châu Thành Long An"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "801",
+      "district_id": "80121",
+      "commune_id": null,
+      "province_name": "Long An",
+      "district_name": "Huyện Châu Thành",
+      "commune_name": "Bình Tâm",
+      "found_items": [
+        "Tỉnh: Long An -> ID: 801",
+        "Huyện: Huyện Châu Thành -> ID: 80121"
+      ],
+      "errors": [
+        "Không tìm thấy xã: binh tam trong huyện Huyện Châu Thành"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "801",
+          "district_id": "80121",
+          "commune_id": null,
+          "province_name": "Long An",
+          "district_name": "Huyện Châu Thành",
+          "commune_name": "Bình Tâm",
+          "found_items": [
+            "Tỉnh: Long An -> ID: 801",
+            "Huyện: Huyện Châu Thành -> ID: 80121"
+          ],
+          "errors": [
+            "Không tìm thấy xã: binh tam trong huyện Huyện Châu Thành"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Thôn 5 Ea Kiết huyện cumgar tỉnh đăk lăk",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn 5",
+      "commune_name": "Ea Kiết",
+      "district_name": "Cư M'gar",
+      "province_name": "Đắk Lắk",
+      "full_address": "Thôn 5 Ea Kiết Cư M'gar Đắk Lắk"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn 5",
+        "commune_name": "Ea Kiết",
+        "district_name": "Cư M'gar",
+        "province_name": "Đắk Lắk",
+        "full_address": "Thôn 5 Ea Kiết Cư M'gar Đắk Lắk"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "605",
+      "district_id": "60513",
+      "commune_id": "6051308",
+      "province_name": "Đắk Lắk",
+      "district_name": "Huyện Cư M'Gar",
+      "commune_name": "Xã Ea Kiết",
+      "found_items": [
+        "Tỉnh: Đắk Lắk -> ID: 605",
+        "Huyện: Huyện Cư M'Gar -> ID: 60513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Gửi theo địa chỉ 263 lê Phụng hiểu phường tiền  Ninh vệ số điện thoại 0913583735 Giá này là bao ship phải không",
+    "top1": {
+      "phone_number": "0913583735",
+      "address": "263 Lê Phụng Hiểu",
+      "commune_name": null,
+      "district_name": null,
+      "province_name": null,
+      "full_address": "263 Lê Phụng Hiểu"
+    },
+    "variants": [
+      {
+        "phone_number": "0913583735",
+        "address": "263 Lê Phụng Hiểu",
+        "commune_name": null,
+        "district_name": null,
+        "province_name": null,
+        "full_address": "263 Lê Phụng Hiểu"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "805",
+      "district_id": "80505",
+      "commune_id": "8050501",
+      "province_name": "An Giang",
+      "district_name": "Huyện An Phú",
+      "commune_name": "Thị trấn An Phú",
+      "found_items": [
+        "Tỉnh: An Giang -> ID: 805",
+        "Huyện: Huyện An Phú -> ID: 80505"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn Xuân Sinh tổ 5 KP khánh hội p tân phước khánh TP Tân Uyên tỉnh Bình Dương",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ 5, Khu phố Khánh Hội",
+      "commune_name": "Phường Tân Phước Khánh",
+      "district_name": "Thành phố Tân Uyên",
+      "province_name": "Bình Dương",
+      "full_address": "Tổ 5, Khu phố Khánh Hội Phường Tân Phước Khánh Thành phố Tân Uyên Bình Dương"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ 5, Khu phố Khánh Hội",
+        "commune_name": "tân phước khánh",
+        "district_name": "tân uyên",
+        "province_name": "Tỉnh Bình Dương",
+        "full_address": "Tổ 5, Khu phố Khánh Hội tân phước khánh tân uyên Tỉnh Bình Dương"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 5, Khu phố Khánh Hội",
+        "commune_name": "Phường Tân Phước Khánh",
+        "district_name": "Thành phố Tân Uyên",
+        "province_name": "Tỉnh Bình Dương",
+        "full_address": "Tổ 5, Khu phố Khánh Hội Phường Tân Phước Khánh Thành phố Tân Uyên Tỉnh Bình Dương"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 5, Khu phố Khánh Hội",
+        "commune_name": "Phước Khánh",
+        "district_name": "Thành phố Tân Uyên",
+        "province_name": "Tỉnh Bình Dương",
+        "full_address": "Tổ 5, Khu phố Khánh Hội Phước Khánh Thành phố Tân Uyên Tỉnh Bình Dương"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "711",
+      "district_id": "71109",
+      "commune_id": null,
+      "province_name": "Bình Dương",
+      "district_name": "Huyện Bắc Tân Uyên",
+      "commune_name": "Phường Tân Phước Khánh",
+      "found_items": [
+        "Tỉnh: Bình Dương -> ID: 711",
+        "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+      ],
+      "errors": [
+        "Không tìm thấy xã: phuong tan phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "711",
+          "district_id": "71109",
+          "commune_id": null,
+          "province_name": "Bình Dương",
+          "district_name": "Huyện Bắc Tân Uyên",
+          "commune_name": "tân phước khánh",
+          "found_items": [
+            "Tỉnh: Bình Dương -> ID: 711",
+            "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+          ],
+          "errors": [
+            "Không tìm thấy xã: tan phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": "711",
+          "district_id": "71109",
+          "commune_id": null,
+          "province_name": "Bình Dương",
+          "district_name": "Huyện Bắc Tân Uyên",
+          "commune_name": "Phường Tân Phước Khánh",
+          "found_items": [
+            "Tỉnh: Bình Dương -> ID: 711",
+            "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+          ],
+          "errors": [
+            "Không tìm thấy xã: phuong tan phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+          ]
+        },
+        {
+          "variant_index": 2,
+          "success": false,
+          "province_id": "711",
+          "district_id": "71109",
+          "commune_id": null,
+          "province_name": "Bình Dương",
+          "district_name": "Huyện Bắc Tân Uyên",
+          "commune_name": "Phước Khánh",
+          "found_items": [
+            "Tỉnh: Bình Dương -> ID: 711",
+            "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+          ],
+          "errors": [
+            "Không tìm thấy xã: phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+          ]
+        }
+      ]
+    }
+  }
+]

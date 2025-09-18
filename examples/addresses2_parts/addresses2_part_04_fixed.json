@@ -1,0 +1,505 @@
+[
+  {
+    "raw": "Địa chỉ chạm y tế xã bình minh.bình sơn quảng ngãi sđt 0983082673",
+    "top1": {
+      "phone_number": "0983082673",
+      "address": "Trạm y tế",
+      "commune_name": "Bình Minh",
+      "district_name": "Bình Sơn",
+      "province_name": "Quảng Ngãi",
+      "full_address": "Trạm y tế Bình Minh Bình Sơn Quảng Ngãi"
+    },
+    "variants": [
+      {
+        "phone_number": "0983082673",
+        "address": "Trạm y tế",
+        "commune_name": "Bình Minh",
+        "district_name": "Bình Sơn",
+        "province_name": "Quảng Ngãi",
+        "full_address": "Trạm y tế Bình Minh Bình Sơn Quảng Ngãi"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "505",
+      "district_id": "50505",
+      "commune_id": "5050533",
+      "province_name": "Quảng Ngãi",
+      "district_name": "Huyện Bình Sơn",
+      "commune_name": "Xã Bình Minh",
+      "found_items": [
+        "Tỉnh: Quảng Ngãi -> ID: 505",
+        "Huyện: Huyện Bình Sơn -> ID: 50505"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "47c đường số 2 khu phố 27 phường bhhA quận bình tân tphcm 0982013529",
+    "top1": {
+      "phone_number": "0982013529",
+      "address": "47C Đường số 2 Khu phố 27",
+      "commune_name": "Bình Hưng Hòa A",
+      "district_name": "Quận Bình Tân",
+      "province_name": "Hồ Chí Minh",
+      "full_address": "47C Đường số 2 Khu phố 27 Bình Hưng Hòa A Quận Bình Tân Hồ Chí Minh"
+    },
+    "variants": [
+      {
+        "phone_number": "0982013529",
+        "address": "47C Đường số 2 Khu phố 27",
+        "commune_name": "Bình Hưng Hòa A",
+        "district_name": "bình tân",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "full_address": "47C Đường số 2 Khu phố 27 Bình Hưng Hòa A bình tân Thành phố Hồ Chí Minh"
+      },
+      {
+        "phone_number": "0982013529",
+        "address": "47C Đường số 2 Khu phố 27",
+        "commune_name": "Bình Hưng Hòa A",
+        "district_name": "Quận Bình Tân",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "full_address": "47C Đường số 2 Khu phố 27 Bình Hưng Hòa A Quận Bình Tân Thành phố Hồ Chí Minh"
+      },
+      {
+        "phone_number": "0982013529",
+        "address": "47C Đường số 2 Khu phố 27",
+        "commune_name": "Hòa A",
+        "district_name": "Quận Bình Tân",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "full_address": "47C Đường số 2 Khu phố 27 Hòa A Quận Bình Tân Thành phố Hồ Chí Minh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "701",
+      "district_id": "70140",
+      "commune_id": "7014024",
+      "province_name": "Hồ Chí Minh",
+      "district_name": "Quận Bình Tân",
+      "commune_name": "Phường Bình Hưng Hòa A",
+      "found_items": [
+        "Tỉnh: Hồ Chí Minh -> ID: 701",
+        "Huyện: Quận Bình Tân -> ID: 70140"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0982753755\nĐ/c: cũ: Thôn 2, Phù Ninh,Thủy Nguyên, Hải Phòng.\nĐ/c mới Thôn Phù Lưu 2, Việt Khê, Hải Phòng.",
+    "top1": {
+      "phone_number": "0982753755",
+      "address": "Thôn Phù Lưu 2",
+      "commune_name": "Việt Khê",
+      "district_name": "Thủy Nguyên",
+      "province_name": "Hải Phòng",
+      "full_address": "Thôn Phù Lưu 2 Việt Khê Thủy Nguyên Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": "0982753755",
+        "address": "Thôn Phù Lưu 2",
+        "commune_name": "Việt Khê",
+        "district_name": "Thủy Nguyên",
+        "province_name": "Hải Phòng",
+        "full_address": "Thôn Phù Lưu 2 Việt Khê Thủy Nguyên Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "103",
+      "district_id": "10311",
+      "commune_id": null,
+      "province_name": "Hải Phòng",
+      "district_name": "Thành phố Thủy Nguyên",
+      "commune_name": "Việt Khê",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Thành phố Thủy Nguyên -> ID: 10311"
+      ],
+      "errors": [
+        "Không tìm thấy xã: viet khe trong huyện Thành phố Thủy Nguyên"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "103",
+          "district_id": "10311",
+          "commune_id": null,
+          "province_name": "Hải Phòng",
+          "district_name": "Thành phố Thủy Nguyên",
+          "commune_name": "Việt Khê",
+          "found_items": [
+            "Tỉnh: Hải Phòng -> ID: 103",
+            "Huyện: Thành phố Thủy Nguyên -> ID: 10311"
+          ],
+          "errors": [
+            "Không tìm thấy xã: viet khe trong huyện Thành phố Thủy Nguyên"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "khu dùng xã trung sơn yên lập phú thọ",
+    "top1": {
+      "phone_number": null,
+      "address": "Khu Dùng",
+      "commune_name": "Trung Sơn",
+      "district_name": "Yên Lập",
+      "province_name": "Phú Thọ",
+      "full_address": "Khu Dùng Trung Sơn Yên Lập Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Khu Dùng",
+        "commune_name": "Trung Sơn",
+        "district_name": "Yên Lập",
+        "province_name": "Phú Thọ",
+        "full_address": "Khu Dùng Trung Sơn Yên Lập Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21715",
+      "commune_id": "2171511",
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Yên Lập",
+      "commune_name": "Xã Trung Sơn",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Yên Lập -> ID: 21715"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn Đồng Vân Nội Đông Anh Hà Nội",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn Đồng",
+      "commune_name": "Vân Nội",
+      "district_name": "Đông Anh",
+      "province_name": "Hà Nội",
+      "full_address": "Thôn Đồng Vân Nội Đông Anh Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn Đồng",
+        "commune_name": "Vân Nội",
+        "district_name": "Đông Anh",
+        "province_name": "Hà Nội",
+        "full_address": "Thôn Đồng Vân Nội Đông Anh Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10117",
+      "commune_id": "1011717",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Đông Anh",
+      "commune_name": "Xã Vân Nội",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Đông Anh -> ID: 10117"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "2 trắng, 2 đến, gửi về tòa SA3 Vinhomsmart phường Tây Mỗ quận Nam Từ Liêm, Hà Nội, 0903216177, chú ý đường may, hàng về xin phép kiểm tra, nếu không chuẩn thì miễn nhận nhé",
+    "top1": {
+      "phone_number": "0903216177",
+      "address": "Tòa SA3 Vinhomes Smart City",
+      "commune_name": "Tây Mỗ",
+      "district_name": "Nam Từ Liêm",
+      "province_name": "Hà Nội",
+      "full_address": "Tòa SA3 Vinhomes Smart City Tây Mỗ Nam Từ Liêm Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0903216177",
+        "address": "Tòa SA3 Vinhomes Smart City",
+        "commune_name": "Tây Mỗ",
+        "district_name": "Nam Từ Liêm",
+        "province_name": "Hà Nội",
+        "full_address": "Tòa SA3 Vinhomes Smart City Tây Mỗ Nam Từ Liêm Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10121",
+      "commune_id": "1012127",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Nam Từ Liêm",
+      "commune_name": "Phường Tây Mỗ",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Nam Từ Liêm -> ID: 10121"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "mua 4 áo 4 mào đen trắng vàng sanh địa chỉ xã ialop huyện easup Đăk Lăk lh 0325572709",
+    "top1": {
+      "phone_number": "0325572709",
+      "address": null,
+      "commune_name": "Ia Lốp",
+      "district_name": "Ea Súp",
+      "province_name": "Đắk Lắk",
+      "full_address": "Ia Lốp Ea Súp Đắk Lắk"
+    },
+    "variants": [
+      {
+        "phone_number": "0325572709",
+        "address": "",
+        "commune_name": "Ia Lốp",
+        "district_name": "Ea Súp",
+        "province_name": "Đắk Lắk",
+        "full_address": "Ia Lốp Ea Súp Đắk Lắk"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "605",
+      "district_id": "60505",
+      "commune_id": "6050502",
+      "province_name": "Đắk Lắk",
+      "district_name": "Huyện Ea Súp",
+      "commune_name": "Xã Ia Lốp",
+      "found_items": [
+        "Tỉnh: Đắk Lắk -> ID: 605",
+        "Huyện: Huyện Ea Súp -> ID: 60505"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Ấp đồn yên trung yên phong bắc Ninh",
+    "top1": {
+      "phone_number": null,
+      "address": "Ấp Đồn",
+      "commune_name": "Yên Trung",
+      "district_name": "Yên Phong",
+      "province_name": "Bắc Ninh",
+      "full_address": "Ấp Đồn Yên Trung Yên Phong Bắc Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Ấp Đồn",
+        "commune_name": "Yên Trung",
+        "district_name": "Yên Phong",
+        "province_name": "Bắc Ninh",
+        "full_address": "Ấp Đồn Yên Trung Yên Phong Bắc Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "106",
+      "district_id": "10603",
+      "commune_id": "1060311",
+      "province_name": "Bắc Ninh",
+      "district_name": "Huyện Yên Phong",
+      "commune_name": "Xã Yên Trung",
+      "found_items": [
+        "Tỉnh: Bắc Ninh -> ID: 106",
+        "Huyện: Huyện Yên Phong -> ID: 10603"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "158/đông tiến 2/ thị trấn tiên yên/ huyện tiên yên/ tỉnh quảng ninh\n0906079866",
+    "top1": {
+      "phone_number": "0906079866",
+      "address": "158 Đông Tiến 2",
+      "commune_name": "Thị trấn Tiên Yên",
+      "district_name": "Tiên Yên",
+      "province_name": "Quảng Ninh",
+      "full_address": "158 Đông Tiến 2 Thị trấn Tiên Yên Tiên Yên Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0906079866",
+        "address": "158 Đông Tiến 2",
+        "commune_name": "Thị trấn Tiên Yên",
+        "district_name": "Tiên Yên",
+        "province_name": "Quảng Ninh",
+        "full_address": "158 Đông Tiến 2 Thị trấn Tiên Yên Tiên Yên Quảng Ninh"
+      },
+      {
+        "phone_number": "0906079866",
+        "address": "158 Đông Tiến 2",
+        "commune_name": "Tiên Yên",
+        "district_name": "Tiên Yên",
+        "province_name": "Quảng Ninh",
+        "full_address": "158 Đông Tiến 2 Tiên Yên Tiên Yên Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22513",
+      "commune_id": "2251301",
+      "province_name": "Quảng Ninh",
+      "district_name": "Huyện Tiên Yên",
+      "commune_name": "Thị trấn Tiên Yên",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Huyện Tiên Yên -> ID: 22513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Số 219 đường Trần Hưng Đạo thị trấn An bài Quỳnh phụ Thái Bình",
+    "top1": {
+      "phone_number": null,
+      "address": "Số 219 đường Trần Hưng Đạo",
+      "commune_name": "An Bài",
+      "district_name": "Quỳnh Phụ",
+      "province_name": "Thái Bình",
+      "full_address": "Số 219 đường Trần Hưng Đạo An Bài Quỳnh Phụ Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số 219 đường Trần Hưng Đạo",
+        "commune_name": "An Bài",
+        "district_name": "Quỳnh Phụ",
+        "province_name": "Thái Bình",
+        "full_address": "Số 219 đường Trần Hưng Đạo An Bài Quỳnh Phụ Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11503",
+      "commune_id": "1150361",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Quỳnh Phụ",
+      "commune_name": "Thị trấn An Bài",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Quỳnh Phụ -> ID: 11503"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Sđt 0855052686 đc số nhà 58 tân lập 3 p cầm thủy TP Cẩm phả Quảng Ninh",
+    "top1": {
+      "phone_number": "0855052686",
+      "address": "số nhà 58 Tân Lập 3",
+      "commune_name": "Cẩm Thủy",
+      "district_name": "Cẩm Phả",
+      "province_name": "Quảng Ninh",
+      "full_address": "số nhà 58 Tân Lập 3 Cẩm Thủy Cẩm Phả Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0855052686",
+        "address": "số nhà 58 Tân Lập 3",
+        "commune_name": "Cẩm Thủy",
+        "district_name": "Cẩm Phả",
+        "province_name": "Quảng Ninh",
+        "full_address": "số nhà 58 Tân Lập 3 Cẩm Thủy Cẩm Phả Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22503",
+      "commune_id": "2250319",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Cẩm Phả",
+      "commune_name": "Phường Cẩm Thủy",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Cẩm Phả -> ID: 22503"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "30/222 phố Đồng Niên p Việt Hòa tp Hải Dương",
+    "top1": {
+      "phone_number": null,
+      "address": "30/222 phố Đồng Niên",
+      "commune_name": "Việt Hòa",
+      "district_name": "Thành phố Hải Dương",
+      "province_name": "Hải Dương",
+      "full_address": "30/222 phố Đồng Niên Việt Hòa Thành phố Hải Dương Hải Dương"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "30/222 phố Đồng Niên",
+        "commune_name": "Việt Hòa",
+        "district_name": "Thành phố Hải Dương",
+        "province_name": "Hải Dương",
+        "full_address": "30/222 phố Đồng Niên Việt Hòa Thành phố Hải Dương Hải Dương"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "107",
+      "district_id": "10701",
+      "commune_id": "1070123",
+      "province_name": "Hải Dương",
+      "district_name": "Thành phố Hải Dương",
+      "commune_name": "Phường Việt Hòa",
+      "found_items": [
+        "Tỉnh: Hải Dương -> ID: 107",
+        "Huyện: Thành phố Hải Dương -> ID: 10701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "đc cây xăng 168 đường nguyễn Văn linh phường hưng long thị xã chơn thành tỉnh bình phước đt 0354578826",
+    "top1": {
+      "phone_number": "0354578826",
+      "address": "Cây xăng 168, đường Nguyễn Văn Linh",
+      "commune_name": "Hưng Long",
+      "district_name": "Chơn Thành",
+      "province_name": "Bình Phước",
+      "full_address": "Cây xăng 168, đường Nguyễn Văn Linh Hưng Long Chơn Thành Bình Phước"
+    },
+    "variants": [
+      {
+        "phone_number": "0354578826",
+        "address": "Cây xăng 168, đường Nguyễn Văn Linh",
+        "commune_name": "Hưng Long",
+        "district_name": "Chơn Thành",
+        "province_name": "Bình Phước",
+        "full_address": "Cây xăng 168, đường Nguyễn Văn Linh Hưng Long Chơn Thành Bình Phước"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "707",
+      "district_id": "70708",
+      "commune_id": "7070801",
+      "province_name": "Bình Phước",
+      "district_name": "Thị xã Chơn Thành",
+      "commune_name": "Phường Hưng Long",
+      "found_items": [
+        "Tỉnh: Bình Phước -> ID: 707",
+        "Huyện: Thị xã Chơn Thành -> ID: 70708"
+      ],
+      "errors": []
+    }
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "raw": "4. Áo 3 lo  màu  trắng   dc đỗ minh thuận  khu12 xã kim Đức  TP Việt  trì  tỉnh Phú  thọ sdt 0984881834",
+    "top1": {
+      "phone_number": "0984881834",
+      "address": "Khu 12",
+      "commune_name": "Kim Đức",
+      "district_name": "Việt Trì",
+      "province_name": "Phú Thọ",
+      "full_address": "Khu 12 Kim Đức Việt Trì Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0984881834",
+        "address": "Khu 12",
+        "commune_name": "Kim Đức",
+        "district_name": "Việt Trì",
+        "province_name": "Phú Thọ",
+        "full_address": "Khu 12 Kim Đức Việt Trì Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21701",
+      "commune_id": "2170133",
+      "province_name": "Phú Thọ",
+      "district_name": "Thành phố Việt Trì",
+      "commune_name": "Xã Kim Đức",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Thành phố Việt Trì -> ID: 21701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0374610791 đường số 10, ấp sông mây, xã bắc sơn, h trảng bom, tình đồng nai",
+    "top1": {
+      "phone_number": "0374610791",
+      "address": "đường số 10, ấp Sông Mây",
+      "commune_name": "Bắc Sơn",
+      "district_name": "Trảng Bom",
+      "province_name": "Đồng Nai",
+      "full_address": "đường số 10, ấp Sông Mây Bắc Sơn Trảng Bom Đồng Nai"
+    },
+    "variants": [
+      {
+        "phone_number": "0374610791",
+        "address": "đường số 10, ấp Sông Mây",
+        "commune_name": "Bắc Sơn",
+        "district_name": "Trảng Bom",
+        "province_name": "Đồng Nai",
+        "full_address": "đường số 10, ấp Sông Mây Bắc Sơn Trảng Bom Đồng Nai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "713",
+      "district_id": "71310",
+      "commune_id": "7131047",
+      "province_name": "Đồng Nai",
+      "district_name": "Huyện Trảng Bom",
+      "commune_name": "Xã Bắc Sơn",
+      "found_items": [
+        "Tỉnh: Đồng Nai -> ID: 713",
+        "Huyện: Huyện Trảng Bom -> ID: 71310"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cao 1.6. 65kg đt 0978113578 xóm bốn xã thọ thành huyện yên thành tỉnh nghệ an",
+    "top1": {
+      "phone_number": "0978113578",
+      "address": "Xóm Bốn",
+      "commune_name": "Thọ Thành",
+      "district_name": "Yên Thành",
+      "province_name": "Nghệ An",
+      "full_address": "Xóm Bốn Thọ Thành Yên Thành Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0978113578",
+        "address": "Xóm Bốn",
+        "commune_name": "Thọ Thành",
+        "district_name": "Yên Thành",
+        "province_name": "Nghệ An",
+        "full_address": "Xóm Bốn Thọ Thành Yên Thành Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40323",
+      "commune_id": "4032313",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Yên Thành",
+      "commune_name": "Xã Thọ Thành",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Yên Thành -> ID: 40323"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đỗ Quang Huy xóm 7 xã xuân ninh huyện xuân trường tỉnh nam định sdt 0985391116",
+    "top1": {
+      "phone_number": "0985391116",
+      "address": "Xóm 7",
+      "commune_name": "Xuân Ninh",
+      "district_name": "Xuân Trường",
+      "province_name": "Nam Định",
+      "full_address": "Xóm 7 Xuân Ninh Xuân Trường Nam Định"
+    },
+    "variants": [
+      {
+        "phone_number": "0985391116",
+        "address": "Xóm 7",
+        "commune_name": "Xuân Ninh",
+        "district_name": "Xuân Trường",
+        "province_name": "Nam Định",
+        "full_address": "Xóm 7 Xuân Ninh Xuân Trường Nam Định"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "113",
+      "district_id": "11313",
+      "commune_id": "1131317",
+      "province_name": "Nam Định",
+      "district_name": "Huyện Xuân Trường",
+      "commune_name": "Xã Xuân Ninh",
+      "found_items": [
+        "Tỉnh: Nam Định -> ID: 113",
+        "Huyện: Huyện Xuân Trường -> ID: 11313"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "nguyên đình xuân kdc ninh chấp 6 p thái học TP chí linh tỉnh Hải Dương sdt 0964869842",
+    "top1": {
+      "phone_number": "0964869842",
+      "address": "Nguyên Đình Xuân, Khu dân cư Ninh Chấp 6",
+      "commune_name": "Thái Học",
+      "district_name": "Chí Linh",
+      "province_name": "Hải Dương",
+      "full_address": "Nguyên Đình Xuân, Khu dân cư Ninh Chấp 6 Thái Học Chí Linh Hải Dương"
+    },
+    "variants": [
+      {
+        "phone_number": "0964869842",
+        "address": "Nguyên Đình Xuân, Khu dân cư Ninh Chấp 6",
+        "commune_name": "Thái Học",
+        "district_name": "Chí Linh",
+        "province_name": "Hải Dương",
+        "full_address": "Nguyên Đình Xuân, Khu dân cư Ninh Chấp 6 Thái Học Chí Linh Hải Dương"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "107",
+      "district_id": "10703",
+      "commune_id": "1070329",
+      "province_name": "Hải Dương",
+      "district_name": "Thành phố Chí Linh",
+      "commune_name": "Phường Thái Học",
+      "found_items": [
+        "Tỉnh: Hải Dương -> ID: 107",
+        "Huyện: Thành phố Chí Linh -> ID: 10703"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Số đt 0382811506 đc khu 3 xã hy cương viêt trì phú thọ",
+    "top1": {
+      "phone_number": "0382811506",
+      "address": "Khu 3",
+      "commune_name": "Hy Cương",
+      "district_name": "Việt Trì",
+      "province_name": "Phú Thọ",
+      "full_address": "Khu 3 Hy Cương Việt Trì Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0382811506",
+        "address": "Khu 3",
+        "commune_name": "Hy Cương",
+        "district_name": "Việt Trì",
+        "province_name": "Phú Thọ",
+        "full_address": "Khu 3 Hy Cương Việt Trì Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21701",
+      "commune_id": "2170135",
+      "province_name": "Phú Thọ",
+      "district_name": "Thành phố Việt Trì",
+      "commune_name": "Xã Hy Cương",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Thành phố Việt Trì -> ID: 21701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn nhật tiến xã trường yên huyện chương mỹ tp hà nội 0392182812",
+    "top1": {
+      "phone_number": "0392182812",
+      "address": "Thôn Nhật Tiến",
+      "commune_name": "Xã Trường Yên",
+      "district_name": "Huyện Chương Mỹ",
+      "province_name": "Hà Nội",
+      "full_address": "Thôn Nhật Tiến Xã Trường Yên Huyện Chương Mỹ Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0392182812",
+        "address": "Thôn Nhật Tiến",
+        "commune_name": "Xã Trường Yên",
+        "district_name": "Huyện Chương Mỹ",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Thôn Nhật Tiến Xã Trường Yên Huyện Chương Mỹ Thành phố Hà Nội"
+      },
+      {
+        "phone_number": "0392182812",
+        "address": "Thôn Nhật Tiến",
+        "commune_name": "Trường Yên",
+        "district_name": "Huyện Chương Mỹ",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Thôn Nhật Tiến Trường Yên Huyện Chương Mỹ Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10141",
+      "commune_id": "1014119",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Chương Mỹ",
+      "commune_name": "Xã Trường Yên",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Chương Mỹ -> ID: 10141"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Tổ 11B phường sông cầu TP Bắc Kạn, Tỉnh Bắc Kạn ,ĐT 0378658688",
+    "top1": {
+      "phone_number": "0378658688",
+      "address": "Tổ 11B",
+      "commune_name": "Sông Cầu",
+      "district_name": "Thành phố Bắc Kạn",
+      "province_name": "Bắc Kạn",
+      "full_address": "Tổ 11B Sông Cầu Thành phố Bắc Kạn Bắc Kạn"
+    },
+    "variants": [
+      {
+        "phone_number": "0378658688",
+        "address": "Tổ 11B",
+        "commune_name": "Sông Cầu",
+        "district_name": "Thành phố Bắc Kạn",
+        "province_name": "Bắc Kạn",
+        "full_address": "Tổ 11B Sông Cầu Thành phố Bắc Kạn Bắc Kạn"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "207",
+      "district_id": "20701",
+      "commune_id": "2070105",
+      "province_name": "Bắc Kạn",
+      "district_name": "Thành phố Bắc Kạn",
+      "commune_name": "Phường Sông Cầu",
+      "found_items": [
+        "Tỉnh: Bắc Kạn -> ID: 207",
+        "Huyện: Thành phố Bắc Kạn -> ID: 20701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn Thị Hiếu, UBND xã phương tiến, huyện vị xuyên, tỉnh Hà Giang, sđt 0942662751",
+    "top1": {
+      "phone_number": "0942662751",
+      "address": "UBND xã",
+      "commune_name": "Phương Tiến",
+      "district_name": "Vị Xuyên",
+      "province_name": "Hà Giang",
+      "full_address": "UBND xã Phương Tiến Vị Xuyên Hà Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0942662751",
+        "address": "UBND xã",
+        "commune_name": "Phương Tiến",
+        "district_name": "Vị Xuyên",
+        "province_name": "Hà Giang",
+        "full_address": "UBND xã Phương Tiến Vị Xuyên Hà Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "201",
+      "district_id": "20115",
+      "commune_id": "2011519",
+      "province_name": "Hà Giang",
+      "district_name": "Huyện Vị Xuyên",
+      "commune_name": "Xã Phương Tiến",
+      "found_items": [
+        "Tỉnh: Hà Giang -> ID: 201",
+        "Huyện: Huyện Vị Xuyên -> ID: 20115"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn Xuân Sinh tổ 5 KP khánh hội p tân phước khánh TP Tân Uyên tỉnh Bình Dương",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ 5, Khu phố Khánh Hội",
+      "commune_name": "Tân Phước Khánh",
+      "district_name": "Tân Uyên",
+      "province_name": "Bình Dương",
+      "full_address": "Tổ 5, Khu phố Khánh Hội Tân Phước Khánh Tân Uyên Bình Dương"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ 5, Khu phố Khánh Hội",
+        "commune_name": "Tân Phước Khánh",
+        "district_name": "Tân Uyên",
+        "province_name": "Bình Dương",
+        "full_address": "Tổ 5, Khu phố Khánh Hội Tân Phước Khánh Tân Uyên Bình Dương"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 5, Khu phố Khánh Hội",
+        "commune_name": "Phước Khánh",
+        "district_name": "Tân Uyên",
+        "province_name": "Bình Dương",
+        "full_address": "Tổ 5, Khu phố Khánh Hội Phước Khánh Tân Uyên Bình Dương"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "711",
+      "district_id": "71109",
+      "commune_id": null,
+      "province_name": "Bình Dương",
+      "district_name": "Huyện Bắc Tân Uyên",
+      "commune_name": "Tân Phước Khánh",
+      "found_items": [
+        "Tỉnh: Bình Dương -> ID: 711",
+        "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tan phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "711",
+          "district_id": "71109",
+          "commune_id": null,
+          "province_name": "Bình Dương",
+          "district_name": "Huyện Bắc Tân Uyên",
+          "commune_name": "Tân Phước Khánh",
+          "found_items": [
+            "Tỉnh: Bình Dương -> ID: 711",
+            "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+          ],
+          "errors": [
+            "Không tìm thấy xã: tan phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": "711",
+          "district_id": "71109",
+          "commune_id": null,
+          "province_name": "Bình Dương",
+          "district_name": "Huyện Bắc Tân Uyên",
+          "commune_name": "Phước Khánh",
+          "found_items": [
+            "Tỉnh: Bình Dương -> ID: 711",
+            "Huyện: Huyện Bắc Tân Uyên -> ID: 71109"
+          ],
+          "errors": [
+            "Không tìm thấy xã: phuoc khanh trong huyện Huyện Bắc Tân Uyên"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Lê Văn Hậu sdt 0339496688 tổ dân phố phong phú 1 phường Ninh giang thị xã Ninh hòa Khánh Hòa",
+    "top1": {
+      "phone_number": "0339496688",
+      "address": "Tổ dân phố Phong Phú 1",
+      "commune_name": "Ninh Giang",
+      "district_name": "Ninh Hòa",
+      "province_name": "Khánh Hòa",
+      "full_address": "Tổ dân phố Phong Phú 1 Ninh Giang Ninh Hòa Khánh Hòa"
+    },
+    "variants": [
+      {
+        "phone_number": "0339496688",
+        "address": "Tổ dân phố Phong Phú 1",
+        "commune_name": "Ninh Giang",
+        "district_name": "Ninh Hòa",
+        "province_name": "Khánh Hòa",
+        "full_address": "Tổ dân phố Phong Phú 1 Ninh Giang Ninh Hòa Khánh Hòa"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "511",
+      "district_id": "51105",
+      "commune_id": "5110533",
+      "province_name": "Khánh Hòa",
+      "district_name": "Thị xã Ninh Hòa",
+      "commune_name": "Phường Ninh Giang",
+      "found_items": [
+        "Tỉnh: Khánh Hòa -> ID: 511",
+        "Huyện: Thị xã Ninh Hòa -> ID: 51105"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "1,72  ,74kg tổ 1 bí trung 2 phường phương đông uong bí Quảng Ninh",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ 1, Bí Trung 2",
+      "commune_name": "Phường Phương Đông",
+      "district_name": "Thành phố Uông Bí",
+      "province_name": "Quảng Ninh",
+      "full_address": "Tổ 1, Bí Trung 2 Phường Phương Đông Thành phố Uông Bí Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ 1, Bí Trung 2",
+        "commune_name": "Phường Phương Đông",
+        "district_name": "uông bí",
+        "province_name": "Tỉnh Quảng Ninh",
+        "full_address": "Tổ 1, Bí Trung 2 Phường Phương Đông uông bí Tỉnh Quảng Ninh"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 1, Bí Trung 2",
+        "commune_name": "Phường Phương Đông",
+        "district_name": "Thành phố Uông Bí",
+        "province_name": "Tỉnh Quảng Ninh",
+        "full_address": "Tổ 1, Bí Trung 2 Phường Phương Đông Thành phố Uông Bí Tỉnh Quảng Ninh"
+      },
+      {
+        "phone_number": null,
+        "address": "Tổ 1, Bí Trung 2",
+        "commune_name": "Phương Đông",
+        "district_name": "Thành phố Uông Bí",
+        "province_name": "Tỉnh Quảng Ninh",
+        "full_address": "Tổ 1, Bí Trung 2 Phương Đông Thành phố Uông Bí Tỉnh Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22505",
+      "commune_id": "2250515",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Uông Bí",
+      "commune_name": "Phường Phương Đông",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Uông Bí -> ID: 22505"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Gửi về địa chỉ gầm cầu vượt hon đa phúc Thăng phúc yên vĩnh phúc 0912616900",
+    "top1": {
+      "phone_number": "0912616900",
+      "address": "Gầm cầu vượt Honda",
+      "commune_name": "Phúc Thắng",
+      "district_name": "Phúc Yên",
+      "province_name": "Vĩnh Phúc",
+      "full_address": "Gầm cầu vượt Honda Phúc Thắng Phúc Yên Vĩnh Phúc"
+    },
+    "variants": [
+      {
+        "phone_number": "0912616900",
+        "address": "Gầm cầu vượt Honda",
+        "commune_name": "Phúc Thắng",
+        "district_name": "Phúc Yên",
+        "province_name": "Vĩnh Phúc",
+        "full_address": "Gầm cầu vượt Honda Phúc Thắng Phúc Yên Vĩnh Phúc"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "104",
+      "district_id": "10402",
+      "commune_id": "1040213",
+      "province_name": "Vĩnh Phúc",
+      "district_name": "Thành phố Phúc Yên",
+      "commune_name": "Phường Phúc Thắng",
+      "found_items": [
+        "Tỉnh: Vĩnh Phúc -> ID: 104",
+        "Huyện: Thành phố Phúc Yên -> ID: 10402"
+      ],
+      "errors": []
+    }
+  }
+]

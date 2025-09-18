@@ -1,0 +1,529 @@
+[
+  {
+    "raw": "Võ Hồng phong khu tiểu thủ công nghiệp thị trấn quỳ hợp huyện quỳ hợp tỉnh nghệ an ĐT 0915686455",
+    "top1": {
+      "phone_number": "0915686455",
+      "address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp",
+      "commune_name": "Thị trấn Quỳ Hợp",
+      "district_name": "Huyện Quỳ Hợp",
+      "province_name": "Nghệ An",
+      "full_address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp Thị trấn Quỳ Hợp Huyện Quỳ Hợp Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0915686455",
+        "address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp",
+        "commune_name": "Thị trấn Quỳ Hợp",
+        "district_name": "quỳ hợp",
+        "province_name": "Tỉnh Nghệ An",
+        "full_address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp Thị trấn Quỳ Hợp quỳ hợp Tỉnh Nghệ An"
+      },
+      {
+        "phone_number": "0915686455",
+        "address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp",
+        "commune_name": "Thị trấn Quỳ Hợp",
+        "district_name": "Huyện Quỳ Hợp",
+        "province_name": "Tỉnh Nghệ An",
+        "full_address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp Thị trấn Quỳ Hợp Huyện Quỳ Hợp Tỉnh Nghệ An"
+      },
+      {
+        "phone_number": "0915686455",
+        "address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp",
+        "commune_name": "Quỳ Hợp",
+        "district_name": "Huyện Quỳ Hợp",
+        "province_name": "Tỉnh Nghệ An",
+        "full_address": "Võ Hồng Phong, Khu Tiểu Thủ Công Nghiệp Quỳ Hợp Huyện Quỳ Hợp Tỉnh Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40311",
+      "commune_id": "4031101",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Quỳ Hợp",
+      "commune_name": "Thị trấn Quỳ Hợp",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Quỳ Hợp -> ID: 40311"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "cao163cm năng 64kg lấy 4 áo 3lo về khu 12 xã Tiên Phú huyện phù Ninh tỉnh Phú Thọ sdt 0333616570",
+    "top1": {
+      "phone_number": "0333616570",
+      "address": "Khu 12",
+      "commune_name": "Xã Tiên Phú",
+      "district_name": "Huyện Phù Ninh",
+      "province_name": "Phú Thọ",
+      "full_address": "Khu 12 Xã Tiên Phú Huyện Phù Ninh Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0333616570",
+        "address": "Khu 12",
+        "commune_name": "Xã Tiên Phú",
+        "district_name": "phù ninh",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "Khu 12 Xã Tiên Phú phù ninh Tỉnh Phú Thọ"
+      },
+      {
+        "phone_number": "0333616570",
+        "address": "Khu 12",
+        "commune_name": "Xã Tiên Phú",
+        "district_name": "Huyện Phù Ninh",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "Khu 12 Xã Tiên Phú Huyện Phù Ninh Tỉnh Phú Thọ"
+      },
+      {
+        "phone_number": "0333616570",
+        "address": "Khu 12",
+        "commune_name": "Tiên Phú",
+        "district_name": "Huyện Phù Ninh",
+        "province_name": "Tỉnh Phú Thọ",
+        "full_address": "Khu 12 Tiên Phú Huyện Phù Ninh Tỉnh Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21711",
+      "commune_id": "2171121",
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Phù Ninh",
+      "commune_name": "Xã Tiên Phú",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Phù Ninh -> ID: 21711"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Alo: không cần gọi- shop bán 4 áo nhé- XXl 4 đen 75 Kg \n0384509535\nSố nhà 27- tổ 85-k5 Bạch Đằng Tp Hạ long quảng ninh.",
+    "top1": {
+      "phone_number": "0384509535",
+      "address": "Số nhà 27, Tổ 85, Khu 5",
+      "commune_name": "Bạch Đằng",
+      "district_name": "Hạ Long",
+      "province_name": "Quảng Ninh",
+      "full_address": "Số nhà 27, Tổ 85, Khu 5 Bạch Đằng Hạ Long Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0384509535",
+        "address": "Số nhà 27, Tổ 85, Khu 5",
+        "commune_name": "Bạch Đằng",
+        "district_name": "Hạ Long",
+        "province_name": "Quảng Ninh",
+        "full_address": "Số nhà 27, Tổ 85, Khu 5 Bạch Đằng Hạ Long Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22501",
+      "commune_id": "2250123",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Hạ Long",
+      "commune_name": "Phường Bạch Đằng",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Hạ Long -> ID: 22501"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0916703810 địa chỉ bản phương tiến 2 xã tiền Phong huyện Quế Phong tỉnh nghệ An",
+    "top1": {
+      "phone_number": "0916703810",
+      "address": "Bản Phương Tiến 2",
+      "commune_name": "Tiền Phong",
+      "district_name": "Quế Phong",
+      "province_name": "Nghệ An",
+      "full_address": "Bản Phương Tiến 2 Tiền Phong Quế Phong Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0916703810",
+        "address": "Bản Phương Tiến 2",
+        "commune_name": "Tiền Phong",
+        "district_name": "Quế Phong",
+        "province_name": "Nghệ An",
+        "full_address": "Bản Phương Tiến 2 Tiền Phong Quế Phong Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40305",
+      "commune_id": "4030509",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Quế Phong",
+      "commune_name": "Xã Tiền Phong",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Quế Phong -> ID: 40305"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn Thị Nga 0904290829 - Phòng CNTT-TT, Bệnh viện Bãi Cháy, phường Giếng Đáy, TP Hạ Long, Quảng Ninh",
+    "top1": {
+      "phone_number": "0904290829",
+      "address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy",
+      "commune_name": "Phường Giếng Đáy",
+      "district_name": "Thành phố Hạ Long",
+      "province_name": "Quảng Ninh",
+      "full_address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy Phường Giếng Đáy Thành phố Hạ Long Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0904290829",
+        "address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy",
+        "commune_name": "giếng đáy",
+        "district_name": "hạ long",
+        "province_name": "Quảng Ninh",
+        "full_address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy giếng đáy hạ long Quảng Ninh"
+      },
+      {
+        "phone_number": "0904290829",
+        "address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy",
+        "commune_name": "Phường Giếng Đáy",
+        "district_name": "Thành phố Hạ Long",
+        "province_name": "Quảng Ninh",
+        "full_address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy Phường Giếng Đáy Thành phố Hạ Long Quảng Ninh"
+      },
+      {
+        "phone_number": "0904290829",
+        "address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy",
+        "commune_name": "Giếng Đáy",
+        "district_name": "Thành phố Hạ Long",
+        "province_name": "Quảng Ninh",
+        "full_address": "Phòng CNTT-TT, Bệnh viện Bãi Cháy Giếng Đáy Thành phố Hạ Long Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22501",
+      "commune_id": "2250131",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Hạ Long",
+      "commune_name": "Phường Giếng Đáy",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Hạ Long -> ID: 22501"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "ĐC: số 9,dãy A, TT2 Bắc Linh Đàm, phường Đại Kim, quận Hoàng Mai, Hà Nội. ĐT 0948685337",
+    "top1": {
+      "phone_number": "0948685337",
+      "address": "Số 9, Dãy A, TT2 Bắc Linh Đàm",
+      "commune_name": "Phường Đại Kim",
+      "district_name": "Quận Hoàng Mai",
+      "province_name": "Hà Nội",
+      "full_address": "Số 9, Dãy A, TT2 Bắc Linh Đàm Phường Đại Kim Quận Hoàng Mai Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0948685337",
+        "address": "Số 9, Dãy A, TT2 Bắc Linh Đàm",
+        "commune_name": "đại kim",
+        "district_name": "hoàng mai",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số 9, Dãy A, TT2 Bắc Linh Đàm đại kim hoàng mai Thành phố Hà Nội"
+      },
+      {
+        "phone_number": "0948685337",
+        "address": "Số 9, Dãy A, TT2 Bắc Linh Đàm",
+        "commune_name": "Phường Đại Kim",
+        "district_name": "Quận Hoàng Mai",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số 9, Dãy A, TT2 Bắc Linh Đàm Phường Đại Kim Quận Hoàng Mai Thành phố Hà Nội"
+      },
+      {
+        "phone_number": "0948685337",
+        "address": "Số 9, Dãy A, TT2 Bắc Linh Đàm",
+        "commune_name": "Đại Kim",
+        "district_name": "Quận Hoàng Mai",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "Số 9, Dãy A, TT2 Bắc Linh Đàm Đại Kim Quận Hoàng Mai Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10108",
+      "commune_id": "1010815",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Hoàng Mai",
+      "commune_name": "Phường Đại Kim",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Hoàng Mai -> ID: 10108"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Trần Nhật Lệ xóm thanh yên xã Tân An Tân Kỳ nghệ An,c1,62N58kg,com bo4ao bốn màu, đt 0356220722",
+    "top1": {
+      "phone_number": "0356220722",
+      "address": "xóm Thanh Yên",
+      "commune_name": "Tân An",
+      "district_name": "Tân Kỳ",
+      "province_name": "Nghệ An",
+      "full_address": "xóm Thanh Yên Tân An Tân Kỳ Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0356220722",
+        "address": "xóm Thanh Yên",
+        "commune_name": "Tân An",
+        "district_name": "Tân Kỳ",
+        "province_name": "Nghệ An",
+        "full_address": "xóm Thanh Yên Tân An Tân Kỳ Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40319",
+      "commune_id": "4031941",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Tân Kỳ",
+      "commune_name": "Xã Tân An",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Tân Kỳ -> ID: 40319"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đc mai văn thiệp xã quang bình kiến xương thái bình \n0977651528",
+    "top1": {
+      "phone_number": "0977651528",
+      "address": "Mai Văn Thiệp",
+      "commune_name": "Quang Bình",
+      "district_name": "Kiến Xương",
+      "province_name": "Thái Bình",
+      "full_address": "Mai Văn Thiệp Quang Bình Kiến Xương Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": "0977651528",
+        "address": "Mai Văn Thiệp",
+        "commune_name": "Quang Bình",
+        "district_name": "Kiến Xương",
+        "province_name": "Thái Bình",
+        "full_address": "Mai Văn Thiệp Quang Bình Kiến Xương Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11513",
+      "commune_id": "1151349",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Kiến Xương",
+      "commune_name": "Xã Quang Bình",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Kiến Xương -> ID: 11513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Địa chỉ \nXóm 8 nghi thạch, nghi lộc nghệ an",
+    "top1": {
+      "phone_number": null,
+      "address": "Xóm 8",
+      "commune_name": "Nghi Thạch",
+      "district_name": "Nghi Lộc",
+      "province_name": "Nghệ An",
+      "full_address": "Xóm 8 Nghi Thạch Nghi Lộc Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Xóm 8",
+        "commune_name": "Nghi Thạch",
+        "district_name": "Nghi Lộc",
+        "province_name": "Nghệ An",
+        "full_address": "Xóm 8 Nghi Thạch Nghi Lộc Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40333",
+      "commune_id": "4033345",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Nghi Lộc",
+      "commune_name": "Xã Nghi Thạch",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Nghi Lộc -> ID: 40333"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Vi Toại cho A 04 áo hai sang hai tối màu cỡ cân nặng 68kg cao 1.68m địa chỉ Toà B CTTM Thuỳ Dương plaza lô 20 đường Lê Hồng Phong Hải phòng đt 0983681955",
+    "top1": {
+      "phone_number": "0983681955",
+      "address": "Lô 20 Toà B CTTM Thùy Dương Plaza, Đường Lê Hồng Phong",
+      "commune_name": "Đằng Giang",
+      "district_name": "Quận Ngô Quyền",
+      "province_name": "Hải Phòng",
+      "full_address": "Lô 20 Toà B CTTM Thùy Dương Plaza, Đường Lê Hồng Phong Đằng Giang Quận Ngô Quyền Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": "0983681955",
+        "address": "Lô 20 Toà B CTTM Thùy Dương Plaza, Đường Lê Hồng Phong",
+        "commune_name": "Đằng Giang",
+        "district_name": "Quận Ngô Quyền",
+        "province_name": "Thành phố Hải Phòng",
+        "full_address": "Lô 20 Toà B CTTM Thùy Dương Plaza, Đường Lê Hồng Phong Đằng Giang Quận Ngô Quyền Thành phố Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "103",
+      "district_id": "10303",
+      "commune_id": "1030321",
+      "province_name": "Hải Phòng",
+      "district_name": "Quận Ngô Quyền",
+      "commune_name": "Phường Đằng Giang",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận Ngô Quyền -> ID: 10303"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Vu Te sdt 0912284871 cổng ubnd huyện Nghĩa Hưng Nam Định",
+    "top1": {
+      "phone_number": "0912284871",
+      "address": "Vu Te cổng UBND",
+      "commune_name": "Thị trấn Liễu Đề",
+      "district_name": "Nghĩa Hưng",
+      "province_name": "Nam Định",
+      "full_address": "Vu Te cổng UBND Thị trấn Liễu Đề Nghĩa Hưng Nam Định"
+    },
+    "variants": [
+      {
+        "phone_number": "0912284871",
+        "address": "Vu Te cổng UBND",
+        "commune_name": "Thị trấn Liễu Đề",
+        "district_name": "Nghĩa Hưng",
+        "province_name": "Nam Định",
+        "full_address": "Vu Te cổng UBND Thị trấn Liễu Đề Nghĩa Hưng Nam Định"
+      },
+      {
+        "phone_number": "0912284871",
+        "address": "Vu Te cổng UBND",
+        "commune_name": "Liễu Đề",
+        "district_name": "Nghĩa Hưng",
+        "province_name": "Nam Định",
+        "full_address": "Vu Te cổng UBND Liễu Đề Nghĩa Hưng Nam Định"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "113",
+      "district_id": "11317",
+      "commune_id": "1131701",
+      "province_name": "Nam Định",
+      "district_name": "Huyện Nghĩa Hưng",
+      "commune_name": "Thị trấn Liễu Đề",
+      "found_items": [
+        "Tỉnh: Nam Định -> ID: 113",
+        "Huyện: Huyện Nghĩa Hưng -> ID: 11317"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "mua 4 áo 4 màu khác nhau về thôn Đại giáp xã Đại Lâm huyện lạng Giang tỉnh Bắc Giang sđt 0397464655",
+    "top1": {
+      "phone_number": "0397464655",
+      "address": "Thôn Đại Giáp",
+      "commune_name": "Đại Lâm",
+      "district_name": "Lạng Giang",
+      "province_name": "Bắc Giang",
+      "full_address": "Thôn Đại Giáp Đại Lâm Lạng Giang Bắc Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0397464655",
+        "address": "Thôn Đại Giáp",
+        "commune_name": "Đại Lâm",
+        "district_name": "Lạng Giang",
+        "province_name": "Bắc Giang",
+        "full_address": "Thôn Đại Giáp Đại Lâm Lạng Giang Bắc Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "221",
+      "district_id": "22111",
+      "commune_id": "2211147",
+      "province_name": "Bắc Giang",
+      "district_name": "Huyện Lạng Giang",
+      "commune_name": "Xã Đại Lâm",
+      "found_items": [
+        "Tỉnh: Bắc Giang -> ID: 221",
+        "Huyện: Huyện Lạng Giang -> ID: 22111"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đt 0903403467 Đc 63/52 phố tô Ngọc Vân quận Tây Hồ Hà nội",
+    "top1": {
+      "phone_number": "0903403467",
+      "address": "63/52 phố Tô Ngọc Vân",
+      "commune_name": null,
+      "district_name": "Tây Hồ",
+      "province_name": "Hà Nội",
+      "full_address": "63/52 phố Tô Ngọc Vân Tây Hồ Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0903403467",
+        "address": "63/52 phố Tô Ngọc Vân",
+        "commune_name": null,
+        "district_name": "Tây Hồ",
+        "province_name": "Hà Nội",
+        "full_address": "63/52 phố Tô Ngọc Vân Tây Hồ Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10103",
+      "commune_id": "1010301",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Tây Hồ",
+      "commune_name": "Phường Bưởi",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Tây Hồ -> ID: 10103"
+      ],
+      "errors": []
+    }
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "raw": "Cho tôi loại 2cai màu trắng và 2cai màu, gì sàng địa chỉ TDP Đại Xuân phường bãi Bông Phố yên Thái Nguyên sđt 0912007280 tôi cao 1,74 năng 75 kg mặc vừa rộng và dài",
+    "top1": {
+      "phone_number": "0912007280",
+      "address": "TDP Đại Xuân",
+      "commune_name": "Bãi Bông",
+      "district_name": "Phổ Yên",
+      "province_name": "Thái Nguyên",
+      "full_address": "TDP Đại Xuân Bãi Bông Phổ Yên Thái Nguyên"
+    },
+    "variants": [
+      {
+        "phone_number": "0912007280",
+        "address": "TDP Đại Xuân",
+        "commune_name": "Bãi Bông",
+        "district_name": "Phổ Yên",
+        "province_name": "Thái Nguyên",
+        "full_address": "TDP Đại Xuân Bãi Bông Phổ Yên Thái Nguyên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "215",
+      "district_id": "21517",
+      "commune_id": "2151703",
+      "province_name": "Thái Nguyên",
+      "district_name": "Thành phố Phổ Yên",
+      "commune_name": "Phường Bãi Bông",
+      "found_items": [
+        "Tỉnh: Thái Nguyên -> ID: 215",
+        "Huyện: Thành phố Phổ Yên -> ID: 21517"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Địa chỉ : Chợ Đầu , Thôn Đào Đặng , xã Trung Nghĩa , TP Hưng Yên \nĐT : 0988692873",
+    "top1": {
+      "phone_number": "0988692873",
+      "address": "Chợ Đầu, Thôn Đào Đặng",
+      "commune_name": "Trung Nghĩa",
+      "district_name": "Thành phố Hưng Yên",
+      "province_name": "Hưng Yên",
+      "full_address": "Chợ Đầu, Thôn Đào Đặng Trung Nghĩa Thành phố Hưng Yên Hưng Yên"
+    },
+    "variants": [
+      {
+        "phone_number": "0988692873",
+        "address": "Chợ Đầu, Thôn Đào Đặng",
+        "commune_name": "Trung Nghĩa",
+        "district_name": "hưng yên",
+        "province_name": "Hưng Yên",
+        "full_address": "Chợ Đầu, Thôn Đào Đặng Trung Nghĩa hưng yên Hưng Yên"
+      },
+      {
+        "phone_number": "0988692873",
+        "address": "Chợ Đầu, Thôn Đào Đặng",
+        "commune_name": "Trung Nghĩa",
+        "district_name": "Thành phố Hưng Yên",
+        "province_name": "Hưng Yên",
+        "full_address": "Chợ Đầu, Thôn Đào Đặng Trung Nghĩa Thành phố Hưng Yên Hưng Yên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "109",
+      "district_id": "10901",
+      "commune_id": "1090115",
+      "province_name": "Hưng Yên",
+      "district_name": "Thành phố Hưng Yên",
+      "commune_name": "Xã Trung Nghĩa",
+      "found_items": [
+        "Tỉnh: Hưng Yên -> ID: 109",
+        "Huyện: Thành phố Hưng Yên -> ID: 10901"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Kiot số 2 khu quân nhân A phường Cửa Bắc thành phố Nam Định điện thoại 091 530 7315",
+    "top1": {
+      "phone_number": "0915307315",
+      "address": "Kiot số 2 khu quân nhân A",
+      "commune_name": "Cửa Bắc",
+      "district_name": "Thành phố Nam Định",
+      "province_name": "Nam Định",
+      "full_address": "Kiot số 2 khu quân nhân A Cửa Bắc Thành phố Nam Định Nam Định"
+    },
+    "variants": [
+      {
+        "phone_number": "0915307315",
+        "address": "Kiot số 2 khu quân nhân A",
+        "commune_name": "Cửa Bắc",
+        "district_name": "nam định",
+        "province_name": "Nam Định",
+        "full_address": "Kiot số 2 khu quân nhân A Cửa Bắc nam định Nam Định"
+      },
+      {
+        "phone_number": "0915307315",
+        "address": "Kiot số 2 khu quân nhân A",
+        "commune_name": "Cửa Bắc",
+        "district_name": "Thành phố Nam Định",
+        "province_name": "Nam Định",
+        "full_address": "Kiot số 2 khu quân nhân A Cửa Bắc Thành phố Nam Định Nam Định"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "113",
+      "district_id": "11301",
+      "commune_id": "1130113",
+      "province_name": "Nam Định",
+      "district_name": "Thành phố Nam Định",
+      "commune_name": "Phường Cửa Bắc",
+      "found_items": [
+        "Tỉnh: Nam Định -> ID: 113",
+        "Huyện: Thành phố Nam Định -> ID: 11301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn 1 xã Long Bình huyện Phú Riềng Tỉnh Bình Phước",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn 1",
+      "commune_name": "Long Bình",
+      "district_name": "Phú Riềng",
+      "province_name": "Bình Phước",
+      "full_address": "Thôn 1 Long Bình Phú Riềng Bình Phước"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn 1",
+        "commune_name": "Long Bình",
+        "district_name": "Phú Riềng",
+        "province_name": "Bình Phước",
+        "full_address": "Thôn 1 Long Bình Phú Riềng Bình Phước"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "707",
+      "district_id": "70712",
+      "commune_id": "7071204",
+      "province_name": "Bình Phước",
+      "district_name": "Huyện Phú Riềng",
+      "commune_name": "Xã Long Bình",
+      "found_items": [
+        "Tỉnh: Bình Phước -> ID: 707",
+        "Huyện: Huyện Phú Riềng -> ID: 70712"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Phạm Thị Phương. Trường tiểu học thị trấn Yên Minh. Huyện Yên Minh. Tỉnh Hà Giang 0843745405",
+    "top1": {
+      "phone_number": "0843745405",
+      "address": "Trường tiểu học",
+      "commune_name": "Thị trấn Yên Minh",
+      "district_name": "Huyện Yên Minh",
+      "province_name": "Hà Giang",
+      "full_address": "Trường tiểu học Thị trấn Yên Minh Huyện Yên Minh Hà Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0843745405",
+        "address": "Trường tiểu học",
+        "commune_name": "Thị trấn Yên Minh",
+        "district_name": "Huyện Yên Minh",
+        "province_name": "Tỉnh Hà Giang",
+        "full_address": "Trường tiểu học Thị trấn Yên Minh Huyện Yên Minh Tỉnh Hà Giang"
+      },
+      {
+        "phone_number": "0843745405",
+        "address": "Trường tiểu học",
+        "commune_name": "Yên Minh",
+        "district_name": "Huyện Yên Minh",
+        "province_name": "Tỉnh Hà Giang",
+        "full_address": "Trường tiểu học Yên Minh Huyện Yên Minh Tỉnh Hà Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "201",
+      "district_id": "20107",
+      "commune_id": "2010701",
+      "province_name": "Hà Giang",
+      "district_name": "Huyện Yên Minh",
+      "commune_name": "Thị trấn Yên Minh",
+      "found_items": [
+        "Tỉnh: Hà Giang -> ID: 201",
+        "Huyện: Huyện Yên Minh -> ID: 20107"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đ/c: Số nhà 60-Bản Đớ - P. Na lay - TX Mường lay - Điện Biên. Đt: 0912795077. Cảm ơn!",
+    "top1": {
+      "phone_number": "0912795077",
+      "address": "Số nhà 60, Bản Đớ",
+      "commune_name": "Na Lay",
+      "district_name": "Mường Lay",
+      "province_name": "Điện Biên",
+      "full_address": "Số nhà 60, Bản Đớ Na Lay Mường Lay Điện Biên"
+    },
+    "variants": [
+      {
+        "phone_number": "0912795077",
+        "address": "Số nhà 60, Bản Đớ",
+        "commune_name": "Na Lay",
+        "district_name": "Mường Lay",
+        "province_name": "Điện Biên",
+        "full_address": "Số nhà 60, Bản Đớ Na Lay Mường Lay Điện Biên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "302",
+      "district_id": "30203",
+      "commune_id": "3020301",
+      "province_name": "Điện Biên",
+      "district_name": "Thị xã Mường Lay",
+      "commune_name": "Phường Na Lay",
+      "found_items": [
+        "Tỉnh: Điện Biên -> ID: 302",
+        "Huyện: Thị xã Mường Lay -> ID: 30203"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đc tổ 3 b khu trới 5 phường hoành bồ thành phố Hạ Long tính Quảng Ninh ĐT 0796386999",
+    "top1": {
+      "phone_number": "0796386999",
+      "address": "Tổ 3 B, Khu Trới 5",
+      "commune_name": "Hoành Bồ",
+      "district_name": "Hạ Long",
+      "province_name": "Quảng Ninh",
+      "full_address": "Tổ 3 B, Khu Trới 5 Hoành Bồ Hạ Long Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0796386999",
+        "address": "Tổ 3 B, Khu Trới 5",
+        "commune_name": "Hoành Bồ",
+        "district_name": "Hạ Long",
+        "province_name": "Quảng Ninh",
+        "full_address": "Tổ 3 B, Khu Trới 5 Hoành Bồ Hạ Long Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22501",
+      "commune_id": "2250120",
+      "province_name": "Quảng Ninh",
+      "district_name": "Thành phố Hạ Long",
+      "commune_name": "Phường Hoành Bồ",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Thành phố Hạ Long -> ID: 22501"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Hùng số nhà 547 đường Hùng Vương, thị trấn Bát Xát, huyện Bát Xát, tỉnh Lào Cai",
+    "top1": {
+      "phone_number": null,
+      "address": "Số nhà 547, đường Hùng Vương",
+      "commune_name": "Bát Xát",
+      "district_name": "Bát Xát",
+      "province_name": "Lào Cai",
+      "full_address": "Số nhà 547, đường Hùng Vương Bát Xát Bát Xát Lào Cai"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số nhà 547, đường Hùng Vương",
+        "commune_name": "Bát Xát",
+        "district_name": "Bát Xát",
+        "province_name": "Lào Cai",
+        "full_address": "Số nhà 547, đường Hùng Vương Bát Xát Bát Xát Lào Cai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "205",
+      "district_id": "20507",
+      "commune_id": "2050701",
+      "province_name": "Lào Cai",
+      "district_name": "Huyện Bát Xát",
+      "commune_name": "Thị trấn Bát Xát",
+      "found_items": [
+        "Tỉnh: Lào Cai -> ID: 205",
+        "Huyện: Huyện Bát Xát -> ID: 20507"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "thôn an thọ xã thanh tân kiến xương thái bình",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn An Thọ",
+      "commune_name": "Thanh Tân",
+      "district_name": "Kiến Xương",
+      "province_name": "Thái Bình",
+      "full_address": "Thôn An Thọ Thanh Tân Kiến Xương Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn An Thọ",
+        "commune_name": "Thanh Tân",
+        "district_name": "Kiến Xương",
+        "province_name": "Thái Bình",
+        "full_address": "Thôn An Thọ Thanh Tân Kiến Xương Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11513",
+      "commune_id": "1151331",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Kiến Xương",
+      "commune_name": "Xã Thanh Tân",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Kiến Xương -> ID: 11513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Lấy hai áo trắng hai áo xám số nhà 219 đường Trần Hưng Đạo thị trấn An bài Quỳnh phụ Thái Bình",
+    "top1": {
+      "phone_number": null,
+      "address": "219 đường Trần Hưng Đạo",
+      "commune_name": "Thị trấn An Bài",
+      "district_name": "Quỳnh Phụ",
+      "province_name": "Thái Bình",
+      "full_address": "219 đường Trần Hưng Đạo Thị trấn An Bài Quỳnh Phụ Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "219 đường Trần Hưng Đạo",
+        "commune_name": "an bài",
+        "district_name": "Quỳnh Phụ",
+        "province_name": "Thái Bình",
+        "full_address": "219 đường Trần Hưng Đạo an bài Quỳnh Phụ Thái Bình"
+      },
+      {
+        "phone_number": null,
+        "address": "219 đường Trần Hưng Đạo",
+        "commune_name": "Thị trấn An Bài",
+        "district_name": "Quỳnh Phụ",
+        "province_name": "Thái Bình",
+        "full_address": "219 đường Trần Hưng Đạo Thị trấn An Bài Quỳnh Phụ Thái Bình"
+      },
+      {
+        "phone_number": null,
+        "address": "219 đường Trần Hưng Đạo",
+        "commune_name": "An Bài",
+        "district_name": "Quỳnh Phụ",
+        "province_name": "Thái Bình",
+        "full_address": "219 đường Trần Hưng Đạo An Bài Quỳnh Phụ Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11503",
+      "commune_id": "1150361",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Quỳnh Phụ",
+      "commune_name": "Thị trấn An Bài",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Quỳnh Phụ -> ID: 11503"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "DT 0934858356\nThôn 10 cư ni Eakar Dăk Lăk",
+    "top1": {
+      "phone_number": "0934858356",
+      "address": "Thôn 10",
+      "commune_name": "Cư Ni",
+      "district_name": "Ea Kar",
+      "province_name": "Đắk Lắk",
+      "full_address": "Thôn 10 Cư Ni Ea Kar Đắk Lắk"
+    },
+    "variants": [
+      {
+        "phone_number": "0934858356",
+        "address": "Thôn 10",
+        "commune_name": "Cư Ni",
+        "district_name": "Ea Kar",
+        "province_name": "Đắk Lắk",
+        "full_address": "Thôn 10 Cư Ni Ea Kar Đắk Lắk"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "605",
+      "district_id": "60515",
+      "commune_id": "6051517",
+      "province_name": "Đắk Lắk",
+      "district_name": "Huyện Ea Kar",
+      "commune_name": "Xã Cư Ni",
+      "found_items": [
+        "Tỉnh: Đắk Lắk -> ID: 605",
+        "Huyện: Huyện Ea Kar -> ID: 60515"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0902085068, địa chỉ số 20 phố Huỳnh Thúc Kháng, đống đa",
+    "top1": {
+      "phone_number": "0902085068",
+      "address": "số 20 phố Huỳnh Thúc Kháng",
+      "commune_name": null,
+      "district_name": "Đống Đa",
+      "province_name": "Hà Nội",
+      "full_address": "số 20 phố Huỳnh Thúc Kháng Đống Đa Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0902085068",
+        "address": "số 20 phố Huỳnh Thúc Kháng",
+        "commune_name": null,
+        "district_name": "Đống Đa",
+        "province_name": "Thành phố Hà Nội",
+        "full_address": "số 20 phố Huỳnh Thúc Kháng Đống Đa Thành phố Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10109",
+      "commune_id": "1010903",
+      "province_name": "Hà Nội",
+      "district_name": "Quận Đống Đa",
+      "commune_name": "Phường Cát Linh",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Quận Đống Đa -> ID: 10109"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Phan phương ở khu xã Khải Xuân huyện thanh ba tỉnh Phú thọ đt0352935258",
+    "top1": {
+      "phone_number": "0352935258",
+      "address": "Khu",
+      "commune_name": "Khải Xuân",
+      "district_name": "Thanh Ba",
+      "province_name": "Phú Thọ",
+      "full_address": "Khu Khải Xuân Thanh Ba Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0352935258",
+        "address": "Khu",
+        "commune_name": "Khải Xuân",
+        "district_name": "Thanh Ba",
+        "province_name": "Phú Thọ",
+        "full_address": "Khu Khải Xuân Thanh Ba Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21709",
+      "commune_id": "2170931",
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Thanh Ba",
+      "commune_name": "Xã Khải Xuân",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Thanh Ba -> ID: 21709"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Hãy anh mua 4 áo ba lỗ như quảng cáo Nguyễn Văn thức sống cả xã vạn Phú huyện Đại từ tỉnh Thái Nguyên chiều cao 1 mét 67 cân nặng 65 kg số điện thoại 033 207 9148 đúng như quảng cáo 200.000 miễn phí ship hàng đúng như quảng cáo với nhận hàng nhé",
+    "top1": {
+      "phone_number": "0332079148",
+      "address": null,
+      "commune_name": "Vạn Phú",
+      "district_name": "Đại Từ",
+      "province_name": "Thái Nguyên",
+      "full_address": "Vạn Phú Đại Từ Thái Nguyên"
+    },
+    "variants": [
+      {
+        "phone_number": "0332079148",
+        "address": "",
+        "commune_name": "Vạn Phú",
+        "district_name": "Đại Từ",
+        "province_name": "Thái Nguyên",
+        "full_address": "Vạn Phú Đại Từ Thái Nguyên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "215",
+      "district_id": "21513",
+      "commune_id": "2151370",
+      "province_name": "Thái Nguyên",
+      "district_name": "Huyện Đại Từ",
+      "commune_name": "Xã Vạn Phú",
+      "found_items": [
+        "Tỉnh: Thái Nguyên -> ID: 215",
+        "Huyện: Huyện Đại Từ -> ID: 21513"
+      ],
+      "errors": []
+    }
+  }
+]

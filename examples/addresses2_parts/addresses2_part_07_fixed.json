@@ -1,0 +1,529 @@
+[
+  {
+    "raw": "cty Lê duy hưng ấp bình xã tân an vĩnh cửu đồng nai",
+    "top1": {
+      "phone_number": null,
+      "address": "Cty Lê Duy Hưng, ấp Bình",
+      "commune_name": null,
+      "district_name": "Vĩnh Cửu",
+      "province_name": "Đồng Nai",
+      "full_address": "Cty Lê Duy Hưng, ấp Bình Vĩnh Cửu Đồng Nai"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Cty Lê Duy Hưng, ấp Bình",
+        "commune_name": null,
+        "district_name": "Vĩnh Cửu",
+        "province_name": "Đồng Nai",
+        "full_address": "Cty Lê Duy Hưng, ấp Bình Vĩnh Cửu Đồng Nai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "713",
+      "district_id": "71307",
+      "commune_id": "7130719",
+      "province_name": "Đồng Nai",
+      "district_name": "Huyện Vĩnh Cửu",
+      "commune_name": "Xã Bình Hòa",
+      "found_items": [
+        "Tỉnh: Đồng Nai -> ID: 713",
+        "Huyện: Huyện Vĩnh Cửu -> ID: 71307"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Tổ 19 phường nam sơn thành phố tam điệp tỉnh ninh binh",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ 19",
+      "commune_name": "Nam Sơn",
+      "district_name": "Tam Điệp",
+      "province_name": "Ninh Bình",
+      "full_address": "Tổ 19 Nam Sơn Tam Điệp Ninh Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ 19",
+        "commune_name": "Nam Sơn",
+        "district_name": "Tam Điệp",
+        "province_name": "Ninh Bình",
+        "full_address": "Tổ 19 Nam Sơn Tam Điệp Ninh Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "117",
+      "district_id": "11703",
+      "commune_id": "1170305",
+      "province_name": "Ninh Bình",
+      "district_name": "Thành phố Tam Điệp",
+      "commune_name": "Phường Nam Sơn",
+      "found_items": [
+        "Tỉnh: Ninh Bình -> ID: 117",
+        "Huyện: Thành phố Tam Điệp -> ID: 11703"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Gửi theo địa chỉ 263 lê Phụng hiểu phường tiền  Ninh vệ số điện thoại 0913583735 Giá này là bao ship phải không",
+    "top1": {
+      "phone_number": "0913583735",
+      "address": "263 Lê Phụng Hiểu",
+      "commune_name": "Phường Tiền An",
+      "district_name": "Thành phố Bắc Ninh",
+      "province_name": "Bắc Ninh",
+      "full_address": "263 Lê Phụng Hiểu Phường Tiền An Thành phố Bắc Ninh Bắc Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0913583735",
+        "address": "263 Lê Phụng Hiểu",
+        "commune_name": "tiền an",
+        "district_name": "bắc ninh",
+        "province_name": "Bắc Ninh",
+        "full_address": "263 Lê Phụng Hiểu tiền an bắc ninh Bắc Ninh"
+      },
+      {
+        "phone_number": "0913583735",
+        "address": "263 Lê Phụng Hiểu",
+        "commune_name": "Phường Tiền An",
+        "district_name": "Thành phố Bắc Ninh",
+        "province_name": "Bắc Ninh",
+        "full_address": "263 Lê Phụng Hiểu Phường Tiền An Thành phố Bắc Ninh Bắc Ninh"
+      },
+      {
+        "phone_number": "0913583735",
+        "address": "263 Lê Phụng Hiểu",
+        "commune_name": "Tiền An",
+        "district_name": "Thành phố Bắc Ninh",
+        "province_name": "Bắc Ninh",
+        "full_address": "263 Lê Phụng Hiểu Tiền An Thành phố Bắc Ninh Bắc Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "106",
+      "district_id": "10601",
+      "commune_id": "1060107",
+      "province_name": "Bắc Ninh",
+      "district_name": "Thành phố Bắc Ninh",
+      "commune_name": "Phường Tiền An",
+      "found_items": [
+        "Tỉnh: Bắc Ninh -> ID: 106",
+        "Huyện: Thành phố Bắc Ninh -> ID: 10601"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "30/222 phố Đồng niên p Việt Hòa tp Hải Dương",
+    "top1": {
+      "phone_number": null,
+      "address": "30/222 phố Đồng Niên",
+      "commune_name": "Việt Hoà",
+      "district_name": "Thành phố Hải Dương",
+      "province_name": "Hải Dương",
+      "full_address": "30/222 phố Đồng Niên Việt Hoà Thành phố Hải Dương Hải Dương"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "30/222 phố Đồng Niên",
+        "commune_name": "Việt Hoà",
+        "district_name": "Thành phố Hải Dương",
+        "province_name": "Hải Dương",
+        "full_address": "30/222 phố Đồng Niên Việt Hoà Thành phố Hải Dương Hải Dương"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "107",
+      "district_id": "10701",
+      "commune_id": null,
+      "province_name": "Hải Dương",
+      "district_name": "Thành phố Hải Dương",
+      "commune_name": "Việt Hoà",
+      "found_items": [
+        "Tỉnh: Hải Dương -> ID: 107",
+        "Huyện: Thành phố Hải Dương -> ID: 10701"
+      ],
+      "errors": [
+        "Không tìm thấy xã: viet hoa trong huyện Thành phố Hải Dương"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "107",
+          "district_id": "10701",
+          "commune_id": null,
+          "province_name": "Hải Dương",
+          "district_name": "Thành phố Hải Dương",
+          "commune_name": "Việt Hoà",
+          "found_items": [
+            "Tỉnh: Hải Dương -> ID: 107",
+            "Huyện: Thành phố Hải Dương -> ID: 10701"
+          ],
+          "errors": [
+            "Không tìm thấy xã: viet hoa trong huyện Thành phố Hải Dương"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Khu chung cư phường Hồng thái Quận an dương Hải phòng",
+    "top1": {
+      "phone_number": null,
+      "address": "Khu chung cư",
+      "commune_name": "Hồng Thái",
+      "district_name": "An Dương",
+      "province_name": "Hải Phòng",
+      "full_address": "Khu chung cư Hồng Thái An Dương Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Khu chung cư",
+        "commune_name": "Hồng Thái",
+        "district_name": "An Dương",
+        "province_name": "Hải Phòng",
+        "full_address": "Khu chung cư Hồng Thái An Dương Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "103",
+      "district_id": "10313",
+      "commune_id": "1031331",
+      "province_name": "Hải Phòng",
+      "district_name": "Quận An Dương",
+      "commune_name": "Xã Hồng Thái",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận An Dương -> ID: 10313"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Thôn Long hợp xã Tân Long huyện hướng Hóa tỉnh Quảng Trị sdt 0946027152",
+    "top1": {
+      "phone_number": "0946027152",
+      "address": "Thôn Long hợp",
+      "commune_name": "Tân Long",
+      "district_name": "Hướng Hóa",
+      "province_name": "Quảng Trị",
+      "full_address": "Thôn Long hợp Tân Long Hướng Hóa Quảng Trị"
+    },
+    "variants": [
+      {
+        "phone_number": "0946027152",
+        "address": "Thôn Long hợp",
+        "commune_name": "Tân Long",
+        "district_name": "Hướng Hóa",
+        "province_name": "Quảng Trị",
+        "full_address": "Thôn Long hợp Tân Long Hướng Hóa Quảng Trị"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "409",
+      "district_id": "40915",
+      "commune_id": "4091519",
+      "province_name": "Quảng Trị",
+      "district_name": "Huyện Hướng Hóa",
+      "commune_name": "Xã Tân Long",
+      "found_items": [
+        "Tỉnh: Quảng Trị -> ID: 409",
+        "Huyện: Huyện Hướng Hóa -> ID: 40915"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đc Hưng lê  Công ty TNHH Phúc Châu An Đường N4 Khu Công nghiệp hỗ trợ Đồng Văn 3 phường tiên nội Thị xã Duy Tiên Hà Nam",
+    "top1": {
+      "phone_number": null,
+      "address": "Đường N4 Khu Công nghiệp hỗ trợ Đồng Văn 3",
+      "commune_name": "Tiên Nội",
+      "district_name": "Duy Tiên",
+      "province_name": "Hà Nam",
+      "full_address": "Đường N4 Khu Công nghiệp hỗ trợ Đồng Văn 3 Tiên Nội Duy Tiên Hà Nam"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Đường N4 Khu Công nghiệp hỗ trợ Đồng Văn 3",
+        "commune_name": "Tiên Nội",
+        "district_name": "Duy Tiên",
+        "province_name": "Hà Nam",
+        "full_address": "Đường N4 Khu Công nghiệp hỗ trợ Đồng Văn 3 Tiên Nội Duy Tiên Hà Nam"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "111",
+      "district_id": "11103",
+      "commune_id": "1110327",
+      "province_name": "Hà Nam",
+      "district_name": "Thị xã Duy Tiên",
+      "commune_name": "Phường Tiên Nội",
+      "found_items": [
+        "Tỉnh: Hà Nam -> ID: 111",
+        "Huyện: Thị xã Duy Tiên -> ID: 11103"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "B 25,Kp 5,Phường Tân Hiệp Tp Biên Hòa Tỉnh Đồng Nai ( 0779001455)",
+    "top1": {
+      "phone_number": "0779001455",
+      "address": "B 25, Khu phố 5",
+      "commune_name": "Tân Hiệp",
+      "district_name": "Thành phố Biên Hòa",
+      "province_name": "Đồng Nai",
+      "full_address": "B 25, Khu phố 5 Tân Hiệp Thành phố Biên Hòa Đồng Nai"
+    },
+    "variants": [
+      {
+        "phone_number": "0779001455",
+        "address": "B 25, Khu phố 5",
+        "commune_name": "Tân Hiệp",
+        "district_name": "biên hòa",
+        "province_name": "Đồng Nai",
+        "full_address": "B 25, Khu phố 5 Tân Hiệp biên hòa Đồng Nai"
+      },
+      {
+        "phone_number": "0779001455",
+        "address": "B 25, Khu phố 5",
+        "commune_name": "Tân Hiệp",
+        "district_name": "Thành phố Biên Hòa",
+        "province_name": "Đồng Nai",
+        "full_address": "B 25, Khu phố 5 Tân Hiệp Thành phố Biên Hòa Đồng Nai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "713",
+      "district_id": "71301",
+      "commune_id": "7130127",
+      "province_name": "Đồng Nai",
+      "district_name": "Thành phố Biên Hòa",
+      "commune_name": "Phường Tân Hiệp",
+      "found_items": [
+        "Tỉnh: Đồng Nai -> ID: 713",
+        "Huyện: Thành phố Biên Hòa -> ID: 71301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "4 áo ba lỗ màu trắng size L..đt 0983261506 . địa chỉ số 5 đường Nguyễn Văn túy \nPhường quán toan.\nQuận hồng bàng TP Hải Phòng",
+    "top1": {
+      "phone_number": "0983261506",
+      "address": "Số 5 đường Nguyễn Văn Túy",
+      "commune_name": "Quán Toan",
+      "district_name": "Hồng Bàng",
+      "province_name": "Hải Phòng",
+      "full_address": "Số 5 đường Nguyễn Văn Túy Quán Toan Hồng Bàng Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": "0983261506",
+        "address": "Số 5 đường Nguyễn Văn Túy",
+        "commune_name": "Quán Toan",
+        "district_name": "Hồng Bàng",
+        "province_name": "Hải Phòng",
+        "full_address": "Số 5 đường Nguyễn Văn Túy Quán Toan Hồng Bàng Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "103",
+      "district_id": "10301",
+      "commune_id": "1030101",
+      "province_name": "Hải Phòng",
+      "district_name": "Quận Hồng Bàng",
+      "commune_name": "Phường Quán Toan",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận Hồng Bàng -> ID: 10301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Sn 796: tổ 8, đường Nguyễn Tất Thành, TT Phố Ràng, Bảo Yên, Lào Cai. Sdt 0823789370",
+    "top1": {
+      "phone_number": "0823789370",
+      "address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành",
+      "commune_name": "Thị trấn Phố Ràng",
+      "district_name": "Bảo Yên",
+      "province_name": "Lào Cai",
+      "full_address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành Thị trấn Phố Ràng Bảo Yên Lào Cai"
+    },
+    "variants": [
+      {
+        "phone_number": "0823789370",
+        "address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành",
+        "commune_name": "phố ràng",
+        "district_name": "Bảo Yên",
+        "province_name": "Lào Cai",
+        "full_address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành phố ràng Bảo Yên Lào Cai"
+      },
+      {
+        "phone_number": "0823789370",
+        "address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành",
+        "commune_name": "Thị trấn Phố Ràng",
+        "district_name": "Bảo Yên",
+        "province_name": "Lào Cai",
+        "full_address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành Thị trấn Phố Ràng Bảo Yên Lào Cai"
+      },
+      {
+        "phone_number": "0823789370",
+        "address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành",
+        "commune_name": "Phố Ràng",
+        "district_name": "Bảo Yên",
+        "province_name": "Lào Cai",
+        "full_address": "Số nhà 796, tổ 8, đường Nguyễn Tất Thành Phố Ràng Bảo Yên Lào Cai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "205",
+      "district_id": "20515",
+      "commune_id": "2051501",
+      "province_name": "Lào Cai",
+      "district_name": "Huyện Bảo Yên",
+      "commune_name": "Thị trấn Phố Ràng",
+      "found_items": [
+        "Tỉnh: Lào Cai -> ID: 205",
+        "Huyện: Huyện Bảo Yên -> ID: 20515"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "mình mua 4 áo địa chỉ Phạm Văn đình thôn Liên Trì 2 xã Yên Hòa huyện Yên Mô tỉnh Ninh Bình Minh cao một mét 60 nặng 75 kg",
+    "top1": {
+      "phone_number": null,
+      "address": "Phạm Văn Đình, Thôn Liên Trì 2",
+      "commune_name": "Yên Hòa",
+      "district_name": "Yên Mô",
+      "province_name": "Ninh Bình",
+      "full_address": "Phạm Văn Đình, Thôn Liên Trì 2 Yên Hòa Yên Mô Ninh Bình"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Phạm Văn Đình, Thôn Liên Trì 2",
+        "commune_name": "Yên Hòa",
+        "district_name": "Yên Mô",
+        "province_name": "Ninh Bình",
+        "full_address": "Phạm Văn Đình, Thôn Liên Trì 2 Yên Hòa Yên Mô Ninh Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "117",
+      "district_id": "11711",
+      "commune_id": "1171113",
+      "province_name": "Ninh Bình",
+      "district_name": "Huyện Yên Mô",
+      "commune_name": "Xã Yên Hòa",
+      "found_items": [
+        "Tỉnh: Ninh Bình -> ID: 117",
+        "Huyện: Huyện Yên Mô -> ID: 11711"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đt: 0397467082 đc thôn đông ngũ xã đông ngũ huyện tiên yên tỉnh quảng ninh",
+    "top1": {
+      "phone_number": "0397467082",
+      "address": "thôn Đông Ngũ",
+      "commune_name": "Đông Ngũ",
+      "district_name": "Tiên Yên",
+      "province_name": "Quảng Ninh",
+      "full_address": "thôn Đông Ngũ Đông Ngũ Tiên Yên Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": "0397467082",
+        "address": "thôn Đông Ngũ",
+        "commune_name": "Đông Ngũ",
+        "district_name": "Tiên Yên",
+        "province_name": "Quảng Ninh",
+        "full_address": "thôn Đông Ngũ Đông Ngũ Tiên Yên Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22513",
+      "commune_id": "2251317",
+      "province_name": "Quảng Ninh",
+      "district_name": "Huyện Tiên Yên",
+      "commune_name": "Xã Đông Ngũ",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Huyện Tiên Yên -> ID: 22513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "2xl. Sđt 0982810609, đường Mai lão bạng xóm 6 nghi phú, thành phố vinh , tỉnh nghệ an",
+    "top1": {
+      "phone_number": "0982810609",
+      "address": "Đường Mai Lão Bạng, Xóm 6",
+      "commune_name": "Nghi Phú",
+      "district_name": "Thành phố Vinh",
+      "province_name": "Nghệ An",
+      "full_address": "Đường Mai Lão Bạng, Xóm 6 Nghi Phú Thành phố Vinh Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0982810609",
+        "address": "Đường Mai Lão Bạng, Xóm 6",
+        "commune_name": "Nghi Phú",
+        "district_name": "vinh",
+        "province_name": "Nghệ An",
+        "full_address": "Đường Mai Lão Bạng, Xóm 6 Nghi Phú vinh Nghệ An"
+      },
+      {
+        "phone_number": "0982810609",
+        "address": "Đường Mai Lão Bạng, Xóm 6",
+        "commune_name": "Nghi Phú",
+        "district_name": "Thành phố Vinh",
+        "province_name": "Nghệ An",
+        "full_address": "Đường Mai Lão Bạng, Xóm 6 Nghi Phú Thành phố Vinh Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40301",
+      "commune_id": "4030127",
+      "province_name": "Nghệ An",
+      "district_name": "Thành phố Vinh",
+      "commune_name": "Phường Nghi Phú",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Thành phố Vinh -> ID: 40301"
+      ],
+      "errors": []
+    }
+  }
+]

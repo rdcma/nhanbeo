@@ -1,0 +1,592 @@
+[
+  {
+    "raw": "đt 0965 329 166 số nhà 116 chợ La đồng xã Hợp tiến Mỹ đức Hà nội",
+    "top1": {
+      "phone_number": "0965329166",
+      "address": "116 Chợ La Đồng",
+      "commune_name": "Hợp Tiến",
+      "district_name": "Mỹ Đức",
+      "province_name": "Hà Nội",
+      "full_address": "116 Chợ La Đồng Hợp Tiến Mỹ Đức Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0965329166",
+        "address": "116 Chợ La Đồng",
+        "commune_name": "Hợp Tiến",
+        "district_name": "Mỹ Đức",
+        "province_name": "Hà Nội",
+        "full_address": "116 Chợ La Đồng Hợp Tiến Mỹ Đức Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10147",
+      "commune_id": "1014741",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Mỹ Đức",
+      "commune_name": "Xã Hợp Tiến",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Mỹ Đức -> ID: 10147"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "cho 4 áo 2 trắng 2 xám đc khu dùng xãtrung sơn yên lặp phú thọ",
+    "top1": {
+      "phone_number": null,
+      "address": null,
+      "commune_name": "Trung Sơn",
+      "district_name": "Yên Lập",
+      "province_name": "Phú Thọ",
+      "full_address": "Trung Sơn Yên Lập Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "",
+        "commune_name": "Trung Sơn",
+        "district_name": "Yên Lập",
+        "province_name": "Phú Thọ",
+        "full_address": "Trung Sơn Yên Lập Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "217",
+      "district_id": "21715",
+      "commune_id": "2171511",
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Yên Lập",
+      "commune_name": "Xã Trung Sơn",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Yên Lập -> ID: 21715"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Mình nặng 65kg cao 1m65 lấy 4 áo trắng đến số5 ngõ 238 đường 419 Đồng cam Liên quan Thạch thất HN đt 0917689707",
+    "top1": {
+      "phone_number": "0917689707",
+      "address": "Số 5 ngõ 238 Đường 419 Đồng Cam",
+      "commune_name": "Liên Quan",
+      "district_name": "Thạch Thất",
+      "province_name": "Hà Nội",
+      "full_address": "Số 5 ngõ 238 Đường 419 Đồng Cam Liên Quan Thạch Thất Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0917689707",
+        "address": "Số 5 ngõ 238 Đường 419 Đồng Cam",
+        "commune_name": "Liên Quan",
+        "district_name": "Thạch Thất",
+        "province_name": "Hà Nội",
+        "full_address": "Số 5 ngõ 238 Đường 419 Đồng Cam Liên Quan Thạch Thất Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10135",
+      "commune_id": "1013501",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Thạch Thất",
+      "commune_name": "Thị trấn Liên Quan",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Thạch Thất -> ID: 10135"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Phường thuy ha thon tây trai thành phố thuy nguyên hp biu điện trung ha cũ",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn Tây Trại, Bưu điện Trung Hà cũ",
+      "commune_name": "Trung Hà",
+      "district_name": "Thủy Nguyên",
+      "province_name": "Hải Phòng",
+      "full_address": "Thôn Tây Trại, Bưu điện Trung Hà cũ Trung Hà Thủy Nguyên Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn Tây Trại, Bưu điện Trung Hà cũ",
+        "commune_name": "Trung Hà",
+        "district_name": "Thủy Nguyên",
+        "province_name": "Hải Phòng",
+        "full_address": "Thôn Tây Trại, Bưu điện Trung Hà cũ Trung Hà Thủy Nguyên Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "103",
+      "district_id": "10311",
+      "commune_id": "1031139",
+      "province_name": "Hải Phòng",
+      "district_name": "Thành phố Thủy Nguyên",
+      "commune_name": "Xã Trung Hà",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Thành phố Thủy Nguyên -> ID: 10311"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Lê thị Chính uỷ ban nhân dân xã Lam Điền, chương mỹ, hà nội.",
+    "top1": {
+      "phone_number": null,
+      "address": "Uỷ ban nhân dân",
+      "commune_name": "Lam Điền",
+      "district_name": "Chương Mỹ",
+      "province_name": "Hà Nội",
+      "full_address": "Uỷ ban nhân dân Lam Điền Chương Mỹ Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Uỷ ban nhân dân",
+        "commune_name": "Lam Điền",
+        "district_name": "Chương Mỹ",
+        "province_name": "Hà Nội",
+        "full_address": "Uỷ ban nhân dân Lam Điền Chương Mỹ Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10141",
+      "commune_id": "1014135",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Chương Mỹ",
+      "commune_name": "Xã Lam Điền",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Chương Mỹ -> ID: 10141"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cho 3 màu 2trang đc Nguyễn Hữu vách thôn thuần mỹ xã Vĩnh Cường Thanh Hà Hải Dương đt 0975675309",
+    "top1": {
+      "phone_number": "0975675309",
+      "address": "Nguyễn Hữu vách thôn Thuần Mỹ",
+      "commune_name": "Vĩnh Cường",
+      "district_name": "Thanh Hà",
+      "province_name": "Hải Dương",
+      "full_address": "Nguyễn Hữu vách thôn Thuần Mỹ Vĩnh Cường Thanh Hà Hải Dương"
+    },
+    "variants": [
+      {
+        "phone_number": "0975675309",
+        "address": "Nguyễn Hữu vách thôn Thuần Mỹ",
+        "commune_name": "Vĩnh Cường",
+        "district_name": "Thanh Hà",
+        "province_name": "Hải Dương",
+        "full_address": "Nguyễn Hữu vách thôn Thuần Mỹ Vĩnh Cường Thanh Hà Hải Dương"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "107",
+      "district_id": "10707",
+      "commune_id": "1070761",
+      "province_name": "Hải Dương",
+      "district_name": "Huyện Thanh Hà",
+      "commune_name": "Xã Vĩnh Cường",
+      "found_items": [
+        "Tỉnh: Hải Dương -> ID: 107",
+        "Huyện: Huyện Thanh Hà -> ID: 10707"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "288/22 trân phú phường 5 TP vũng tàu",
+    "top1": {
+      "phone_number": null,
+      "address": "288/22 Trần Phú",
+      "commune_name": "Phường 5",
+      "district_name": "Thành phố Vũng Tàu",
+      "province_name": "Bà Rịa – Vũng Tàu",
+      "full_address": "288/22 Trần Phú Phường 5 Thành phố Vũng Tàu Bà Rịa – Vũng Tàu"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "288/22 Trần Phú",
+        "commune_name": "Phường 5",
+        "district_name": "vũng tàu",
+        "province_name": "Bà Rịa – Vũng Tàu",
+        "full_address": "288/22 Trần Phú Phường 5 vũng tàu Bà Rịa – Vũng Tàu"
+      },
+      {
+        "phone_number": null,
+        "address": "288/22 Trần Phú",
+        "commune_name": "Phường 5",
+        "district_name": "Thành phố Vũng Tàu",
+        "province_name": "Bà Rịa – Vũng Tàu",
+        "full_address": "288/22 Trần Phú Phường 5 Thành phố Vũng Tàu Bà Rịa – Vũng Tàu"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": null,
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Bà Rịa – Vũng Tàu",
+      "district_name": "Thành phố Vũng Tàu",
+      "commune_name": "Phường 5",
+      "found_items": [],
+      "errors": [
+        "Không tìm thấy tỉnh: ba ria – vung tau",
+        "Không tìm thấy huyện: thanh pho vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+        "Không tìm thấy xã: phuong 5 trong huyện Thành phố Vũng Tàu"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa – Vũng Tàu",
+          "district_name": "vũng tàu",
+          "commune_name": "Phường 5",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: ba ria – vung tau",
+            "Không tìm thấy huyện: vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+            "Không tìm thấy xã: phuong 5 trong huyện vũng tàu"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": null,
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Bà Rịa – Vũng Tàu",
+          "district_name": "Thành phố Vũng Tàu",
+          "commune_name": "Phường 5",
+          "found_items": [],
+          "errors": [
+            "Không tìm thấy tỉnh: ba ria – vung tau",
+            "Không tìm thấy huyện: thanh pho vung tau trong tỉnh Bà Rịa – Vũng Tàu",
+            "Không tìm thấy xã: phuong 5 trong huyện Thành phố Vũng Tàu"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Xóm tây khánh  7 phừng Mỹ hòa thành phố long Xuyên an Giang sdt0375907535",
+    "top1": {
+      "phone_number": "0375907535",
+      "address": "Xóm Tây Khánh 7",
+      "commune_name": "Phường Mỹ Hòa",
+      "district_name": "Thành phố Long Xuyên",
+      "province_name": "An Giang",
+      "full_address": "Xóm Tây Khánh 7 Phường Mỹ Hòa Thành phố Long Xuyên An Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0375907535",
+        "address": "Xóm Tây Khánh 7",
+        "commune_name": "mỹ hòa",
+        "district_name": "long xuyên",
+        "province_name": "Tỉnh An Giang",
+        "full_address": "Xóm Tây Khánh 7 mỹ hòa long xuyên Tỉnh An Giang"
+      },
+      {
+        "phone_number": "0375907535",
+        "address": "Xóm Tây Khánh 7",
+        "commune_name": "Phường Mỹ Hòa",
+        "district_name": "Thành phố Long Xuyên",
+        "province_name": "Tỉnh An Giang",
+        "full_address": "Xóm Tây Khánh 7 Phường Mỹ Hòa Thành phố Long Xuyên Tỉnh An Giang"
+      },
+      {
+        "phone_number": "0375907535",
+        "address": "Xóm Tây Khánh 7",
+        "commune_name": "Mỹ Hòa",
+        "district_name": "Thành phố Long Xuyên",
+        "province_name": "Tỉnh An Giang",
+        "full_address": "Xóm Tây Khánh 7 Mỹ Hòa Thành phố Long Xuyên Tỉnh An Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "805",
+      "district_id": "80501",
+      "commune_id": "8050115",
+      "province_name": "An Giang",
+      "district_name": "Thành phố Long Xuyên",
+      "commune_name": "Phường Mỹ Hòa",
+      "found_items": [
+        "Tỉnh: An Giang -> ID: 805",
+        "Huyện: Thành phố Long Xuyên -> ID: 80501"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "A Hùng 0911262345, Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại, phường Quảng Thành, TP Thanh Hóa",
+    "top1": {
+      "phone_number": "0911262345",
+      "address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại",
+      "commune_name": "Quảng Thành",
+      "district_name": "Thành phố Thanh Hóa",
+      "province_name": "Thanh Hóa",
+      "full_address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại Quảng Thành Thành phố Thanh Hóa Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": "0911262345",
+        "address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại",
+        "commune_name": "Quảng Thành",
+        "district_name": "thanh hóa",
+        "province_name": "Thanh Hóa",
+        "full_address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại Quảng Thành thanh hóa Thanh Hóa"
+      },
+      {
+        "phone_number": "0911262345",
+        "address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại",
+        "commune_name": "Quảng Thành",
+        "district_name": "Thành phố Thanh Hóa",
+        "province_name": "Thanh Hóa",
+        "full_address": "Trung tâm Giáo dục quốc phòng và an ninh Trường Đại học Hồng Đức, phố Minh Trại Quảng Thành Thành phố Thanh Hóa Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "401",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Thanh Hóa",
+      "district_name": "Thành phố Thanh Hóa",
+      "commune_name": "Quảng Thành",
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: thanh pho thanh hoa trong tỉnh Thanh Hóa",
+        "Không tìm thấy xã: quang thanh trong huyện Thành phố Thanh Hóa"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "401",
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Thanh Hóa",
+          "district_name": "thanh hóa",
+          "commune_name": "Quảng Thành",
+          "found_items": [
+            "Tỉnh: Thanh Hóa -> ID: 401"
+          ],
+          "errors": [
+            "Không tìm thấy huyện: thanh hoa trong tỉnh Thanh Hóa",
+            "Không tìm thấy xã: quang thanh trong huyện thanh hóa"
+          ]
+        },
+        {
+          "variant_index": 1,
+          "success": false,
+          "province_id": "401",
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Thanh Hóa",
+          "district_name": "Thành phố Thanh Hóa",
+          "commune_name": "Quảng Thành",
+          "found_items": [
+            "Tỉnh: Thanh Hóa -> ID: 401"
+          ],
+          "errors": [
+            "Không tìm thấy huyện: thanh pho thanh hoa trong tỉnh Thanh Hóa",
+            "Không tìm thấy xã: quang thanh trong huyện Thành phố Thanh Hóa"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Tôi cao167 năng 60 kgđc bui văn điên xóm đũng thá xã thu phong cao phong hòa bìnhđt 0966072752 tôi mua công bô 4 áo ba lố nhé",
+    "top1": {
+      "phone_number": "0966072752",
+      "address": "Xóm Đũng Thá",
+      "commune_name": "Thu Phong",
+      "district_name": "Cao Phong",
+      "province_name": "Hòa Bình",
+      "full_address": "Xóm Đũng Thá Thu Phong Cao Phong Hòa Bình"
+    },
+    "variants": [
+      {
+        "phone_number": "0966072752",
+        "address": "Xóm Đũng Thá",
+        "commune_name": "Thu Phong",
+        "district_name": "Cao Phong",
+        "province_name": "Hòa Bình",
+        "full_address": "Xóm Đũng Thá Thu Phong Cao Phong Hòa Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "305",
+      "district_id": "30510",
+      "commune_id": "3051009",
+      "province_name": "Hòa Bình",
+      "district_name": "Huyện Cao Phong",
+      "commune_name": "Xã Thu Phong",
+      "found_items": [
+        "Tỉnh: Hòa Bình -> ID: 305",
+        "Huyện: Huyện Cao Phong -> ID: 30510"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "70kg cao 170 thôn đại Tân xã thuận Long huyện Quỳnh lưu nghệ an 0968774855",
+    "top1": {
+      "phone_number": "0968774855",
+      "address": "Thôn Đại Tân",
+      "commune_name": "Thuận Long",
+      "district_name": "Quỳnh Lưu",
+      "province_name": "Nghệ An",
+      "full_address": "Thôn Đại Tân Thuận Long Quỳnh Lưu Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0968774855",
+        "address": "Thôn Đại Tân",
+        "commune_name": "Thuận Long",
+        "district_name": "Quỳnh Lưu",
+        "province_name": "Nghệ An",
+        "full_address": "Thôn Đại Tân Thuận Long Quỳnh Lưu Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40317",
+      "commune_id": "4031786",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Quỳnh Lưu",
+      "commune_name": "Xã Thuận Long",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Quỳnh Lưu -> ID: 40317"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Số 2 hẻm 1 Trần anh tông f8 thành phố Đà Lạt",
+    "top1": {
+      "phone_number": null,
+      "address": "Số 2 hẻm 1 Trần Anh Tông",
+      "commune_name": "Phường 8",
+      "district_name": "Thành phố Đà Lạt",
+      "province_name": "Lâm Đồng",
+      "full_address": "Số 2 hẻm 1 Trần Anh Tông Phường 8 Thành phố Đà Lạt Lâm Đồng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số 2 hẻm 1 Trần Anh Tông",
+        "commune_name": "8",
+        "district_name": "Thành phố Đà Lạt",
+        "province_name": "Lâm Đồng",
+        "full_address": "Số 2 hẻm 1 Trần Anh Tông 8 Thành phố Đà Lạt Lâm Đồng"
+      },
+      {
+        "phone_number": null,
+        "address": "Số 2 hẻm 1 Trần Anh Tông",
+        "commune_name": "Phường 8",
+        "district_name": "Thành phố Đà Lạt",
+        "province_name": "Lâm Đồng",
+        "full_address": "Số 2 hẻm 1 Trần Anh Tông Phường 8 Thành phố Đà Lạt Lâm Đồng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "607",
+      "district_id": "60701",
+      "commune_id": "6070115",
+      "province_name": "Lâm Đồng",
+      "district_name": "Thành phố Đà Lạt",
+      "commune_name": "Phường 8",
+      "found_items": [
+        "Tỉnh: Lâm Đồng -> ID: 607",
+        "Huyện: Thành phố Đà Lạt -> ID: 60701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Khu 2 thị trấn huyện Thường Xuân Thanh Hóa đt 0906237449",
+    "top1": {
+      "phone_number": "0906237449",
+      "address": "Khu 2",
+      "commune_name": "Thị trấn Thường Xuân",
+      "district_name": "Thường Xuân",
+      "province_name": "Thanh Hóa",
+      "full_address": "Khu 2 Thị trấn Thường Xuân Thường Xuân Thanh Hóa"
+    },
+    "variants": [
+      {
+        "phone_number": "0906237449",
+        "address": "Khu 2",
+        "commune_name": "thường xuân",
+        "district_name": "Thường Xuân",
+        "province_name": "Thanh Hóa",
+        "full_address": "Khu 2 thường xuân Thường Xuân Thanh Hóa"
+      },
+      {
+        "phone_number": "0906237449",
+        "address": "Khu 2",
+        "commune_name": "Thị trấn Thường Xuân",
+        "district_name": "Thường Xuân",
+        "province_name": "Thanh Hóa",
+        "full_address": "Khu 2 Thị trấn Thường Xuân Thường Xuân Thanh Hóa"
+      },
+      {
+        "phone_number": "0906237449",
+        "address": "Khu 2",
+        "commune_name": "Thường Xuân",
+        "district_name": "Thường Xuân",
+        "province_name": "Thanh Hóa",
+        "full_address": "Khu 2 Thường Xuân Thường Xuân Thanh Hóa"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "401",
+      "district_id": "40123",
+      "commune_id": "4012301",
+      "province_name": "Thanh Hóa",
+      "district_name": "Huyện Thường Xuân",
+      "commune_name": "Thị trấn Thường Xuân",
+      "found_items": [
+        "Tỉnh: Thanh Hóa -> ID: 401",
+        "Huyện: Huyện Thường Xuân -> ID: 40123"
+      ],
+      "errors": []
+    }
+  }
+]

@@ -1,0 +1,537 @@
+[
+  {
+    "raw": "Trần toàn k9 xã từ hiệp ha hoà Phú tho 0375423054",
+    "top1": {
+      "phone_number": "0375423054",
+      "address": "Trần Toàn k9",
+      "commune_name": "Từ Hiệp",
+      "district_name": "Hạ Hòa",
+      "province_name": "Phú Thọ",
+      "full_address": "Trần Toàn k9 Từ Hiệp Hạ Hòa Phú Thọ"
+    },
+    "variants": [
+      {
+        "phone_number": "0375423054",
+        "address": "Trần Toàn k9",
+        "commune_name": "Từ Hiệp",
+        "district_name": "Hạ Hòa",
+        "province_name": "Phú Thọ",
+        "full_address": "Trần Toàn k9 Từ Hiệp Hạ Hòa Phú Thọ"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "217",
+      "district_id": "21707",
+      "commune_id": null,
+      "province_name": "Phú Thọ",
+      "district_name": "Huyện Hạ Hòa",
+      "commune_name": "Từ Hiệp",
+      "found_items": [
+        "Tỉnh: Phú Thọ -> ID: 217",
+        "Huyện: Huyện Hạ Hòa -> ID: 21707"
+      ],
+      "errors": [
+        "Không tìm thấy xã: tu hiep trong huyện Huyện Hạ Hòa"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "217",
+          "district_id": "21707",
+          "commune_id": null,
+          "province_name": "Phú Thọ",
+          "district_name": "Huyện Hạ Hòa",
+          "commune_name": "Từ Hiệp",
+          "found_items": [
+            "Tỉnh: Phú Thọ -> ID: 217",
+            "Huyện: Huyện Hạ Hòa -> ID: 21707"
+          ],
+          "errors": [
+            "Không tìm thấy xã: tu hiep trong huyện Huyện Hạ Hòa"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "miễn síp nha sdt 0963787119 đc xóm yên xuân xã diễn phúc huyện diễn Châu nghệ An",
+    "top1": {
+      "phone_number": "0963787119",
+      "address": "Xóm Yên Xuân",
+      "commune_name": "Diễn Phúc",
+      "district_name": "Diễn Châu",
+      "province_name": "Nghệ An",
+      "full_address": "Xóm Yên Xuân Diễn Phúc Diễn Châu Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0963787119",
+        "address": "Xóm Yên Xuân",
+        "commune_name": "Diễn Phúc",
+        "district_name": "Diễn Châu",
+        "province_name": "Nghệ An",
+        "full_address": "Xóm Yên Xuân Diễn Phúc Diễn Châu Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40325",
+      "commune_id": "4032555",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Diễn Châu",
+      "commune_name": "Xã Diễn Phúc",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Diễn Châu -> ID: 40325"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cao1m69  79kg 39 hùng vương phường sông bờ thì xã Ayunpa gia lai",
+    "top1": {
+      "phone_number": null,
+      "address": "39 Hùng Vương",
+      "commune_name": "Phường Sông Bờ",
+      "district_name": "Thị xã Ayun Pa",
+      "province_name": "Gia Lai",
+      "full_address": "39 Hùng Vương Phường Sông Bờ Thị xã Ayun Pa Gia Lai"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "39 Hùng Vương",
+        "commune_name": "Phường Sông Bờ",
+        "district_name": "Thị xã Ayun Pa",
+        "province_name": "Gia Lai",
+        "full_address": "39 Hùng Vương Phường Sông Bờ Thị xã Ayun Pa Gia Lai"
+      },
+      {
+        "phone_number": null,
+        "address": "39 Hùng Vương",
+        "commune_name": "Sông Bờ",
+        "district_name": "Thị xã Ayun Pa",
+        "province_name": "Gia Lai",
+        "full_address": "39 Hùng Vương Sông Bờ Thị xã Ayun Pa Gia Lai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "603",
+      "district_id": "60321",
+      "commune_id": "6032129",
+      "province_name": "Gia Lai",
+      "district_name": "Thị xã Ayun Pa",
+      "commune_name": "Phường Sông Bờ",
+      "found_items": [
+        "Tỉnh: Gia Lai -> ID: 603",
+        "Huyện: Thị xã Ayun Pa -> ID: 60321"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Sai xl 2 trắng 2 den đt 0338135758 thôn 2 xã Đăk rla Đăk mìn Đăk nông",
+    "top1": {
+      "phone_number": "0338135758",
+      "address": "Thôn 2",
+      "commune_name": "Đắk R'La",
+      "district_name": "Đắk Mil",
+      "province_name": "Đắk Nông",
+      "full_address": "Thôn 2 Đắk R'La Đắk Mil Đắk Nông"
+    },
+    "variants": [
+      {
+        "phone_number": "0338135758",
+        "address": "Thôn 2",
+        "commune_name": "Đắk R'La",
+        "district_name": "Đắk Mil",
+        "province_name": "Đắk Nông",
+        "full_address": "Thôn 2 Đắk R'La Đắk Mil Đắk Nông"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "606",
+      "district_id": "60627",
+      "commune_id": "6062702",
+      "province_name": "Đắk Nông",
+      "district_name": "Huyện Đắk Mil",
+      "commune_name": "Xã Đắk R'La",
+      "found_items": [
+        "Tỉnh: Đắk Nông -> ID: 606",
+        "Huyện: Huyện Đắk Mil -> ID: 60627"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn thế huấn \nXóm 10, xã quyết thắng, tp thái Nguyên ( cổng trường đại học nông lâm thái nguyên)\nĐT 0912479928",
+    "top1": {
+      "phone_number": "0912479928",
+      "address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên",
+      "commune_name": "Quyết Thắng",
+      "district_name": "Thành phố Thái Nguyên",
+      "province_name": "Thái Nguyên",
+      "full_address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên Quyết Thắng Thành phố Thái Nguyên Thái Nguyên"
+    },
+    "variants": [
+      {
+        "phone_number": "0912479928",
+        "address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên",
+        "commune_name": "Quyết Thắng",
+        "district_name": "thái nguyên",
+        "province_name": "Thái Nguyên",
+        "full_address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên Quyết Thắng thái nguyên Thái Nguyên"
+      },
+      {
+        "phone_number": "0912479928",
+        "address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên",
+        "commune_name": "Quyết Thắng",
+        "district_name": "Thành phố Thái Nguyên",
+        "province_name": "Thái Nguyên",
+        "full_address": "Xóm 10, cổng trường Đại học Nông Lâm Thái Nguyên Quyết Thắng Thành phố Thái Nguyên Thái Nguyên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "215",
+      "district_id": "21501",
+      "commune_id": "2150139",
+      "province_name": "Thái Nguyên",
+      "district_name": "Thành phố Thái Nguyên",
+      "commune_name": "Xã Quyết Thắng",
+      "found_items": [
+        "Tỉnh: Thái Nguyên -> ID: 215",
+        "Huyện: Thành phố Thái Nguyên -> ID: 21501"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cho 4 cái màu trắng về toà nhà trung đúc phường hung bình thành phố vinh nghe an",
+    "top1": {
+      "phone_number": null,
+      "address": "Tòa nhà Trung Đúc",
+      "commune_name": "Phường Hưng Bình",
+      "district_name": "Thành phố Vinh",
+      "province_name": "Nghệ An",
+      "full_address": "Tòa nhà Trung Đúc Phường Hưng Bình Thành phố Vinh Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tòa nhà Trung Đúc",
+        "commune_name": "hưng bình",
+        "district_name": "Thành phố Vinh",
+        "province_name": "Nghệ An",
+        "full_address": "Tòa nhà Trung Đúc hưng bình Thành phố Vinh Nghệ An"
+      },
+      {
+        "phone_number": null,
+        "address": "Tòa nhà Trung Đúc",
+        "commune_name": "Phường Hưng Bình",
+        "district_name": "Thành phố Vinh",
+        "province_name": "Nghệ An",
+        "full_address": "Tòa nhà Trung Đúc Phường Hưng Bình Thành phố Vinh Nghệ An"
+      },
+      {
+        "phone_number": null,
+        "address": "Tòa nhà Trung Đúc",
+        "commune_name": "Hưng Bình",
+        "district_name": "Thành phố Vinh",
+        "province_name": "Nghệ An",
+        "full_address": "Tòa nhà Trung Đúc Hưng Bình Thành phố Vinh Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40301",
+      "commune_id": "4030109",
+      "province_name": "Nghệ An",
+      "district_name": "Thành phố Vinh",
+      "commune_name": "Phường Hưng Bình",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Thành phố Vinh -> ID: 40301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "DC tổ  dân  phố  giữa lương quy phường an dương hải  phòng",
+    "top1": {
+      "phone_number": null,
+      "address": "Tổ dân phố Giữa Lương Quy",
+      "commune_name": null,
+      "district_name": "An Dương",
+      "province_name": "Hải Phòng",
+      "full_address": "Tổ dân phố Giữa Lương Quy An Dương Hải Phòng"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Tổ dân phố Giữa Lương Quy",
+        "commune_name": null,
+        "district_name": "An Dương",
+        "province_name": "Hải Phòng",
+        "full_address": "Tổ dân phố Giữa Lương Quy An Dương Hải Phòng"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "103",
+      "district_id": "10313",
+      "commune_id": "1031329",
+      "province_name": "Hải Phòng",
+      "district_name": "Quận An Dương",
+      "commune_name": "Xã An Đồng",
+      "found_items": [
+        "Tỉnh: Hải Phòng -> ID: 103",
+        "Huyện: Quận An Dương -> ID: 10313"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Phạm Thị nhinh thôn xóm lương xã Tiên Lãng Huyện Tiên Yên Tỉnh Quảng Ninh",
+    "top1": {
+      "phone_number": null,
+      "address": "Thôn xóm Lương",
+      "commune_name": "Tiên Lãng",
+      "district_name": "Tiên Yên",
+      "province_name": "Quảng Ninh",
+      "full_address": "Thôn xóm Lương Tiên Lãng Tiên Yên Quảng Ninh"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Thôn xóm Lương",
+        "commune_name": "Tiên Lãng",
+        "district_name": "Tiên Yên",
+        "province_name": "Quảng Ninh",
+        "full_address": "Thôn xóm Lương Tiên Lãng Tiên Yên Quảng Ninh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "225",
+      "district_id": "22513",
+      "commune_id": "2251315",
+      "province_name": "Quảng Ninh",
+      "district_name": "Huyện Tiên Yên",
+      "commune_name": "Xã Tiên Lãng",
+      "found_items": [
+        "Tỉnh: Quảng Ninh -> ID: 225",
+        "Huyện: Huyện Tiên Yên -> ID: 22513"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cho anh 4 áo 3 lỗ màu trắng, size XL, SĐT 0905072972, Đ/c 03 Nguyễn Dữ, P. Hải Cảng, TP Quy Nhơn, tỉnh Bình Định.",
+    "top1": {
+      "phone_number": "0905072972",
+      "address": "03 Nguyễn Dữ",
+      "commune_name": "Hải Cảng",
+      "district_name": "Quy Nhơn",
+      "province_name": "Bình Định",
+      "full_address": "03 Nguyễn Dữ Hải Cảng Quy Nhơn Bình Định"
+    },
+    "variants": [
+      {
+        "phone_number": "0905072972",
+        "address": "03 Nguyễn Dữ",
+        "commune_name": "Hải Cảng",
+        "district_name": "Quy Nhơn",
+        "province_name": "Bình Định",
+        "full_address": "03 Nguyễn Dữ Hải Cảng Quy Nhơn Bình Định"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "507",
+      "district_id": "50701",
+      "commune_id": "5070123",
+      "province_name": "Bình Định",
+      "district_name": "Thành phố Quy Nhơn",
+      "commune_name": "Phường Hải Cảng",
+      "found_items": [
+        "Tỉnh: Bình Định -> ID: 507",
+        "Huyện: Thành phố Quy Nhơn -> ID: 50701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cao 1m67 năng   75 kg màu trắng đc Poòng văn Pưng bản Pa tần xã Pa Tần huyện nậm Pồ tỉnh Điện Biên đt 0365002748",
+    "top1": {
+      "phone_number": "0365002748",
+      "address": "Bản Pa Tần",
+      "commune_name": "Pa Tần",
+      "district_name": "Nậm Pồ",
+      "province_name": "Điện Biên",
+      "full_address": "Bản Pa Tần Pa Tần Nậm Pồ Điện Biên"
+    },
+    "variants": [
+      {
+        "phone_number": "0365002748",
+        "address": "Bản Pa Tần",
+        "commune_name": "Pa Tần",
+        "district_name": "Nậm Pồ",
+        "province_name": "Điện Biên",
+        "full_address": "Bản Pa Tần Pa Tần Nậm Pồ Điện Biên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "302",
+      "district_id": "30202",
+      "commune_id": "3020212",
+      "province_name": "Điện Biên",
+      "district_name": "Huyện Nậm Pồ",
+      "commune_name": "Xã Pa Tần",
+      "found_items": [
+        "Tỉnh: Điện Biên -> ID: 302",
+        "Huyện: Huyện Nậm Pồ -> ID: 30202"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cho 2 nâu, 2 đen 0986,487,380 xã Đông phong H tiền hải, T thái bình",
+    "top1": {
+      "phone_number": "0986487380",
+      "address": null,
+      "commune_name": "Đông Phong",
+      "district_name": "Tiền Hải",
+      "province_name": "Thái Bình",
+      "full_address": "Đông Phong Tiền Hải Thái Bình"
+    },
+    "variants": [
+      {
+        "phone_number": "0986487380",
+        "address": "",
+        "commune_name": "Đông Phong",
+        "district_name": "Tiền Hải",
+        "province_name": "Thái Bình",
+        "full_address": "Đông Phong Tiền Hải Thái Bình"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "115",
+      "district_id": "11515",
+      "commune_id": "1151527",
+      "province_name": "Thái Bình",
+      "district_name": "Huyện Tiền Hải",
+      "commune_name": "Xã Đông Phong",
+      "found_items": [
+        "Tỉnh: Thái Bình -> ID: 115",
+        "Huyện: Huyện Tiền Hải -> ID: 11515"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "gửi lê hồng phong số 3 ngõ 27 thôn hữu vĩnh xã hoà xá hà nội sdt 0865282236",
+    "top1": {
+      "phone_number": "0865282236",
+      "address": "Số 3, Ngõ 27, Thôn Hữu Vĩnh, Lê Hồng Phong",
+      "commune_name": "Hoà Xá",
+      "district_name": "Ứng Hoà",
+      "province_name": "Hà Nội",
+      "full_address": "Số 3, Ngõ 27, Thôn Hữu Vĩnh, Lê Hồng Phong Hoà Xá Ứng Hoà Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0865282236",
+        "address": "Số 3, Ngõ 27, Thôn Hữu Vĩnh, Lê Hồng Phong",
+        "commune_name": "Hoà Xá",
+        "district_name": "Ứng Hoà",
+        "province_name": "Hà Nội",
+        "full_address": "Số 3, Ngõ 27, Thôn Hữu Vĩnh, Lê Hồng Phong Hoà Xá Ứng Hoà Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": false,
+      "province_id": "101",
+      "district_id": null,
+      "commune_id": null,
+      "province_name": "Hà Nội",
+      "district_name": "Ứng Hoà",
+      "commune_name": "Hoà Xá",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101"
+      ],
+      "errors": [
+        "Không tìm thấy huyện: ung hoa trong tỉnh Hà Nội",
+        "Không tìm thấy xã: hoa xa trong huyện Ứng Hoà"
+      ]
+    },
+    "variant_diagnostics": {
+      "accepted_variant_index": null,
+      "variant_test_results": [
+        {
+          "variant_index": 0,
+          "success": false,
+          "province_id": "101",
+          "district_id": null,
+          "commune_id": null,
+          "province_name": "Hà Nội",
+          "district_name": "Ứng Hoà",
+          "commune_name": "Hoà Xá",
+          "found_items": [
+            "Tỉnh: Hà Nội -> ID: 101"
+          ],
+          "errors": [
+            "Không tìm thấy huyện: ung hoa trong tỉnh Hà Nội",
+            "Không tìm thấy xã: hoa xa trong huyện Ứng Hoà"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "raw": "Phan anh Ngọc xóm 6 xã bảo thành yên thành nghệ an",
+    "top1": {
+      "phone_number": null,
+      "address": "Xóm 6",
+      "commune_name": "Bảo Thành",
+      "district_name": "Yên Thành",
+      "province_name": "Nghệ An",
+      "full_address": "Xóm 6 Bảo Thành Yên Thành Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Xóm 6",
+        "commune_name": "Bảo Thành",
+        "district_name": "Yên Thành",
+        "province_name": "Nghệ An",
+        "full_address": "Xóm 6 Bảo Thành Yên Thành Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40323",
+      "commune_id": "4032363",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Yên Thành",
+      "commune_name": "Xã Bảo Thành",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Yên Thành -> ID: 40323"
+      ],
+      "errors": []
+    }
+  }
+]

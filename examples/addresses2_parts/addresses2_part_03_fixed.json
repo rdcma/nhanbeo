@@ -1,0 +1,513 @@
+[
+  {
+    "raw": "4 áo về 104 Trần Hưng đạo thành phố Hải dương tỉnh Hải dương",
+    "top1": {
+      "phone_number": null,
+      "address": "104 Trần Hưng Đạo",
+      "commune_name": "Phường Trần Hưng Đạo",
+      "district_name": "Thành phố Hải Dương",
+      "province_name": "Hải Dương",
+      "full_address": "104 Trần Hưng Đạo Phường Trần Hưng Đạo Thành phố Hải Dương Hải Dương"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "104 Trần Hưng Đạo",
+        "commune_name": "trần hưng đạo",
+        "district_name": "Thành phố Hải Dương",
+        "province_name": "Hải Dương",
+        "full_address": "104 Trần Hưng Đạo trần hưng đạo Thành phố Hải Dương Hải Dương"
+      },
+      {
+        "phone_number": null,
+        "address": "104 Trần Hưng Đạo",
+        "commune_name": "Phường Trần Hưng Đạo",
+        "district_name": "Thành phố Hải Dương",
+        "province_name": "Hải Dương",
+        "full_address": "104 Trần Hưng Đạo Phường Trần Hưng Đạo Thành phố Hải Dương Hải Dương"
+      },
+      {
+        "phone_number": null,
+        "address": "104 Trần Hưng Đạo",
+        "commune_name": "Hưng Đạo",
+        "district_name": "Thành phố Hải Dương",
+        "province_name": "Hải Dương",
+        "full_address": "104 Trần Hưng Đạo Hưng Đạo Thành phố Hải Dương Hải Dương"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "107",
+      "district_id": "10701",
+      "commune_id": "1070111",
+      "province_name": "Hải Dương",
+      "district_name": "Thành phố Hải Dương",
+      "commune_name": "Phường Trần Hưng Đạo",
+      "found_items": [
+        "Tỉnh: Hải Dương -> ID: 107",
+        "Huyện: Thành phố Hải Dương -> ID: 10701"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Cho anh combo 4 áo 2 trắng 1 đen và 1 xám cao 165cm nặng 56kg đ/c lữ đoàn 249 thôn liên minh xã thụy an,ba vì Hà Nội sđt: 0902255628",
+    "top1": {
+      "phone_number": "0902255628",
+      "address": "Lữ đoàn 249, thôn Liên Minh",
+      "commune_name": "Thụy An",
+      "district_name": "Ba Vì",
+      "province_name": "Hà Nội",
+      "full_address": "Lữ đoàn 249, thôn Liên Minh Thụy An Ba Vì Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": "0902255628",
+        "address": "Lữ đoàn 249, thôn Liên Minh",
+        "commune_name": "Thụy An",
+        "district_name": "Ba Vì",
+        "province_name": "Hà Nội",
+        "full_address": "Lữ đoàn 249, thôn Liên Minh Thụy An Ba Vì Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10129",
+      "commune_id": "1012945",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Ba Vì",
+      "commune_name": "Xã Thụy An",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Ba Vì -> ID: 10129"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Tôi đặt 2 áo 2 màu khác nhau 1 chiếc màu sắc 1 chiếc màu trắng sđt 0986042489 bản nà muông xã chiềng sơ huyện Điện Biên Đông tỉnh Điện Biên",
+    "top1": {
+      "phone_number": "0986042489",
+      "address": "Bản Nà Muông",
+      "commune_name": "Chiềng Sơ",
+      "district_name": "Điện Biên Đông",
+      "province_name": "Điện Biên",
+      "full_address": "Bản Nà Muông Chiềng Sơ Điện Biên Đông Điện Biên"
+    },
+    "variants": [
+      {
+        "phone_number": "0986042489",
+        "address": "Bản Nà Muông",
+        "commune_name": "Chiềng Sơ",
+        "district_name": "Điện Biên Đông",
+        "province_name": "Điện Biên",
+        "full_address": "Bản Nà Muông Chiềng Sơ Điện Biên Đông Điện Biên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "302",
+      "district_id": "30219",
+      "commune_id": "3021913",
+      "province_name": "Điện Biên",
+      "district_name": "Huyện Điện Biên Đông",
+      "commune_name": "Xã Chiềng Sơ",
+      "found_items": [
+        "Tỉnh: Điện Biên -> ID: 302",
+        "Huyện: Huyện Điện Biên Đông -> ID: 30219"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Nguyễn Tuấn Hiển, Phòng Giáo dục và Đaog tạo huyện Văn Lâm, tỉnh Hưng Yên. Số đt: 0915365616",
+    "top1": {
+      "phone_number": "0915365616",
+      "address": "Phòng Giáo dục và Đào tạo",
+      "commune_name": null,
+      "district_name": "Văn Lâm",
+      "province_name": "Hưng Yên",
+      "full_address": "Phòng Giáo dục và Đào tạo Văn Lâm Hưng Yên"
+    },
+    "variants": [
+      {
+        "phone_number": "0915365616",
+        "address": "Phòng Giáo dục và Đào tạo",
+        "commune_name": null,
+        "district_name": "Văn Lâm",
+        "province_name": "Hưng Yên",
+        "full_address": "Phòng Giáo dục và Đào tạo Văn Lâm Hưng Yên"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "109",
+      "district_id": "10902",
+      "commune_id": "1090205",
+      "province_name": "Hưng Yên",
+      "district_name": "Huyện Văn Lâm",
+      "commune_name": "Xã Chỉ Đạo",
+      "found_items": [
+        "Tỉnh: Hưng Yên -> ID: 109",
+        "Huyện: Huyện Văn Lâm -> ID: 10902"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Đt. 0902647056. Đia. Chỉ. Biên  hòa. Phường. Tam. Hòa.",
+    "top1": {
+      "phone_number": "0902647056",
+      "address": null,
+      "commune_name": "Tam Hòa",
+      "district_name": "Biên Hòa",
+      "province_name": "Đồng Nai",
+      "full_address": "Tam Hòa Biên Hòa Đồng Nai"
+    },
+    "variants": [
+      {
+        "phone_number": "0902647056",
+        "address": "",
+        "commune_name": "Tam Hòa",
+        "district_name": "Biên Hòa",
+        "province_name": "Đồng Nai",
+        "full_address": "Tam Hòa Biên Hòa Đồng Nai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "713",
+      "district_id": "71301",
+      "commune_id": "7130131",
+      "province_name": "Đồng Nai",
+      "district_name": "Thành phố Biên Hòa",
+      "commune_name": "Phường Tam Hòa",
+      "found_items": [
+        "Tỉnh: Đồng Nai -> ID: 713",
+        "Huyện: Thành phố Biên Hòa -> ID: 71301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "SĐT 0365526007\nĐịa chỉ ắp 3 xã hòa thạnh huyện tam bình tỉnh vĩnh long",
+    "top1": {
+      "phone_number": "0365526007",
+      "address": "Ấp 3",
+      "commune_name": "Hòa Thạnh",
+      "district_name": "Tam Bình",
+      "province_name": "Vĩnh Long",
+      "full_address": "Ấp 3 Hòa Thạnh Tam Bình Vĩnh Long"
+    },
+    "variants": [
+      {
+        "phone_number": "0365526007",
+        "address": "Ấp 3",
+        "commune_name": "Hòa Thạnh",
+        "district_name": "Tam Bình",
+        "province_name": "Vĩnh Long",
+        "full_address": "Ấp 3 Hòa Thạnh Tam Bình Vĩnh Long"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "809",
+      "district_id": "80909",
+      "commune_id": "8090903",
+      "province_name": "Vĩnh Long",
+      "district_name": "Huyện Tam Bình",
+      "commune_name": "Xã Hòa Thạnh",
+      "found_items": [
+        "Tỉnh: Vĩnh Long -> ID: 809",
+        "Huyện: Huyện Tam Bình -> ID: 80909"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "màu trắng gửi về  P210, khu phố 7, đường N 12, TĐC Phường Thống Nhất, TP Biên Hoà - ĐN. Số ĐT 0918021890",
+    "top1": {
+      "phone_number": "0918021890",
+      "address": "P210, khu phố 7, đường N 12, TĐC",
+      "commune_name": "Phường Thống Nhất",
+      "district_name": "Thành phố Biên Hòa",
+      "province_name": "Đồng Nai",
+      "full_address": "P210, khu phố 7, đường N 12, TĐC Phường Thống Nhất Thành phố Biên Hòa Đồng Nai"
+    },
+    "variants": [
+      {
+        "phone_number": "0918021890",
+        "address": "P210, khu phố 7, đường N 12, TĐC",
+        "commune_name": "Phường Thống Nhất",
+        "district_name": "Thành phố Biên Hòa",
+        "province_name": "Đồng Nai",
+        "full_address": "P210, khu phố 7, đường N 12, TĐC Phường Thống Nhất Thành phố Biên Hòa Đồng Nai"
+      },
+      {
+        "phone_number": "0918021890",
+        "address": "P210, khu phố 7, đường N 12, TĐC",
+        "commune_name": "Thống Nhất",
+        "district_name": "Thành phố Biên Hòa",
+        "province_name": "Đồng Nai",
+        "full_address": "P210, khu phố 7, đường N 12, TĐC Thống Nhất Thành phố Biên Hòa Đồng Nai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "713",
+      "district_id": "71301",
+      "commune_id": "7130119",
+      "province_name": "Đồng Nai",
+      "district_name": "Thành phố Biên Hòa",
+      "commune_name": "Phường Thống Nhất",
+      "found_items": [
+        "Tỉnh: Đồng Nai -> ID: 713",
+        "Huyện: Thành phố Biên Hòa -> ID: 71301"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0979998717 . xóm Xuân Sơn, xã Diễn Đoài, Huyện Diễn Châu, Nghệ An ( cạnh khu sinh thái Hòn nhạn Diễn Đoài) cảm ơn bạn",
+    "top1": {
+      "phone_number": "0979998717",
+      "address": "Xóm Xuân Sơn",
+      "commune_name": "Diễn Đoài",
+      "district_name": "Diễn Châu",
+      "province_name": "Nghệ An",
+      "full_address": "Xóm Xuân Sơn Diễn Đoài Diễn Châu Nghệ An"
+    },
+    "variants": [
+      {
+        "phone_number": "0979998717",
+        "address": "Xóm Xuân Sơn",
+        "commune_name": "Diễn Đoài",
+        "district_name": "Diễn Châu",
+        "province_name": "Nghệ An",
+        "full_address": "Xóm Xuân Sơn Diễn Đoài Diễn Châu Nghệ An"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "403",
+      "district_id": "40325",
+      "commune_id": "4032505",
+      "province_name": "Nghệ An",
+      "district_name": "Huyện Diễn Châu",
+      "commune_name": "Xã Diễn Đoài",
+      "found_items": [
+        "Tỉnh: Nghệ An -> ID: 403",
+        "Huyện: Huyện Diễn Châu -> ID: 40325"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Lấy ba áo sđt đã có bòng Thu xóm bảy số nhà hai lắm trần đăng hoa viên ứng Hòa Hà Nội",
+    "top1": {
+      "phone_number": null,
+      "address": "Số nhà 25, Xóm 7, Trần Đăng Hoa Viên",
+      "commune_name": null,
+      "district_name": "Ứng Hòa",
+      "province_name": "Hà Nội",
+      "full_address": "Số nhà 25, Xóm 7, Trần Đăng Hoa Viên Ứng Hòa Hà Nội"
+    },
+    "variants": [
+      {
+        "phone_number": null,
+        "address": "Số nhà 25, Xóm 7, Trần Đăng Hoa Viên",
+        "commune_name": null,
+        "district_name": "Ứng Hòa",
+        "province_name": "Hà Nội",
+        "full_address": "Số nhà 25, Xóm 7, Trần Đăng Hoa Viên Ứng Hòa Hà Nội"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "101",
+      "district_id": "10149",
+      "commune_id": "1014962",
+      "province_name": "Hà Nội",
+      "district_name": "Huyện Ứng Hòa",
+      "commune_name": "Xã Bình Lưu Quang",
+      "found_items": [
+        "Tỉnh: Hà Nội -> ID: 101",
+        "Huyện: Huyện Ứng Hòa -> ID: 10149"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Trần Lưu số điện thoại 096 7 449525 số nhà 168 D đường Lê Văn Tám thị trấn Kbang huyện Kbang tỉnh Gia Lai chiều Cao 1,62 cân nặngái",
+    "top1": {
+      "phone_number": "0967449525",
+      "address": "168D đường Lê Văn Tám",
+      "commune_name": "Thị trấn Kbang",
+      "district_name": "Kbang",
+      "province_name": "Gia Lai",
+      "full_address": "168D đường Lê Văn Tám Thị trấn Kbang Kbang Gia Lai"
+    },
+    "variants": [
+      {
+        "phone_number": "0967449525",
+        "address": "168D đường Lê Văn Tám",
+        "commune_name": "kbang",
+        "district_name": "Kbang",
+        "province_name": "Gia Lai",
+        "full_address": "168D đường Lê Văn Tám kbang Kbang Gia Lai"
+      },
+      {
+        "phone_number": "0967449525",
+        "address": "168D đường Lê Văn Tám",
+        "commune_name": "Thị trấn Kbang",
+        "district_name": "Kbang",
+        "province_name": "Gia Lai",
+        "full_address": "168D đường Lê Văn Tám Thị trấn Kbang Kbang Gia Lai"
+      },
+      {
+        "phone_number": "0967449525",
+        "address": "168D đường Lê Văn Tám",
+        "commune_name": "trấn Kbang",
+        "district_name": "Kbang",
+        "province_name": "Gia Lai",
+        "full_address": "168D đường Lê Văn Tám trấn Kbang Kbang Gia Lai"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "603",
+      "district_id": "60303",
+      "commune_id": "6030301",
+      "province_name": "Gia Lai",
+      "district_name": "Huyện Kbang",
+      "commune_name": "Thị trấn Kbang",
+      "found_items": [
+        "Tỉnh: Gia Lai -> ID: 603",
+        "Huyện: Huyện Kbang -> ID: 60303"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Ấp8 A xã Phong Thạnh Tây a huyện Phước Long tỉnh Bạc Liêu 0949311545",
+    "top1": {
+      "phone_number": "0949311545",
+      "address": "Ấp 8 A",
+      "commune_name": "Phong Thạnh Tây",
+      "district_name": "Phước Long",
+      "province_name": "Bạc Liêu",
+      "full_address": "Ấp 8 A Phong Thạnh Tây Phước Long Bạc Liêu"
+    },
+    "variants": [
+      {
+        "phone_number": "0949311545",
+        "address": "Ấp 8 A",
+        "commune_name": "Phong Thạnh Tây",
+        "district_name": "Phước Long",
+        "province_name": "Bạc Liêu",
+        "full_address": "Ấp 8 A Phong Thạnh Tây Phước Long Bạc Liêu"
+      },
+      {
+        "phone_number": "0949311545",
+        "address": "Ấp 8 A",
+        "commune_name": "Thạnh Tây",
+        "district_name": "Phước Long",
+        "province_name": "Bạc Liêu",
+        "full_address": "Ấp 8 A Thạnh Tây Phước Long Bạc Liêu"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "821",
+      "district_id": "82103",
+      "commune_id": "8210325",
+      "province_name": "Bạc Liêu",
+      "district_name": "Huyện Phước Long",
+      "commune_name": "Xã Phong Thạnh Tây A",
+      "found_items": [
+        "Tỉnh: Bạc Liêu -> ID: 821",
+        "Huyện: Huyện Phước Long -> ID: 82103"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "0983128170. địa chỉ . 130/10/3 . Tên lửa . phường Bình trị đông B . bình tân . tphcm",
+    "top1": {
+      "phone_number": "0983128170",
+      "address": "130/10/3 Tên Lửa",
+      "commune_name": "Bình Trị Đông B",
+      "district_name": "Bình Tân",
+      "province_name": "Hồ Chí Minh",
+      "full_address": "130/10/3 Tên Lửa Bình Trị Đông B Bình Tân Hồ Chí Minh"
+    },
+    "variants": [
+      {
+        "phone_number": "0983128170",
+        "address": "130/10/3 Tên Lửa",
+        "commune_name": "Bình Trị Đông B",
+        "district_name": "Bình Tân",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "full_address": "130/10/3 Tên Lửa Bình Trị Đông B Bình Tân Thành phố Hồ Chí Minh"
+      },
+      {
+        "phone_number": "0983128170",
+        "address": "130/10/3 Tên Lửa",
+        "commune_name": "Đông B",
+        "district_name": "Bình Tân",
+        "province_name": "Thành phố Hồ Chí Minh",
+        "full_address": "130/10/3 Tên Lửa Đông B Bình Tân Thành phố Hồ Chí Minh"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "701",
+      "district_id": "70140",
+      "commune_id": "7014016",
+      "province_name": "Hồ Chí Minh",
+      "district_name": "Quận Bình Tân",
+      "commune_name": "Phường Bình Trị Đông B",
+      "found_items": [
+        "Tỉnh: Hồ Chí Minh -> ID: 701",
+        "Huyện: Quận Bình Tân -> ID: 70140"
+      ],
+      "errors": []
+    }
+  },
+  {
+    "raw": "Sđ 0382546401 thôn nam xã đồng việt tp bắc giang",
+    "top1": {
+      "phone_number": "0382546401",
+      "address": "Thôn Nam",
+      "commune_name": "Đồng Việt",
+      "district_name": "Yên Dũng",
+      "province_name": "Bắc Giang",
+      "full_address": "Thôn Nam Đồng Việt Yên Dũng Bắc Giang"
+    },
+    "variants": [
+      {
+        "phone_number": "0382546401",
+        "address": "Thôn Nam",
+        "commune_name": "Đồng Việt",
+        "district_name": "Yên Dũng",
+        "province_name": "Bắc Giang",
+        "full_address": "Thôn Nam Đồng Việt Yên Dũng Bắc Giang"
+      }
+    ],
+    "top1_result": {
+      "success": true,
+      "province_id": "221",
+      "district_id": "22119",
+      "commune_id": "2211947",
+      "province_name": "Bắc Giang",
+      "district_name": "Huyện Yên Dũng",
+      "commune_name": "Xã Đồng Việt",
+      "found_items": [
+        "Tỉnh: Bắc Giang -> ID: 221",
+        "Huyện: Huyện Yên Dũng -> ID: 22119"
+      ],
+      "errors": []
+    }
+  }
+]
