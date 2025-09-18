@@ -123,6 +123,23 @@ class ShipFeeService:
                 },
             )
 
+        # If cancel_threat, immediately tag agent and do not reply; also set tagged flag
+        if signals.get("cancel_threat"):
+            self.counter.set_flag(tagged_key, True, ttl_seconds=900)
+            return ShipFeeResponse(
+                case="cancel_threat",
+                reply_text="",
+                action="tagAgent",
+                actions={"apply_free_shipping": False},
+                diagnostic={
+                    "asked_count": current,
+                    "shipping_fee": fee,
+                    "order_id": order_id,
+                    "status": status,
+                    "picked_reason": "cancel_threat_tag_agent",
+                },
+            )
+
         # Complaint about fee (without explicit free ask): reply with priority sentence; do NOT count as freeship ask
         if signals.get("is_complaint"):
             return ShipFeeResponse(

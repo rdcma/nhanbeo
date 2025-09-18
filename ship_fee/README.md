@@ -61,9 +61,9 @@ Answer ship-fee question
 - Response
 ```json
 {
-  "case": "no_order|freeship|has_ship_first_time|ask_free_ship|ask_free_ship_many_times|smalltalk",
+  "case": "no_order|freeship|has_ship_first_time|ask_free_ship_first_time|ask_free_ship|fee_question_complaint|smalltalk|cancel_threat|tagged_agent",
   "reply_text": "...",
-  "action": "freeship|null",
+  "action": "tagAgent|null",
   "actions": { "apply_free_shipping": true/false },
   "diagnostic": {
     "asked_count": 2,
@@ -94,27 +94,36 @@ Order source and selection
 
 Intent detection (hybrid)
 - Regex heuristics detect: fee questions, requests for freeship, cancel threats, smalltalk.
-- LLM is only called when rule_score < 0.8 or to generate smalltalk replies.
+- LLM can be primary: set env `INTENT_STRATEGY=llm` (default). Set `hybrid` to keep regex-priority.
+- Detailed intents from LLM: `fee_question_general`, `fee_question_complaint`, `ask_freeship`, `cancel_threat`, `smalltalk`, `other`.
 - Smalltalk intent responds immediately with a short LLM reply and does not increment the counter.
 
 Counter policy (15 minutes per conversation)
 - Redis key: `shipfee:{conversation_id}` with TTL 900s.
-- Only requests related to “ask freeship” or cancel threats increment the counter.
-- Explicit fee-amount questions do NOT increment; the bot replies with numeric fee ("Dạ phí ship đơn hiện tại của mình là {fee}đ ạ.").
+- Only requests related to “ask freeship” increment the counter.
+- Cancel threats do NOT increment; they immediately tag an agent.
+- Explicit fee-amount questions do NOT increment; the bot replies with a numeric fee (short, no extras).
+- Complaints about fee (fee_question_complaint) do NOT increment.
 
 Cases and replies
 - no_order: no active order found → polite check message.
 - freeship: fee == 0 → inform freeship.
-- has_ship_first_time: first time asking about freeship → informative, no change.
-- ask_free_ship: second time or explicit request for free → polite refusal template.
-- ask_free_ship_many_times: third time OR cancel threat → escalate with `action: "freeship"` and `actions.apply_free_shipping=true`.
+- has_ship_first_time: explicit fee question → return current fee with concise variants.
+- ask_free_ship_first_time: first freeship request → reply with "chưa có chương trình miễn ship" template.
+- ask_free_ship: second or further freeship request →
+  - asked == 2: send second-time refusal template AND `action=tagAgent`.
+  - asked > 2: only `action=tagAgent`, no reply.
+- fee_question_complaint: complaint about high fee → send prioritized empathy message; no tag, no counting.
+- cancel_threat: intent to cancel due to fee → `action=tagAgent`, no reply.
 - smalltalk: greeting/ack/thanks → short friendly reply, no counting.
 
-Escalation templates (loyal vs new)
-- Loyal customer: has any historical successful order (status 3).
-  - `TEMPLATE_ESCALATE_FREESHIP_LOYAL`
-- New customer: no past successful order.
-  - `TEMPLATE_ESCALATE_FREESHIP_NEW`
+Tagging behavior
+- When tagging (`action=tagAgent`) happens, a short-lived conversation flag is set. Subsequent messages in the same conversation return `case=tagged_agent` with empty `reply_text` and no action (to avoid further bot messages).
+
+Templates
+- Fee amount variants (only state the current fee, concise).
+- Complaint priority sentence for fee complaints (empathy, no tag).
+- First-time freeship request reply and second-time refusal reply.
 
 ---
 
