@@ -42,3 +42,15 @@ def get_poscake_base(default: str = "http://160.250.216.28:13886") -> str:
     return os.getenv("POSCAKE_BASE", default)
 
 
+# Threshold of repeated freeship asks before tagging an agent
+# Default is 2 as per business requirement
+REPEAT_FREESHIP_TO_AGENT_THRESHOLD = 2
+
+
+def get_intent_strategy(default: str = "llm") -> str:
+    """Return intent classification strategy: 'llm' or 'hybrid'."""
+    load_env()
+    val = os.getenv("INTENT_STRATEGY", default).lower().strip()
+    return val if val in {"llm", "hybrid"} else default
+
+

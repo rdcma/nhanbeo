@@ -47,9 +47,33 @@ class CounterStore:
         except Exception:
             pass
 
+    # Boolean flag helpers (e.g., tagged agent)
+    def set_flag(self, key: str, value: bool, ttl_seconds: int = 900) -> None:
+        if self.client is None:
+            _InMemoryCounter.set_flag(key, value)
+            return
+        try:
+            if value:
+                # set with ttl
+                self.client.setex(key, ttl_seconds, "1")
+            else:
+                self.client.delete(key)
+        except Exception:
+            pass
+
+    def get_flag(self, key: str) -> bool:
+        if self.client is None:
+            return _InMemoryCounter.get_flag(key)
+        try:
+            val = self.client.get(key)
+            return bool(val == "1")
+        except Exception:
+            return False
+
 
 class _InMemoryCounter:
     _store: dict = {}
+    _flags: dict = {}
 
     @classmethod
     def increase_and_get(cls, key: str, ttl_seconds: int) -> int:
@@ -66,5 +90,17 @@ class _InMemoryCounter:
     @classmethod
     def get_current(cls, key: str) -> int:
         return int(cls._store.get(key, 0))
+
+    @classmethod
+    def set_flag(cls, key: str, value: bool) -> None:
+        if value:
+            cls._flags[key] = True
+        else:
+            if key in cls._flags:
+                del cls._flags[key]
+
+    @classmethod
+    def get_flag(cls, key: str) -> bool:
+        return bool(cls._flags.get(key, False))
 
 

@@ -1,3 +1,6 @@
+import random
+
+
 TEMPLATE_NO_ORDER = (
     "Để em kiểm tra chương trình của cửa hàng xem có freeship cho mình không nha chị/anh."
 )
@@ -11,7 +14,12 @@ TEMPLATE_FIRST_TIME = (
 )
 
 TEMPLATE_ASK_FREE = (
-    "Dạ mong chị/anh thông cảm giúp em nha. Phí ship của các đơn hàng khá cao, bên em đã hỗ trợ một phần ship và giá sản phẩm tốt nhất có thể rồi ạ. Nhờ mình hỗ trợ phần ship này giúp em nhé, em cảm ơn nhiều!"
+    "Dạ mong c thông cảm giúp e nha, phí ship của nhãn hàng khá cao, bên e đã hỗ trợ mình 1 phần ship và ưu đãi về giá sản phẩm thấp nhất có thể cho mình rùi ạ. Nhờ mình hỗ trợ phần ship này giúp e nha, e cảm ơn c nhiều."
+)
+
+# Ask freeship first-time specific reply
+TEMPLATE_ASK_FREE_FIRST_TIME = (
+    "Dạ chị ơi hiện nhà e chưa có chạy chương trình miễn ship nhưng đang có chương trình giảm giá sâu cực kỳ ưu đãi chỉ trong hôm nay, mình đặt ngay kẻo lỡ nhé ạ!"
 )
 
 TEMPLATE_ESCALATE_FREESHIP_NEW = (
@@ -23,6 +31,38 @@ TEMPLATE_ESCALATE_FREESHIP_LOYAL = (
 )
 
 def render_fee_amount(fee: int) -> str:
-    return f"Dạ phí ship đơn hiện tại của mình là {fee:,}đ ạ."
+    variants = [
+        f"Dạ phí ship đơn hiện tại của mình là {fee:,}đ ạ.",
+        f"Dạ em kiểm tra đơn này, phí ship là {fee:,}đ ạ.",
+        f"Em báo mình phí ship hiện tại: {fee:,}đ ạ.",
+        f"Dạ hiện phí vận chuyển cho đơn của mình là {fee:,}đ ạ.",
+        f"Em vừa tra phí ship là {fee:,}đ ạ.",
+        f"Em xác nhận phí ship đơn này là {fee:,}đ ạ.",
+        f"Dạ phí vận chuyển hiện tại là {fee:,}đ ạ.",
+    ]
+    return random.choice(variants)
+
+
+# Complaint priority sentence (must be used first)
+TEMPLATE_FEE_COMPLAINT_PRIORITY = (
+    "Dạ em hiểu ạ, phí ship hiện tại là do bên vận chuyển quy định chung. Nhưng chị yên tâm, hàng bên em chất lượng chuẩn xưởng, chị nhận được sẽ thấy xứng đáng ạ."
+)
+
+
+def render_fee_complaint() -> str:
+    return TEMPLATE_FEE_COMPLAINT_PRIORITY
+
+
+def render_cancel_threat_save() -> str:
+    variants = [
+        "Dạ em xin lỗi vì bất tiện ạ. Em hỗ trợ ưu đãi phí ship để mình yên tâm nha, mình cho em địa chỉ để em áp mức tốt nhất ạ?",
+        "Đừng vội ạ, em hỗ trợ giảm phí ship cho đơn này để mình trải nghiệm trước nha?",
+    ]
+    return random.choice(variants)
+
+
+TEMPLATE_TAG_AGENT = (
+    "Dạ để em nhờ nhân viên bên em hỗ trợ trực tiếp phí ship cho mình nhanh nhất ạ."
+)
 
 
