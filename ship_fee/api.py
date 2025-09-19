@@ -60,8 +60,15 @@ def create_app() -> FastAPI:
     @app.post("/api/v1/ship-fee/reset")
     def reset_counter(req: ResetRequest):
         conv_id = req.conversation_id or get_default_conversation_id()
-        key = f"shipfee:{conv_id}"
-        CounterStore().reset(key)
+        base_key = f"shipfee:{conv_id}"
+        tagged_key = f"{base_key}:tagged"
+        store = CounterStore()
+        store.reset(base_key)
+        # Clear the tagAgent flag as well
+        try:
+            store.set_flag(tagged_key, False)
+        except Exception:
+            pass
         return {"ok": True}
 
     # Proxy: get orders by conversation
